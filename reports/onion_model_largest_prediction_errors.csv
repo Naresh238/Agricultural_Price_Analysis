@@ -1,0 +1,26 @@
+State,District,Market,Variety,Grade,Arrival_Date,Actual_Price,Predicted_Price,Residual,Absolute_Error,Model
+Maharashtra,Thane,Kalyan,1st Sort,Local,2025-10-04,1250.0,11000.0,-9750.0,9750.0,Previous Price Baseline
+Maharashtra,Thane,Kalyan,1st Sort,Local,2025-10-04,1250.0,5856.23816020585,-4606.23816020585,4606.23816020585,Linear Regression
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-19,1500.0,6000.0,-4500.0,4500.0,Previous Price Baseline
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-11,6000.0,1500.0,4500.0,4500.0,Previous Price Baseline
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-10,1500.0,6000.0,-4500.0,4500.0,Previous Price Baseline
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-09,6000.0,1500.0,4500.0,4500.0,Previous Price Baseline
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,2025-10-04,6200.0,2200.0,4000.0,4000.0,Previous Price Baseline
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,2025-10-04,6200.0,2340.156754340189,3859.843245659811,3859.843245659811,Random Forest
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-19,1500.0,5356.341195147348,-3856.341195147348,3856.341195147348,Gradient Boosting
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-19,1500.0,5316.097455604429,-3816.0974556044293,3816.0974556044293,Linear Regression
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-10,1500.0,5300.63134765625,-3800.63134765625,3800.63134765625,XGBoost
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-19,1500.0,5260.35009765625,-3760.35009765625,3760.35009765625,XGBoost
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,2025-10-04,6200.0,2450.043212890625,3749.956787109375,3749.956787109375,XGBoost
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,2025-10-04,6200.0,2467.938638107695,3732.061361892305,3732.061361892305,Gradient Boosting
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-19,1500.0,5160.386892618293,-3660.386892618293,3660.386892618293,Random Forest
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,2025-10-04,6200.0,2566.3492505124796,3633.6507494875204,3633.6507494875204,Linear Regression
+Kerala,Palakad,Palakkad,Small,FAQ,2025-10-25,7500.0,3886.951416015625,3613.048583984375,3613.048583984375,XGBoost
+Kerala,Kottayam,Kottayam,Big,FAQ,2025-10-17,5800.0,2192.612692914186,3607.387307085814,3607.387307085814,Gradient Boosting
+Kerala,Kottayam,Kottayam,Big,FAQ,2025-10-17,5800.0,2196.30419921875,3603.69580078125,3603.69580078125,XGBoost
+Kerala,Kottayam,Kottayam,Big,FAQ,2025-10-18,2200.0,5800.0,-3600.0,3600.0,Previous Price Baseline
+Kerala,Kottayam,Kottayam,Big,FAQ,2025-10-17,5800.0,2200.0,3600.0,3600.0,Previous Price Baseline
+Kerala,Kottayam,Kottayam,Big,FAQ,2025-10-17,5800.0,2201.881614495803,3598.118385504197,3598.118385504197,Random Forest
+Kerala,Kottayam,Kottayam,Big,FAQ,2025-10-17,5800.0,2241.741704199666,3558.258295800334,3558.258295800334,Linear Regression
+Punjab,Fatehgarh,Khamano,Onion,FAQ,2025-10-27,1500.0,5005.3857421875,-3505.3857421875,3505.3857421875,XGBoost
+Maharashtra,Thane,Kalyan,1st Sort,Local,2025-10-29,1650.0,5011.525390625,-3361.525390625,3361.525390625,XGBoost

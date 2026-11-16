@@ -1,0 +1,2 @@
+Market_Series,Test_Records,Weighted_MAE_Improvement,Mean_Market_Improvement,Median_Market_Improvement,Bootstrap_95_Lower,Bootstrap_95_Upper,Bootstrap_Iterations,Conclusion
+751,12978,0.6133467493461665,0.8292445866822347,0.0,-1.7306220495475582,2.6022288908281324,10000,The bootstrap interval includes zero. The improvement is not clearly distinguishable from zero.

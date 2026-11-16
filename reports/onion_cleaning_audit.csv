@@ -1,0 +1,6 @@
+Cleaning_Step,Record_Count
+Original records,241273
+Exact duplicates removed,89
+Records after duplicate removal,241184
+Invalid price-range records removed,30
+Final cleaned records,241154

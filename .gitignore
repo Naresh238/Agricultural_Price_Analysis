@@ -1,0 +1,69 @@
+﻿# Python environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Large source and generated datasets
+data/raw/*
+data/external/*
+data/processed/*.csv
+data/processed/*.parquet
+/agricultural_prices_latest.csv
+
+# Large trained model files
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pt
+models/*.onnx
+
+# Generated outputs and logs
+outputs/
+*.log
+
+# Executed notebooks and temporary files
+*_executed.ipynb
+requirements_backup*.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore trained model binaries in all subdirectories
+models/**/*.pkl
+models/**/*.joblib
+models/**/*.h5
+models/**/*.pt
+models/**/*.onnx
+
+# Local backups and temporary project files
+notebooks/*backup*.ipynb
+notebooks/*before*.ipynb
+streamlit_app/*backup*.py
+project_structure.txt
+
+/Data_Preprocessing_and_EDA.ipynb
+
+# Old chart-generation helper scripts
+/check_dashboard4.py
+/create_chart7.py
+/create_chart7_top20.py
+/create_dashboard4_charts.py
+/fix_chart7.py
+
+
+# Tableau temporary checkpoint files
+/tableau/data/.ipynb_checkpoints/

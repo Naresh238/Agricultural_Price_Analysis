@@ -1,0 +1,16 @@
+Original_Feature,Importance
+Lag_1,0.40301064
+Rolling_Mean_7,0.17383334
+Market,0.17214076
+District,0.13965428
+State,0.037620433
+Variety,0.027487347
+Lag_2,0.02395332
+Grade,0.006513492
+Rolling_Mean_30,0.003306698
+DayOfYear,0.0025976333
+Previous_Price_Change,0.0022248004
+Day,0.0020702186
+Quarter,0.0019884252
+DayOfWeek,0.0018431342
+Month,0.0017554174

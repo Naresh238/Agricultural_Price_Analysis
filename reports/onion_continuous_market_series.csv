@@ -1,0 +1,890 @@
+State,District,Market,Variety,Grade,Total_Records,Records_2026,Largest_Continuous_Segment,First_Date,Last_Date,Maximum_Gap_Days
+West Bengal,Hooghly,Kalipur,Nasik,FAQ,300,0,300,2025-01-01,2025-11-05,3
+Uttar Pradesh,Sambhal,Sambhal,Red,FAQ,299,0,299,2025-01-01,2025-11-05,5
+West Bengal,Darjeeling,Karsiyang (Matigara),Other,FAQ,297,0,297,2025-01-01,2025-11-05,3
+West Bengal,Sounth 24 Parganas,Baruipur (Canning),Other,FAQ,296,0,296,2025-01-02,2025-11-05,4
+Uttar Pradesh,Pillibhit,Pilibhit,Red,FAQ,293,0,293,2025-01-01,2025-11-04,4
+West Bengal,Paschim Bardhaman,Asansol,Nasik,FAQ,293,0,293,2025-01-01,2025-11-05,7
+West Bengal,Hooghly,Champadanga,Nasik,FAQ,297,0,292,2025-01-01,2025-11-05,10
+Uttar Pradesh,Raebarelli,Raibareilly,Red,FAQ,292,0,292,2025-01-01,2025-11-05,7
+Uttar Pradesh,Prayagraj,Ajuha,Red,FAQ,291,0,291,2025-01-01,2025-11-05,6
+Uttar Pradesh,Shahjahanpur,Puwaha,Red,FAQ,292,0,290,2025-01-01,2025-11-05,10
+Uttar Pradesh,Shahjahanpur,Tilhar,Red,FAQ,290,0,290,2025-01-01,2025-11-04,7
+West Bengal,Birbhum,Birbhum,Other,FAQ,290,0,290,2025-01-01,2025-11-05,5
+West Bengal,Birbhum,Bolpur,Onion,FAQ,290,0,290,2025-01-01,2025-11-05,5
+West Bengal,Darjeeling,Siliguri,Other,FAQ,291,0,289,2025-01-01,2025-11-05,8
+Kerala,Kannur,Thalasserry,1st Sort,FAQ,289,0,289,2025-01-01,2025-11-05,4
+Uttar Pradesh,Amethi,Sultanpur,Red,FAQ,289,0,289,2025-01-01,2025-11-05,3
+Uttar Pradesh,Bulandshahar,Gulavati,Red,FAQ,289,0,289,2025-01-02,2025-11-05,4
+Uttar Pradesh,Rampur,Rampur,Red,FAQ,289,0,289,2025-01-01,2025-11-02,4
+West Bengal,North 24 Parganas,Barasat,Other,FAQ,289,0,289,2025-01-02,2025-11-05,6
+West Bengal,North 24 Parganas,Habra,Other,FAQ,290,0,288,2025-01-01,2025-11-05,10
+Uttar Pradesh,Balrampur,Tulsipur,Red,FAQ,288,0,288,2025-01-01,2025-11-05,6
+Uttar Pradesh,Sitapur,Sitapur,Red,FAQ,288,0,288,2025-01-01,2025-11-05,5
+West Bengal,Howrah,Ramkrishanpur (Howrah),Other,FAQ,288,0,288,2025-01-01,2025-11-05,7
+Odisha,Bargarh,Bargarh (Barapalli),Other,FAQ,287,0,287,2025-01-01,2025-11-03,3
+Uttar Pradesh,Pillibhit,Puranpur,Red,FAQ,287,0,287,2025-01-01,2025-11-05,6
+Uttrakhand,Haridwar,Roorkee,Other,FAQ,287,0,287,2025-01-01,2025-11-05,5
+Uttar Pradesh,Bulandshahar,Anoop Shahar,Red,FAQ,285,0,285,2025-01-02,2025-11-05,5
+Uttar Pradesh,Hardoi,Hardoi,Pusa-Red,FAQ,285,0,285,2025-01-01,2025-11-05,5
+West Bengal,Purba Bardhaman,Kalna,Other,FAQ,285,0,285,2025-01-01,2025-11-05,5
+Madhya Pradesh,Shajapur,Kalapipal (F&V),Onion,FAQ,284,0,284,2025-01-02,2025-11-05,6
+Uttar Pradesh,Bahraich,Bahraich,Red,FAQ,284,0,284,2025-01-01,2025-11-03,4
+Uttar Pradesh,Agra,Agra,Red,FAQ,284,0,283,2025-01-01,2025-11-04,8
+Uttar Pradesh,Lucknow,Lucknow,Red,FAQ,284,0,283,2025-01-01,2025-10-26,8
+Uttar Pradesh,Farukhabad,Farukhabad,Red,FAQ,283,0,283,2025-01-01,2025-11-05,4
+Uttar Pradesh,Shamli,Shamli,Red,FAQ,283,0,283,2025-01-01,2025-11-04,6
+Uttar Pradesh,Unnao,Bangarmau,Red,FAQ,283,0,283,2025-01-01,2025-11-01,7
+Kerala,Alappuzha,Kayamkulam,Big,FAQ,281,0,281,2025-01-02,2025-11-05,6
+Kerala,Alappuzha,Kayamkulam,Small,FAQ,281,0,281,2025-01-02,2025-11-05,6
+Uttar Pradesh,Hardoi,Sandila,Red,FAQ,281,0,281,2025-01-01,2025-11-01,5
+West Bengal,Nadia,Karimpur,Nasik,FAQ,281,0,281,2025-01-02,2025-11-05,6
+Tamil Nadu,Thirunelveli,Palayamkottai (Uzhavar Sandhai ),Bellary,Local,283,3,280,2025-01-01,2026-04-18,163
+Uttar Pradesh,Lakhimpur,Lakhimpur,Red,FAQ,284,0,279,2025-01-01,2025-11-04,8
+Uttar Pradesh,Hardoi,Madhoganj,Red,FAQ,281,0,279,2025-01-01,2025-11-03,10
+Uttar Pradesh,Fatehpur,Fatehpur,Red,FAQ,280,0,279,2025-01-01,2025-11-05,8
+West Bengal,Birbhum,Sainthia,Onion,FAQ,280,0,279,2025-01-02,2025-11-05,11
+Uttar Pradesh,Hathras,Shadabad,Red,FAQ,283,0,278,2025-01-02,2025-11-06,9
+Uttar Pradesh,Kannuj,Chhibramau,Red,FAQ,282,0,278,2025-01-01,2025-11-02,8
+Haryana,Hissar,Uklana,Onion,FAQ,278,0,278,2025-01-01,2025-11-05,4
+Kerala,Kannur,Kannur,Other,FAQ,278,0,278,2025-01-02,2025-11-05,6
+Punjab,Tarntaran,Patti,Other,FAQ,278,0,278,2025-01-01,2025-11-05,7
+Uttar Pradesh,Aligarh,Aligarh,Red,FAQ,278,0,278,2025-01-01,2025-11-04,4
+West Bengal,Puruliya,Purulia,Other,FAQ,284,0,277,2025-01-01,2025-11-05,8
+Tamil Nadu,Salem,Athur (Uzhavar Sandhai ),Bellary,Local,282,5,277,2025-01-01,2026-04-20,158
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Bellary,Local,282,5,277,2025-01-01,2026-04-19,157
+Tamil Nadu,Thiruchirappalli,Musiri (Uzhavar Sandhai ),Bellary,Local,281,4,277,2025-01-01,2026-04-16,160
+Tamil Nadu,Villupuram,Tindivanam,Bellary,Local,277,0,277,2025-01-01,2025-11-03,7
+Uttar Pradesh,Gonda,Nawabganj,Red,FAQ,277,0,277,2025-01-01,2025-11-01,6
+Uttar Pradesh,Pratapgarh,Pratapgarh,Red,FAQ,277,0,277,2025-01-02,2025-11-02,7
+Tamil Nadu,Virudhunagar,Sathur (Uzhavar Sandhai ),Bellary,Local,282,6,276,2025-01-01,2026-04-19,157
+Tamil Nadu,Namakkal,Mohanur (Uzhavar Sandhai ),Bellary,Local,281,5,276,2025-01-01,2026-04-18,158
+Tamil Nadu,Thiruvellore,Paruthipattu (Uzhavar Sandhai ),Bellary,Local,281,5,276,2025-01-01,2026-04-16,158
+Uttar Pradesh,Agra,Achnera,Red,FAQ,280,0,276,2025-01-01,2025-11-01,10
+Uttar Pradesh,Gonda,Gonda,Red,FAQ,279,0,276,2025-01-02,2025-11-05,9
+Gujarat,Dahod,Dahod (Veg. Market),Onion,FAQ,276,0,276,2025-01-01,2025-11-04,5
+Gujarat,Navsari,Bilimora,Nasik,FAQ,276,0,276,2025-01-01,2025-11-05,5
+Kerala,Palakad,Koduvayoor,Small,FAQ,276,0,276,2025-01-02,2025-11-05,6
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,FAQ,276,0,276,2025-01-02,2025-11-05,4
+Uttar Pradesh,Auraiya,Auraiya,Red,FAQ,276,0,276,2025-01-01,2025-11-04,7
+Uttar Pradesh,Ayodhya,Faizabad,Red,FAQ,276,0,276,2025-01-01,2025-11-02,7
+Uttar Pradesh,Chitrakut,Karvi,Red,FAQ,276,0,276,2025-01-01,2025-11-02,5
+Tamil Nadu,Erode,Perundurai (Uzhavar Sandhai ),Bellary,Local,280,5,275,2025-01-01,2026-04-20,156
+Tamil Nadu,Perambalur,Perambalur (Uzhavar Sandhai ),Bellary,Local,280,5,275,2025-01-01,2026-04-19,158
+Uttar Pradesh,Firozabad,Firozabad,Red,FAQ,280,0,275,2025-01-01,2025-11-04,8
+Tamil Nadu,Virudhunagar,Srivilliputhur (Uzhavar Sandhai ),Bellary,Local,279,4,275,2025-01-01,2026-04-19,159
+Tamil Nadu,Dindigul,Chinnalapatti (Uzhavar Sandhai ),Bellary,Local,278,3,275,2025-01-01,2026-04-14,159
+Tamil Nadu,Namakkal,Namakkal (Uzhavar Sandhai ),Bellary,Local,278,3,275,2025-01-01,2026-04-15,159
+Uttar Pradesh,Mainpuri,Mainpuri,Red,FAQ,278,0,275,2025-01-01,2025-11-03,8
+Uttar Pradesh,Etah,Etah,Red,FAQ,277,0,275,2025-01-01,2025-11-02,8
+Kerala,Palakad,Koduvayoor,Big,FAQ,275,0,275,2025-01-02,2025-11-05,5
+Tamil Nadu,Pudukkottai,Gandarvakottai (Uzhavar Sandhai ),Bellary,Local,279,5,274,2025-01-01,2026-04-19,161
+Tamil Nadu,Sivaganga,Singampunari (Uzhavar Sandhai ),Bellary,Local,279,5,274,2025-01-01,2026-04-16,156
+Tamil Nadu,Thirupathur,Vaniyampadi (Uzhavar Sandhai ),Bellary,Local,279,5,274,2025-01-01,2026-04-20,157
+Tamil Nadu,Namakkal,Kumarapalayam (Uzhavar Sandhai ),Bellary,Local,278,4,274,2025-01-01,2026-04-19,157
+West Bengal,Medinipur (W),Medinipur (West),Onion,FAQ,278,0,274,2025-01-01,2025-11-03,10
+Tamil Nadu,Chengalpattu,Jameenrayapettai (Uzhavar Sandhai ),Bellary,Local,277,3,274,2025-01-01,2026-04-17,158
+Tamil Nadu,Erode,Sathiyamagalam (Uzhavar Sandhai ),Bellary,Local,277,3,274,2025-01-01,2026-04-18,156
+Tamil Nadu,Madurai,Palanganatham (Uzhavar Sandhai ),Bellary,Local,277,3,274,2025-01-01,2026-04-19,159
+Tamil Nadu,Salem,Sooramangalam (Uzhavar Sandhai ),Bellary,Local,277,3,274,2025-01-01,2026-04-18,158
+Tamil Nadu,Thiruchirappalli,Lalgudi (Uzhavar Sandhai ),Bellary,Local,277,3,274,2025-01-01,2026-04-15,160
+Tamil Nadu,Dindigul,Palani (Uzhavar Sandhai ),Bellary,Local,276,2,274,2025-01-01,2026-04-13,158
+Tamil Nadu,Vellore,Thirupathur,Bellary,Local,274,0,274,2025-01-01,2025-10-31,3
+Uttar Pradesh,Saharanpur,Saharanpur,Red,FAQ,274,0,274,2025-01-01,2025-11-03,6
+West Bengal,Purba Bardhaman,Katwa,Other,FAQ,274,0,274,2025-01-01,2025-11-05,4
+Tamil Nadu,Dharmapuri,Palacode (Uzhavar Sandhai ),Bellary,Local,283,4,273,2025-01-01,2026-04-19,157
+Tamil Nadu,Dindigul,Vedasanthur (Uzhavar Sandhai ),Bellary,Local,281,8,273,2025-01-01,2026-04-20,156
+Tamil Nadu,Thanjavur,Papanasam (Uzhavar Sandhai ),Bellary,Local,280,7,273,2025-01-01,2026-04-20,159
+Tamil Nadu,Thiruchirappalli,Manapparai (Uzhavar Sandhai ),Bellary,Local,279,6,273,2025-01-01,2026-04-19,160
+Tamil Nadu,Coimbatore,Pollachi (Uzhavar Sandhai ),Bellary,Local,278,5,273,2025-01-01,2026-04-19,157
+Tamil Nadu,Krishnagiri,Avallapalli (Uzhavar Sandhai ),Bellary,Local,278,5,273,2025-01-01,2026-04-19,161
+Tamil Nadu,Krishnagiri,Hosur (Uzhavar Sandhai ),Bellary,Local,278,5,273,2025-01-01,2026-04-19,159
+Odisha,Bargarh,Bargarh,Other,FAQ,277,0,273,2025-01-01,2025-11-03,10
+Tamil Nadu,Tenkasi,Sankarankoil (Uzhavar Sandhai ),Bellary,Local,277,4,273,2025-01-01,2026-04-16,164
+Tamil Nadu,Thirunelveli,NGO Colony (Uzhavar Sandhai ),Bellary,Local,277,4,273,2025-01-01,2026-04-19,159
+Tamil Nadu,Thiruvannamalai,Chengam (Uzhavar Sandhai ),Bellary,Local,276,3,273,2025-01-01,2026-04-19,162
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Bellary,Local,274,1,273,2025-01-01,2026-04-15,166
+Tamil Nadu,Karur,Velayuthampalayam (Uzhavar Sandhai ),Bellary,Local,273,0,273,2025-01-01,2025-11-03,5
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Bellary,Local,273,0,273,2025-01-01,2025-11-02,3
+Uttar Pradesh,Balrampur,Balrampur,Red,FAQ,273,0,273,2025-01-02,2025-11-04,5
+Uttar Pradesh,Raebarelli,Bachranwa,Red,FAQ,273,0,273,2025-01-01,2025-11-02,4
+Tamil Nadu,Cuddalore,Chidambaram (Uzhavar Sandhai ),Bellary,Local,279,7,272,2025-01-01,2026-04-19,161
+Tamil Nadu,Kallakuruchi,Kallakurichi (Uzhavar Sandhai ),Bellary,Local,278,6,272,2025-01-01,2026-04-19,160
+Tamil Nadu,Kancheepuram,Kundrathur (Uzhavar Sandhai ),Bellary,Local,278,6,272,2025-01-01,2026-04-20,163
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Bellary,Local,278,6,272,2025-01-01,2026-04-20,158
+Tamil Nadu,The Nilgiris,Gudalur (Uzhavar Sandhai ),Bellary,Local,278,6,272,2025-01-01,2026-04-20,158
+Tamil Nadu,Coimbatore,Sundarapuram (Uzhavar Sandhai ),Bellary,Local,277,5,272,2025-01-01,2026-04-18,158
+Tamil Nadu,Namakkal,Paramathivelur (Uzhavar Sandhai ),Bellary,Local,277,5,272,2025-01-01,2026-04-17,158
+Tamil Nadu,Ranipet,Ranipettai (Uzhavar Sandhai ),Bellary,Local,277,5,272,2025-01-01,2026-04-20,159
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Bellary,Local,277,5,272,2025-01-01,2026-04-19,157
+Tamil Nadu,Theni,Bodinayakanur (Uzhavar Sandhai ),Bellary,Local,277,5,272,2025-01-01,2026-04-18,157
+Tamil Nadu,Thiruvannamalai,Arani (Uzhavar Sandhai ),Bellary,Local,277,5,272,2025-01-01,2026-04-17,160
+Tamil Nadu,Krishnagiri,Krishnagiri (Uzhavar Sandhai ),Bellary,Local,276,4,272,2025-01-01,2026-04-17,156
+Tamil Nadu,Madurai,Chokkikulam (Uzhavar Sandhai ),Bellary,Local,276,4,272,2025-01-01,2026-04-19,158
+Tamil Nadu,Thiruchirappalli,Manachanallur (Uzhavar Sandhai ),Bellary,Local,276,4,272,2025-01-01,2026-04-18,160
+Tamil Nadu,Chengalpattu,Pallavaram (Uzhavar Sandhai ),Bellary,Local,275,3,272,2025-01-01,2026-04-14,160
+Tamil Nadu,Salem,Hasthampatti (Uzhavar Sandhai ),Bellary,Local,275,3,272,2025-01-01,2026-04-19,158
+Tamil Nadu,Ariyalur,Ariyalur (Uzhavar Sandhai),Bellary,Local,274,2,272,2025-01-01,2026-04-17,166
+Tamil Nadu,Namakkal,Tiruchengode,Bellary,Local,272,0,272,2025-01-01,2025-11-01,7
+Tamil Nadu,Vellore,Vellore,Bellary,Local,272,0,272,2025-01-01,2025-11-04,5
+Uttar Pradesh,Etawah,Etawah,Red,FAQ,272,0,272,2025-01-01,2025-11-02,6
+Tamil Nadu,Krishnagiri,Kaveripattinam (Uzhavar Sandhai ),Bellary,Local,279,5,271,2025-01-01,2026-04-19,157
+Tamil Nadu,Virudhunagar,Virudhunagar (Uzhavar Sandhai ),Bellary,Local,277,6,271,2025-01-01,2026-04-20,161
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi (Uzhavar Sandhai ),Bellary,Local,276,5,271,2025-01-01,2026-04-17,161
+Tamil Nadu,Thanjavur,Thanjavur (Uzhavar Sandhai ),Bellary,Local,276,5,271,2025-01-01,2026-04-19,160
+Tamil Nadu,Kallakuruchi,Sankarapuram (Uzhavar Sandhai ),Bellary,Local,275,4,271,2025-01-01,2026-04-15,159
+Tamil Nadu,Nagapattinam,Mayiladuthurai (Uzhavar Sandhai ),Bellary,Local,275,4,271,2025-01-01,2026-04-17,157
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ),Bellary,Local,275,4,271,2025-01-01,2026-04-19,157
+Tamil Nadu,Thirupathur,Natrampalli (Uzhavar Sandhai ),Bellary,Local,275,4,271,2025-01-01,2026-04-17,163
+Tamil Nadu,Thirupur,Kangayam (Uzhavar Sandhai ),Bellary,Local,275,3,271,2025-01-01,2026-04-19,156
+Tamil Nadu,Thiruvellore,Ambattur (Uzhavar Sandhai ),Bellary,Local,275,4,271,2025-01-01,2026-04-19,158
+Tamil Nadu,Vellore,Kahithapattarai (Uzhavar Sandhai ),Bellary,Local,275,4,271,2025-01-01,2026-04-17,160
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ),Bellary,Local,274,3,271,2025-01-01,2026-04-16,160
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ),Bellary,Local,274,3,271,2025-01-01,2026-04-19,162
+Uttar Pradesh,Sambhal,Muradabad,Red,FAQ,274,0,271,2025-01-01,2025-11-02,8
+Tamil Nadu,Chengalpattu,Nanganallur (Uzhavar Sandhai ),Bellary,Local,273,2,271,2025-01-01,2026-04-12,157
+Tamil Nadu,Karur,Kulithalai (Uzhavar Sandhai ),Bellary,Local,273,2,271,2025-01-01,2026-04-17,158
+West Bengal,Nadia,Kalyani,Onion,FAQ,273,0,271,2025-01-01,2025-11-03,13
+Tamil Nadu,Pudukkottai,Viralimalai (Uzhavar Sandhai ),Bellary,Local,272,1,271,2025-01-01,2026-04-18,168
+Haryana,Panchkula,Barwala,Onion,FAQ,271,0,271,2025-01-02,2025-11-03,7
+Tamil Nadu,Madurai,Usilampatty,Bellary,Local,271,0,271,2025-01-01,2025-10-30,6
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri,Bellary,Local,271,0,271,2025-01-01,2025-11-04,5
+Tamil Nadu,Villupuram,Ulundurpettai,Bellary,Local,271,0,271,2025-01-01,2025-11-04,5
+Uttar Pradesh,Baghpat,Baraut,Red,FAQ,271,0,271,2025-01-02,2025-11-05,7
+Tamil Nadu,Dharmapuri,AJattihalli (Uzhavar Sandhai ),Bellary,Local,278,8,270,2025-01-01,2026-04-20,159
+Tamil Nadu,Salem,Thathakapatti (Uzhavar Sandhai ),Bellary,Local,278,6,270,2025-01-01,2026-04-20,162
+Tamil Nadu,Thirunelveli,Melapalayam (Uzhavar Sandhai ),Bellary,Local,277,7,270,2025-01-01,2026-04-19,159
+Tamil Nadu,Thiruvellore,Naravarikuppam (Uzhavar Sandhai ),Bellary,Local,277,5,270,2025-01-01,2026-04-19,162
+Tamil Nadu,Madurai,Melur (Uzhavar Sandhai ),Bellary,Local,276,6,270,2025-01-01,2026-04-20,156
+Tamil Nadu,Salem,Attayampatti (Uzhavar Sandhai ),Bellary,Local,276,6,270,2025-01-01,2026-04-18,161
+Tamil Nadu,Dindigul,Dindigul (Uzhavar Sandhai ),Bellary,Local,275,5,270,2025-01-01,2026-04-19,157
+Tamil Nadu,Tenkasi,Tenkasi (Uzhavar Sandhai ),Bellary,Local,275,5,270,2025-01-01,2026-04-20,166
+Tamil Nadu,Coimbatore,RSPuram (Uzhavar Sandhai ),Bellary,Local,274,4,270,2025-01-01,2026-04-19,159
+Tamil Nadu,Ramanathapuram,Paramakudi (Uzhavar Sandhai ),Bellary,Local,274,4,270,2025-01-01,2026-04-17,159
+Tamil Nadu,Virudhunagar,Sivakasi (Uzhavar Sandhai ),Bellary,Local,274,4,270,2025-01-01,2026-04-20,159
+Tamil Nadu,Theni,Kambam (Uzhavar Sandhai ),Bellary,Local,273,3,270,2025-01-01,2026-04-20,173
+Tamil Nadu,Thiruvarur,Mannargudi I (Uzhavar Sandhai ),Bellary,Local,273,3,270,2025-01-01,2026-04-20,163
+Tamil Nadu,Pudukkottai,Pudukottai (Uzhavar Sandhai ),Bellary,Local,271,1,270,2025-01-01,2026-04-14,162
+Tamil Nadu,Thiruvarur,Tiruvarur (Uzhavar Sandhai ),Bellary,Local,271,1,270,2025-01-01,2026-04-14,163
+West Bengal,Howrah,Uluberia,Other,FAQ,271,0,270,2025-01-01,2025-11-04,8
+Tamil Nadu,Cuddalore,Cuddalore (Uzhavar Sandhai ),Bellary,Local,270,0,270,2025-01-01,2025-10-29,5
+Tamil Nadu,Thiruvarur,Valangaiman,Bellary,Local,270,0,270,2025-01-01,2025-11-04,7
+Tamil Nadu,Villupuram,Gingee (Uzhavar Sandhai ),Bellary,Local,270,0,270,2025-01-01,2025-10-27,3
+Uttar Pradesh,Aligarh,Charra,Red,FAQ,270,0,270,2025-01-01,2025-11-05,6
+Uttar Pradesh,Lalitpur,Lalitpur,Red,FAQ,270,0,270,2025-01-01,2025-11-04,6
+West Bengal,Bankura,Bishnupur (Bankura),Nasik,Non-FAQ,270,0,270,2025-01-20,2025-11-05,4
+Tamil Nadu,Dharmapuri,Dharmapuri (Uzhavar Sandhai ),Bellary,Local,274,5,269,2025-01-01,2026-04-19,164
+Tamil Nadu,Krishnagiri,Denkanikottai (Uzhavar Sandhai ),Bellary,Local,274,5,269,2025-01-01,2026-04-18,160
+Tamil Nadu,Namakkal,Rasipuram (Uzhavar Sandhai ),Bellary,Local,274,5,269,2025-01-01,2026-04-20,163
+Tamil Nadu,Thirupur,Dharapuram (Uzhavar Sandhai ),Bellary,Local,274,5,269,2025-01-01,2026-04-20,159
+Tamil Nadu,Salem,Ammapet (Uzhavar Sandhai ),Bellary,Local,273,4,269,2025-01-01,2026-04-20,157
+Tamil Nadu,The Nilgiris,Udhagamandalam (Uzhavar Sandhai ),Bellary,Local,272,3,269,2025-01-01,2026-04-20,165
+Tamil Nadu,Thiruvannamalai,Cheyyar (Uzhavar Sandhai ),Bellary,Local,272,3,269,2025-01-01,2026-04-19,165
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Bellary,Local,272,3,269,2025-01-01,2026-04-18,159
+Tamil Nadu,Salem,Elampillai (Uzhavar Sandhai ),Bellary,Local,271,2,269,2025-01-01,2026-04-20,166
+Tamil Nadu,Thiruvellore,Perambakkam (Uzhavar Sandhai ),Bellary,Local,271,2,269,2025-01-01,2026-04-15,159
+Tamil Nadu,Virudhunagar,Aruppukottai (Uzhavar Sandhai ),Bellary,Local,271,2,269,2025-01-01,2026-04-16,159
+Uttar Pradesh,Kannuj,Kannauj,Red,FAQ,269,0,269,2025-01-01,2025-11-03,4
+Tamil Nadu,Virudhunagar,Kariyapatti (Uzhavar Sandhai ),Bellary,Local,280,6,268,2025-01-01,2026-04-20,156
+Tamil Nadu,Dharmapuri,Harur (Uzhavar Sandhai ),Bellary,Local,276,8,268,2025-01-04,2026-04-19,157
+Tamil Nadu,Dharmapuri,Pennagaram (Uzhavar Sandhai ),Bellary,Local,275,6,268,2025-01-01,2026-04-18,161
+Tamil Nadu,Thiruvarur,Mannargudi II (Uzhavar Sandhai ),Bellary,Local,275,7,268,2025-01-01,2026-04-19,158
+Tamil Nadu,Thiruvellore,Tiruvallur (Uzhavar Sandhai ),Bellary,Local,275,7,268,2025-01-01,2026-04-18,157
+Tamil Nadu,Erode,Gobichettipalayam (Uzhavar Sandhai ),Bellary,Local,274,6,268,2025-01-01,2026-04-17,157
+Tamil Nadu,Sivaganga,Karaikudi (Uzhavar Sandhai ),Bellary,Local,274,4,268,2025-01-01,2026-04-19,160
+Tamil Nadu,Theni,Devaram (Uzhavar Sandhai ),Bellary,Local,274,6,268,2025-01-01,2026-04-20,156
+Tamil Nadu,Erode,Thalavadi (Uzhavar Sandhai ),Bellary,Local,273,5,268,2025-01-01,2026-04-20,160
+Tamil Nadu,Kancheepuram,Padappai (Uzhavar Sandhai ),Bellary,Local,273,5,268,2025-01-01,2026-04-19,164
+Tamil Nadu,The Nilgiris,Coonoor (Uzhavar Sandhai ),Bellary,Local,273,5,268,2025-01-01,2026-04-19,158
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ),Bellary,Local,273,5,268,2025-01-01,2026-04-20,168
+Tamil Nadu,Madurai,Anna nagar (Uzhavar Sandhai ),Bellary,Local,272,4,268,2025-01-01,2026-04-18,157
+Uttar Pradesh,Pillibhit,Vishalpur,Red,FAQ,272,0,268,2025-01-01,2025-11-05,8
+Tamil Nadu,Pudukkottai,Aranthangi (Uzhavar Sandhai ),Bellary,Local,271,3,268,2025-01-01,2026-04-18,158
+Tamil Nadu,Theni,Andipatti (Uzhavar Sandhai ),Bellary,Local,271,3,268,2025-01-01,2026-04-15,162
+Tamil Nadu,Thanjavur,Pattukottai (Uzhavar Sandhai ),Bellary,Local,270,2,268,2025-01-01,2026-04-15,162
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai (Uzhavar Sandhai ),Bellary,Local,269,1,268,2025-01-01,2026-04-10,158
+Kerala,Kannur,Taliparamba,Onion,FAQ,268,0,268,2025-01-02,2025-11-05,6
+Odisha,Dhenkanal,Hindol,Other,Non-FAQ,268,0,268,2025-01-19,2025-11-05,4
+Tamil Nadu,Coimbatore,Udumalpet,Bellary,Local,268,0,268,2025-01-01,2025-11-03,5
+West Bengal,Jalpaiguri,Dhupguri,Nasik,FAQ,268,0,268,2025-01-01,2025-10-31,5
+Tamil Nadu,Salem,Mettur (Uzhavar Sandhai ),Bellary,Local,280,8,267,2025-01-01,2026-04-19,156
+Tamil Nadu,Cuddalore,Panruti (Uzhavar Sandhai ),Bellary,Local,275,5,267,2025-01-01,2026-04-18,159
+Tamil Nadu,Karur,Karur (Uzhavar Sandhai ),Bellary,Local,275,3,267,2025-01-01,2026-04-19,159
+Tamil Nadu,Salem,Jalagandapuram (Uzhavar Sandhai ),Bellary,Local,275,4,267,2025-01-01,2026-04-18,160
+Tamil Nadu,Theni,Theni (Uzhavar Sandhai ),Bellary,Local,275,8,267,2025-01-01,2026-04-19,156
+Uttar Pradesh,Maharajganj,Gadaura,Red,FAQ,273,0,267,2025-01-01,2025-11-04,9
+Tamil Nadu,Vellore,Gudiyatham (Uzhavar Sandhai ),Bellary,Local,272,5,267,2025-01-01,2026-04-19,160
+Tamil Nadu,Virudhunagar,Rajapalayam (Uzhavar Sandhai ),Bellary,Local,272,5,267,2025-01-01,2026-04-19,162
+Tamil Nadu,Tuticorin,Kovilpatti (Uzhavar Sandhai ),Bellary,Local,271,4,267,2025-01-01,2026-04-20,164
+Haryana,Gurgaon,Gurgaon,Other,FAQ,269,0,267,2025-01-01,2025-11-05,12
+Tamil Nadu,Madurai,Anaiyur (Uzhavar Sandhai ),Bellary,Local,269,1,267,2025-01-01,2026-04-17,167
+Tamil Nadu,Sivaganga,Tirupatthur (Uzhavar Sandhai ),Bellary,Local,268,1,267,2025-01-01,2026-04-17,165
+Goa,North Goa,Mapusa,Onion,FAQ,267,0,267,2025-01-03,2025-11-05,6
+Tamil Nadu,Coimbatore,Vadavalli (Uzhavar Sandhai ),Bellary,Local,275,4,266,2025-01-01,2026-04-17,158
+Tamil Nadu,Coimbatore,Singanallur (Uzhavar Sandhai ),Bellary,Local,272,6,266,2025-01-01,2026-04-19,156
+Tamil Nadu,Thiruvarur,Needamangalam (Uzhavar Sandhai ),Bellary,Local,270,4,266,2025-01-01,2026-04-19,160
+Tamil Nadu,Coimbatore,Mettupalayam (Uzhavar Sandhai ),Bellary,Local,269,3,266,2025-01-01,2026-04-19,158
+Tamil Nadu,Thiruvannamalai,Keelpennathur (Uzhavar Sandhai ),Bellary,Local,269,3,266,2025-01-01,2026-04-20,157
+Uttar Pradesh,Raebarelli,Jayas,Red,FAQ,268,0,266,2025-01-01,2025-11-04,13
+Uttar Pradesh,Amroha,Amroha,Red,FAQ,266,0,266,2025-01-02,2025-11-02,6
+Uttar Pradesh,Sambhal,Chandausi,Red,FAQ,266,0,266,2025-01-01,2025-11-04,7
+Tamil Nadu,Madurai,Thirumangalam (Uzhavar Sandhai ),Bellary,Local,276,5,265,2025-01-01,2026-04-14,156
+Tamil Nadu,Thiruvarur,Muthupettai (Uzhavar Sandhai ),Bellary,Local,276,7,265,2025-01-01,2026-04-20,159
+Tamil Nadu,Virudhunagar,Thalavaipuram (Uzhavar Sandhai ),Bellary,Local,276,5,265,2025-01-01,2026-04-18,160
+Tamil Nadu,Theni,Periyakulam (Uzhavar Sandhai ),Bellary,Local,274,6,265,2025-01-01,2026-04-19,163
+Tamil Nadu,Nagapattinam,Sirkali (Uzhavar Sandhai ),Bellary,Local,273,7,265,2025-01-01,2026-04-19,161
+Tamil Nadu,Theni,Chinnamanur (Uzhavar Sandhai ),Bellary,Local,269,4,265,2025-01-01,2026-04-18,158
+Tamil Nadu,Chengalpattu,Thirukalukundram (Uzhavar Sandhai ),Bellary,Local,266,1,265,2025-01-01,2026-04-14,162
+West Bengal,Jalpaiguri,Jalpaiguri Sadar,Nasik,FAQ,265,0,265,2025-01-01,2025-11-02,7
+Tamil Nadu,Coimbatore,Sulur (Uzhavar Sandhai ),Bellary,Local,273,8,264,2025-01-01,2026-04-20,157
+Tamil Nadu,Chengalpattu,Guduvancheri (Uzhavar Sandhai ),Bellary,Local,272,5,264,2025-01-01,2026-04-20,159
+Tamil Nadu,Ramanathapuram,Ramanathapuram (Uzhavar Sandhai ),Bellary,Local,272,3,264,2025-01-01,2026-04-15,158
+Tamil Nadu,Ranipet,Arcot (Uzhavar Sandhai ),Bellary,Local,269,5,264,2025-01-01,2026-04-18,160
+Uttar Pradesh,Badaun,Badayoun,Nasik,FAQ,265,0,264,2025-01-02,2025-11-04,8
+Uttar Pradesh,Bijnor,Bijnaur,Red,FAQ,264,0,264,2025-01-01,2025-11-05,6
+Tamil Nadu,Tuticorin,Tuticorin (Uzhavar Sandhai ),Bellary,Local,269,6,263,2025-01-01,2026-04-19,168
+West Bengal,Malda,Samsi,Onion,FAQ,263,0,263,2025-01-02,2025-11-05,6
+Tamil Nadu,Nagapattinam,Nagapattinam (Uzhavar Sandhai ),Bellary,Local,268,4,262,2025-01-01,2026-04-18,161
+Tripura,Sepahijala,Bishalgarh,Nasik,FAQ,267,0,262,2025-01-01,2025-11-05,9
+Tamil Nadu,Erode,Sampath Nagar (Uzhavar Sandhai ),Bellary,Local,266,4,262,2025-01-01,2026-04-16,167
+Haryana,Kaithal,Siwan,Other,FAQ,262,0,262,2025-01-01,2025-11-01,4
+Uttar Pradesh,Bareilly,Bareilly,Red,FAQ,262,0,262,2025-01-01,2025-11-04,6
+Uttar Pradesh,Ghaziabad,Ghaziabad,Red,FAQ,262,0,262,2025-01-02,2025-10-29,5
+Uttar Pradesh,Kasganj,Kasganj,Red,FAQ,262,0,262,2025-01-01,2025-11-05,6
+Uttar Pradesh,Shahjahanpur,Puwaha,Red,Non-FAQ,262,0,262,2025-02-01,2025-11-05,5
+Tamil Nadu,Chengalpattu,Chengalpet (Uzhavar Sandhai ),Bellary,Local,266,5,261,2025-01-01,2026-04-18,156
+Telangana,Hyderabad,Gudimalkapur,1st Sort,FAQ,261,0,261,2025-01-02,2025-11-05,5
+Uttar Pradesh,Sitapur,Hargaon (Laharpur),Nasik,FAQ,261,0,261,2025-01-01,2025-11-02,6
+Tamil Nadu,Chengalpattu,Medavakkam (Uzhavar Sandhai ),Bellary,Local,263,3,260,2025-01-01,2026-04-18,158
+Madhya Pradesh,Khandwa,Khandwa,Local,FAQ,260,0,260,2025-01-03,2025-11-03,4
+Rajasthan,Bhilwara,Bhilwara,Other,FAQ,261,0,259,2025-01-01,2025-10-28,8
+Odisha,Ganjam,Hinjilicut,Other,FAQ,259,0,259,2025-01-01,2025-11-05,5
+Uttar Pradesh,Chandauli,Chandoli,Red,FAQ,259,0,259,2025-01-01,2025-11-03,7
+West Bengal,Puruliya,Balarampur,Other,FAQ,258,0,258,2025-01-01,2025-11-03,6
+Uttar Pradesh,Jhansi,Gurusarai,Red,FAQ,260,0,257,2025-01-01,2025-11-01,11
+Rajasthan,Hanumangarh,Goluwala,1st Sort,FAQ,257,0,257,2025-01-01,2025-10-28,4
+Uttar Pradesh,Basti,Basti,Red,FAQ,257,0,257,2025-01-01,2025-11-04,5
+Bihar,Banka,Barahat,Medium,FAQ,256,0,256,2025-01-02,2025-11-01,7
+Haryana,Sirsa,Rania,Other,FAQ,256,0,256,2025-01-03,2025-11-03,5
+Uttar Pradesh,Kanpur Dehat,Pukharayan,Red,FAQ,256,0,256,2025-01-01,2025-11-05,5
+Uttar Pradesh,Shahjahanpur,Tilhar,Red,Non-FAQ,256,0,256,2025-02-01,2025-11-03,4
+Uttar Pradesh,Kaushambi,Manjhanpur,Red,FAQ,255,0,255,2025-01-01,2025-11-03,4
+Odisha,Mayurbhanja,Udala,Onion,FAQ,261,0,254,2025-01-03,2025-11-03,9
+Haryana,Sirsa,Sirsa,Other,FAQ,256,0,254,2025-01-02,2025-11-03,9
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Red,FAQ,254,0,254,2025-01-01,2025-10-27,7
+West Bengal,Purba Bardhaman,Kalna,Local,FAQ,257,0,253,2025-01-03,2025-11-05,29
+West Bengal,Paschim Bardhaman,Asansol,Nasik,Non-FAQ,253,0,253,2025-02-08,2025-11-05,6
+Uttar Pradesh,Etawah,Jasvantnagar,Red,FAQ,268,0,252,2025-01-01,2025-11-05,10
+Uttar Pradesh,Mainpuri,Ghiraur,Red,FAQ,260,0,252,2025-01-03,2025-11-05,14
+Tamil Nadu,Kancheepuram,Kancheepuram (Uzhavar Sandhai ),Bellary,Local,256,2,252,2025-01-01,2026-04-19,166
+Uttar Pradesh,Jhansi,Mauranipur,Red,FAQ,254,0,252,2025-01-01,2025-11-04,9
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Red,FAQ,255,0,251,2025-01-01,2025-11-05,8
+Haryana,Yamuna Nagar,Chhachrauli,Onion,FAQ,251,0,251,2025-01-01,2025-11-05,7
+Punjab,Bhatinda,Rampuraphul (Nabha Mandi),Other,Non-FAQ,251,0,251,2025-01-18,2025-11-05,7
+Punjab,Tarntaran,Tarantaran,Other,FAQ,251,0,251,2025-01-01,2025-11-04,5
+Gujarat,Kheda,Kapadvanj,Other,FAQ,254,0,250,2025-01-02,2025-11-04,10
+Haryana,Fatehabad,Ratia,Other,FAQ,250,0,250,2025-01-02,2025-11-05,7
+Punjab,Mohali,Dera Bassi,Other,FAQ,250,0,250,2025-01-02,2025-11-02,7
+Uttar Pradesh,Shamli,Kairana,Red,FAQ,250,0,250,2025-01-01,2025-11-04,6
+West Bengal,Medinipur (E),Tamluk (Medinipur E),Onion,FAQ,250,0,249,2025-01-02,2025-11-05,16
+Haryana,Gurgaon,Sohna,Onion,FAQ,249,0,249,2025-01-01,2025-10-17,5
+Kerala,Palakad,Pattambi,Big,FAQ,249,0,249,2025-01-02,2025-11-04,6
+Uttar Pradesh,Jhansi,Moth,Red,FAQ,249,0,249,2025-01-02,2025-11-02,7
+Tamil Nadu,Cuddalore,Viruthachalam (Uzhavar Sandhai ),Bellary,Local,268,5,248,2025-01-01,2026-04-18,162
+Tripura,Sepahijala,Melaghar,Small,FAQ,248,0,248,2025-01-20,2025-11-05,4
+Uttar Pradesh,Mathura,Mathura,Red,FAQ,248,0,248,2025-01-01,2025-10-24,7
+Uttar Pradesh,Hathras,Haathras,Red,FAQ,249,0,247,2025-01-01,2025-11-05,8
+Kerala,Malappuram,Parappanangadi,Small,FAQ,247,0,247,2025-01-01,2025-11-05,4
+Punjab,Ludhiana,Ludhiana,Other,FAQ,247,0,247,2025-01-01,2025-11-05,5
+West Bengal,Bankura,Bankura Sadar,Nasik,FAQ,247,0,247,2025-01-01,2025-11-01,6
+West Bengal,Malda,English Bazar,Other,FAQ,247,0,247,2025-01-02,2025-11-05,6
+Madhya Pradesh,Indore,Mhow (F&V),Onion,FAQ,250,0,246,2025-01-01,2025-11-04,12
+Haryana,Panipat,Panipat,Other,FAQ,248,0,246,2025-01-02,2025-11-05,14
+Haryana,Yamuna Nagar,Mustafabad,Other,FAQ,245,0,245,2025-01-02,2025-11-01,6
+Kerala,Thirssur,Chelakkara,Other,FAQ,245,0,245,2025-01-02,2025-11-05,7
+Punjab,Bhatinda,Raman,Other,FAQ,245,0,245,2025-01-02,2025-11-03,7
+Rajasthan,Sikar,Sikar,Onion,FAQ,245,0,245,2025-01-11,2025-11-03,6
+Kerala,Malappuram,Parappanangadi,Other,FAQ,249,0,244,2025-01-01,2025-11-05,9
+Uttar Pradesh,Mirzapur,Mirzapur,Red,FAQ,249,0,244,2025-01-02,2025-11-05,12
+Uttar Pradesh,Shravasti,Bhinga,Red,FAQ,246,0,244,2025-01-01,2025-11-03,9
+Uttar Pradesh,Jalaun (Orai),Orai,Red,FAQ,245,0,244,2025-01-01,2025-11-01,8
+Punjab,Ferozpur,Zira,Local,FAQ,244,0,244,2025-01-01,2025-11-03,3
+Uttar Pradesh,Unnao,Unnao,Red,FAQ,246,0,243,2025-01-01,2025-11-04,12
+Odisha,Sundergarh,Sargipali,Other,Non-FAQ,245,0,243,2025-01-18,2025-11-01,10
+Uttar Pradesh,Amethi,Sultanpur,Red,Non-FAQ,243,0,243,2025-01-30,2025-11-05,7
+Uttar Pradesh,Kanpur,Uttaripura,Red,FAQ,243,0,243,2025-01-01,2025-11-04,5
+Uttar Pradesh,Mahoba,Mahoba,Red,FAQ,261,0,242,2025-01-01,2025-11-04,10
+West Bengal,Medinipur (W),Garbeta (Medinipur),Onion,FAQ,257,0,242,2025-01-01,2025-11-04,12
+Haryana,Ambala,Naraingarh,Onion,FAQ,246,0,242,2025-01-01,2025-11-05,10
+Haryana,Sonipat,Sonepat,Other,FAQ,242,0,242,2025-01-01,2025-11-02,6
+Uttar Pradesh,Ghazipur,Gazipur,Red,FAQ,241,0,241,2025-01-01,2025-11-04,7
+West Bengal,Paschim Bardhaman,Durgapur,Nasik,FAQ,241,0,241,2025-02-17,2025-11-05,7
+West Bengal,Alipurduar,Alipurduar,Other,FAQ,260,0,240,2025-01-02,2025-11-04,12
+Haryana,Mahendragarh-Narnaul,Narnaul,Onion,FAQ,243,0,240,2025-01-30,2025-11-04,9
+Uttar Pradesh,Kanpur,Choubepur,Red,FAQ,243,0,240,2025-01-01,2025-11-04,11
+Uttar Pradesh,Kanpur,Kanpur (Grain),Red,FAQ,243,0,240,2025-01-01,2025-11-04,11
+Rajasthan,Hanumangarh,Sangriya,Onion,FAQ,240,0,240,2025-01-01,2025-11-04,6
+Tripura,North Tripura,Dasda,Onion,FAQ,240,0,240,2025-02-12,2025-11-05,3
+West Bengal,Medinipur (W),Ghatal,Onion,FAQ,241,0,239,2025-01-02,2025-11-04,10
+Haryana,Mewat,Punhana,Other,FAQ,239,0,239,2025-01-02,2025-11-05,7
+Kerala,Idukki,Vandiperiyar,Big,FAQ,239,0,239,2025-01-01,2025-10-24,5
+Maharashtra,Pune,Pune (Pimpri),Local,Local,239,0,239,2025-01-26,2025-10-30,4
+Punjab,Fazilka,Fazilka,Other,FAQ,239,0,239,2025-01-02,2025-11-04,6
+Uttar Pradesh,Auraiya,Achalda,Red,FAQ,239,0,239,2025-01-01,2025-11-01,6
+Uttar Pradesh,Jaunpur,Jaunpur,Red,FAQ,239,0,239,2025-01-01,2025-11-05,5
+Haryana,Sonipat,Ganaur,Onion,FAQ,253,0,238,2025-01-02,2025-11-05,15
+Rajasthan,Ganganagar,Sriganganagar (F&V),Other,FAQ,240,0,238,2025-01-01,2025-11-05,10
+Punjab,Muktsar,Malout,Onion,FAQ,238,0,238,2025-01-02,2025-11-03,6
+Uttar Pradesh,Bulandshahar,Jahangirabad,Red,FAQ,238,0,238,2025-01-01,2025-10-30,7
+Uttar Pradesh,Jhansi,Chirgaon,Red,FAQ,238,0,238,2025-01-01,2025-10-30,7
+Kerala,Palakad,Pattambi,Small,FAQ,240,0,237,2025-01-02,2025-11-03,10
+Uttar Pradesh,Prayagraj,Allahabad,Red,FAQ,239,0,237,2025-01-01,2025-11-04,11
+Uttar Pradesh,Meerut,Meerut,Red,FAQ,238,0,237,2025-01-01,2025-11-03,10
+Tamil Nadu,Thirupur,Palladam (Uzhavar Sandhai ),Bellary,Local,237,0,237,2025-01-01,2025-09-10,4
+Uttar Pradesh,Fatehpur,Bindki,Red,FAQ,237,0,237,2025-01-01,2025-10-31,7
+Uttar Pradesh,Rampur,Milak,Red,FAQ,237,0,237,2025-01-11,2025-11-05,7
+West Bengal,Paschim Bardhaman,Durgapur,Nasik,Non-FAQ,237,0,237,2025-02-17,2025-11-05,6
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Red,FAQ,240,0,236,2025-01-01,2025-11-01,11
+Uttrakhand,Haridwar,Haridwar Union,Onion,FAQ,238,0,236,2025-01-01,2025-11-05,10
+Kerala,Ernakulam,Perumbavoor,Onion,FAQ,236,0,236,2025-01-02,2025-11-05,5
+Uttar Pradesh,Sitapur,Viswan,Red,FAQ,236,0,236,2025-01-01,2025-11-04,4
+West Bengal,Jalpaiguri,Belacoba,Nasik,FAQ,254,0,235,2025-01-01,2025-11-04,12
+Haryana,Gurgaon,Farukh Nagar,Other,FAQ,240,0,235,2025-01-02,2025-11-04,18
+NCT of Delhi,Delhi,Azadpur,Onion,FAQ,235,0,235,2025-01-03,2025-11-04,5
+Gujarat,Kheda,Nadiyad (Piplag),Onion,FAQ,240,0,234,2025-01-01,2025-11-05,9
+Haryana,Kaithal,Dhand,Other,FAQ,238,0,234,2025-01-02,2025-10-30,9
+Uttar Pradesh,Gorakhpur,Gorakhpur,Red,FAQ,236,0,234,2025-01-01,2025-11-01,9
+West Bengal,Darjeeling,Darjeeling,Other,FAQ,235,0,234,2025-01-21,2025-11-05,40
+Haryana,Hissar,Barwala (Hisar),Other,FAQ,234,0,234,2025-01-03,2025-11-05,5
+Haryana,Karnal,Gharaunda,Other,FAQ,234,0,234,2025-01-01,2025-11-05,7
+Rajasthan,Jaipur Rural,Chomu (F&V),Other,Non-FAQ,234,0,234,2025-01-17,2025-11-02,7
+Uttar Pradesh,Bulandshahar,Buland Shahr,Red,FAQ,234,0,234,2025-01-01,2025-11-01,6
+West Bengal,Jalpaiguri,Moynaguri,Nasik,FAQ,251,0,233,2025-01-01,2025-10-31,12
+Uttar Pradesh,Saharanpur,Gangoh,Red,FAQ,235,0,233,2025-01-03,2025-11-04,15
+Bihar,Madhubani,Jainagar,Medium,FAQ,233,0,233,2025-01-01,2025-09-24,4
+Haryana,Yamuna Nagar,Jagadhri,Other,FAQ,233,0,233,2025-01-01,2025-11-05,6
+Kerala,Kasargod,Kanjangadu,Big,FAQ,233,0,233,2025-01-02,2025-11-05,5
+Uttar Pradesh,Ballia,Ballia,Red,FAQ,233,0,233,2025-01-01,2025-11-04,7
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Red,FAQ,233,0,233,2025-01-02,2025-11-06,7
+Uttar Pradesh,Mau (Maunathbhanjan),Kopaganj,Red,FAQ,233,0,233,2025-01-02,2025-11-04,7
+Gujarat,Morbi,Morbi,Onion,FAQ,236,0,232,2025-01-01,2025-11-05,12
+Kerala,Palakad,Kollengode,Big,FAQ,231,0,231,2025-01-01,2025-11-02,7
+Uttar Pradesh,Ghaziabad,Hapur,Red,FAQ,231,0,231,2025-01-02,2025-11-05,6
+Himachal Pradesh,Solan,Solan,Other,FAQ,234,0,230,2025-01-01,2025-11-04,12
+Kerala,Kollam,Anchal,Other,FAQ,232,0,230,2025-01-02,2025-11-03,10
+Himachal Pradesh,Solan,Solan (Nalagarh),Other,FAQ,230,0,230,2025-01-02,2025-11-04,6
+Kerala,Kozhikode (Calicut),Mukkom,Onion,FAQ,230,0,230,2025-01-03,2025-11-05,5
+Tamil Nadu,Pudukkottai,Karambakkudi (Uzhavar Sandhai ),Bellary,Local,237,3,229,2025-01-01,2026-04-18,162
+Uttar Pradesh,Saharanpur,Saharanpur,Red,Non-FAQ,235,0,229,2025-01-17,2025-11-02,14
+Kerala,Malappuram,Kottakkal,Other,FAQ,229,0,229,2025-01-01,2025-10-30,7
+Kerala,Palakad,Vadakkenchery,Big,FAQ,229,0,229,2025-01-03,2025-11-05,7
+Punjab,Sangrur,Dhuri,Onion,FAQ,229,0,229,2025-01-22,2025-11-01,7
+Uttar Pradesh,Bhadohi (Sant Ravi Nagar),Gopiganj,Red,FAQ,229,0,229,2025-01-01,2025-11-02,6
+Uttar Pradesh,Bareilly,Anwala,Red,FAQ,251,0,228,2025-01-02,2025-11-04,12
+Uttar Pradesh,Bijnor,Chaandpur,Red,FAQ,233,0,228,2025-01-02,2025-11-03,9
+Madhya Pradesh,Hoshangabad,Pipariya (F&V),Onion,FAQ,230,0,228,2025-01-02,2025-11-03,8
+Haryana,Yamuna Nagar,Radaur,Other,FAQ,229,0,228,2025-01-01,2025-11-05,8
+Uttar Pradesh,Barabanki,Barabanki,Red,FAQ,258,0,227,2025-01-01,2025-11-04,20
+Himachal Pradesh,Kangra,Palampur,Other,FAQ,232,0,227,2025-01-01,2025-11-05,12
+Odisha,Jharsuguda,Jharsuguda,Other,Non-FAQ,230,0,227,2025-01-21,2025-11-05,9
+Kerala,Palakad,Palakkad,Big,FAQ,227,0,227,2025-01-03,2025-11-05,6
+Punjab,Bhatinda,Bathinda,Other,FAQ,227,0,227,2025-01-02,2025-11-05,4
+Punjab,Jalandhar,Jalandhar City (Jalandhar),Other,FAQ,227,0,227,2025-01-01,2025-10-31,7
+Uttar Pradesh,Barabanki,Safdarganj,Red,FAQ,227,0,227,2025-01-01,2025-10-30,7
+Kerala,Palakad,Kollengode,Small,FAQ,228,0,226,2025-01-01,2025-11-02,13
+Kerala,Kottayam,Kanjirappally,Onion,FAQ,227,0,226,2025-01-03,2025-10-31,11
+Himachal Pradesh,Chamba,Chamba,Other,FAQ,226,0,226,2025-01-02,2025-11-05,5
+Uttar Pradesh,Mathura,Kosikalan,Red,FAQ,226,0,226,2025-01-01,2025-11-05,7
+Uttar Pradesh,Hardoi,Shahabad (New Mandi),Red,FAQ,228,0,225,2025-01-02,2025-11-04,9
+West Bengal,Dakshin Dinajpur,Gangarampur (Dakshin Dinajpur),1st Sort,FAQ,226,0,225,2025-02-11,2025-11-05,9
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,FAQ,225,0,225,2025-01-02,2025-11-05,7
+Himachal Pradesh,Mandi,Mandi (Mandi),Onion,FAQ,225,0,225,2025-01-01,2025-10-31,5
+Madhya Pradesh,Indore,Indore,Onion,FAQ,225,0,225,2025-01-01,2025-11-01,6
+Telangana,Hyderabad,Mahboob Manison,1st Sort,FAQ,225,0,225,2025-01-03,2025-11-05,4
+Uttrakhand,UdhamSinghNagar,Rudrapur,Other,FAQ,225,0,225,2025-01-01,2025-10-18,4
+Punjab,Fazilka,Jalalabad,Other,FAQ,228,0,224,2025-01-02,2025-11-05,13
+Uttar Pradesh,Lakhimpur,Golagokarnath,Red,FAQ,226,0,224,2025-01-01,2025-11-04,11
+Maharashtra,Pune,Pune (Manjri),Local,Local,225,0,224,2025-01-27,2025-10-28,10
+Kerala,Thiruvananthapuram,Balarampuram,1st Sort,FAQ,224,0,224,2025-01-02,2025-11-04,5
+Uttar Pradesh,Bulandshahar,Sikarpur,Red,FAQ,224,0,224,2025-01-02,2025-11-05,7
+Uttar Pradesh,Ghaziabad,Ghaziabad,Red,Non-FAQ,224,0,224,2025-01-31,2025-11-04,7
+Uttrakhand,Nanital,Haldwani,Other,FAQ,224,0,224,2025-01-02,2025-11-04,4
+Uttrakhand,Dehradoon,Rishikesh,Other,FAQ,237,0,223,2025-01-01,2025-11-05,27
+Uttar Pradesh,Hamirpur,Muskara,Red,FAQ,227,0,223,2025-01-02,2025-11-05,12
+Kerala,Palakad,Vadakkenchery,Small,FAQ,226,0,223,2025-01-03,2025-11-05,8
+Uttar Pradesh,Bulandshahar,Khurja,Red,FAQ,225,0,223,2025-01-02,2025-11-03,8
+Kerala,Alappuzha,Chengannur,Onion,FAQ,224,0,223,2025-01-01,2025-11-05,9
+Himachal Pradesh,Kangra,Kangra (Baijnath),Onion,FAQ,223,0,223,2025-01-01,2025-11-01,5
+Kerala,Palakad,Palakkad,Small,FAQ,223,0,223,2025-01-03,2025-11-05,5
+Uttar Pradesh,Maharajganj,Anandnagar,Red,FAQ,223,0,223,2025-01-01,2025-11-04,5
+Gujarat,Rajkot,Rajkot (Veg.Sub Yard),Onion,FAQ,224,0,222,2025-01-01,2025-11-05,18
+Maharashtra,Pune,Pune (Khadiki),Local,Local,222,0,222,2025-01-25,2025-11-02,6
+Uttar Pradesh,Bulandshahar,Siyana,Red,FAQ,222,0,222,2025-01-03,2025-11-02,6
+Uttar Pradesh,Maharajganj,Partaval,Red,FAQ,222,0,222,2025-01-01,2025-10-23,6
+Kerala,Kottayam,Kanjirappally,Big,FAQ,223,0,221,2025-01-03,2025-11-03,10
+Uttar Pradesh,Badaun,Wazirganj,Red,FAQ,223,0,221,2025-01-10,2025-10-24,9
+Uttar Pradesh,Aligarh,Khair,Red,Non-FAQ,221,0,221,2025-01-19,2025-11-05,6
+Gujarat,Kheda,Nadiyad (Piplag),Onion,Non-FAQ,224,0,220,2025-01-20,2025-11-05,10
+Punjab,Gurdaspur,Gurdaspur,Other,FAQ,221,0,220,2025-01-02,2025-10-29,11
+Kerala,Ernakulam,Angamaly,Big,FAQ,220,0,220,2025-01-02,2025-11-05,6
+Uttar Pradesh,Kanpur Dehat,Pukharayan,Red,Non-FAQ,220,0,220,2025-02-07,2025-11-05,7
+Kerala,Thiruvananthapuram,Aralamoodu,Onion,FAQ,256,0,219,2025-01-02,2025-11-05,9
+West Bengal,Alipurduar,Falakata,Other,FAQ,235,0,219,2025-01-02,2025-10-17,19
+Gujarat,Ahmedabad,Ahmedabad (Chimanbhai Patal Market Vasana),Nasik,FAQ,223,0,219,2025-01-01,2025-11-03,9
+Rajasthan,Jodhpur,Jodhpur (F&V),Other,FAQ,223,0,219,2025-01-02,2025-11-03,10
+Madhya Pradesh,Shajapur,Shajapur,Medium,FAQ,221,0,219,2025-01-01,2025-11-04,15
+West Bengal,Coochbehar,Coochbehar,Other,FAQ,220,0,219,2025-01-09,2025-11-03,42
+Punjab,Jalandhar,Bilga,Other,FAQ,219,0,219,2025-01-03,2025-11-05,5
+Punjab,Patiala,Patran,Other,FAQ,219,0,219,2025-01-01,2025-11-05,4
+Haryana,Ambala,Shahzadpur,Local,FAQ,219,0,218,2025-01-01,2025-11-01,8
+Kerala,Kozhikode (Calicut),Kallachi,Other,FAQ,218,0,218,2025-01-03,2025-10-31,7
+Gujarat,Mehsana,Mehsana (Mehsana Veg),Onion,FAQ,217,0,217,2025-01-01,2025-10-28,6
+Kerala,Alappuzha,Chengannur,Small,FAQ,217,0,217,2025-01-01,2025-11-05,5
+Kerala,Ernakulam,North Paravur,1st Sort,FAQ,217,0,217,2025-01-03,2025-11-05,7
+Kerala,Malappuram,Kondotty,Other,FAQ,217,0,217,2025-01-01,2025-11-05,6
+Uttar Pradesh,Gautam Budh Nagar,Dankaur,Red,FAQ,227,0,216,2025-01-01,2025-11-01,21
+Tripura,Sepahijala,Jumpuijala,Other,FAQ,216,0,216,2025-02-28,2025-11-05,7
+Kerala,Ernakulam,Aluva,Big,FAQ,225,0,215,2025-01-02,2025-11-05,8
+Madhya Pradesh,Indore,Indore,Other,FAQ,215,0,215,2025-01-02,2025-11-03,7
+Kerala,Kozhikode (Calicut),Perambra,Other,FAQ,218,0,214,2025-01-02,2025-11-04,9
+Maharashtra,Pune,Pune (Moshi),Local,Local,214,0,214,2025-01-27,2025-11-03,5
+Odisha,Khurda,Balugaon,Other,FAQ,226,0,213,2025-01-01,2025-10-28,10
+Bihar,Sheohar,Sheohar,Medium,FAQ,222,0,213,2025-01-01,2025-11-02,17
+Haryana,Kurukshetra,Shahabad,Onion,Non-FAQ,217,0,213,2025-01-30,2025-11-05,9
+Kerala,Ernakulam,Thrippunithura,Big,FAQ,213,0,213,2025-01-03,2025-11-05,7
+Gujarat,Anand,Khambhat (Veg Yard Khambhat),Other,FAQ,213,0,212,2025-01-01,2025-10-28,10
+Uttar Pradesh,Azamgarh,Azamgarh,Red,FAQ,212,0,212,2025-01-01,2025-11-03,6
+Uttar Pradesh,Banda,Banda,Red,FAQ,244,0,211,2025-01-01,2025-11-02,8
+Haryana,Jhajar,Jhajjar,Other,FAQ,228,0,211,2025-01-02,2025-11-03,8
+Himachal Pradesh,Kangra,Kangra,Other,FAQ,215,0,211,2025-01-02,2025-11-04,8
+Jammu and Kashmir,Kathua,Kathua,Other,FAQ,214,0,211,2025-01-01,2025-11-03,9
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Red,Non-FAQ,211,0,211,2025-02-01,2025-11-03,5
+West Bengal,Hooghly,Pandua,Dry F.A.Q.,FAQ,211,0,211,2025-03-21,2025-11-05,4
+Uttar Pradesh,Jhansi,Jhansi,Red,FAQ,225,0,210,2025-01-01,2025-11-04,8
+Tamil Nadu,Pudukkottai,Alangudi (Uzhavar Sandhai ),Bellary,Local,214,2,210,2025-02-22,2026-04-20,157
+Telangana,Hyderabad,Mahboob Manison,2nd Sort,FAQ,214,0,210,2025-01-10,2025-11-05,11
+Haryana,Rohtak,Meham,Other,FAQ,210,0,210,2025-01-02,2025-11-05,7
+Haryana,Yamuna Nagar,Sadhaura,Onion,FAQ,210,0,210,2025-01-01,2025-11-01,7
+Uttar Pradesh,Firozabad,Tundla,Red,FAQ,210,0,210,2025-01-01,2025-10-31,7
+Uttar Pradesh,Sitapur,Mehmoodabad,Red,FAQ,210,0,210,2025-01-01,2025-11-04,7
+Haryana,Hissar,Hissar,Other,FAQ,212,0,209,2025-01-03,2025-11-03,8
+Haryana,Jind,Narwana,Other,FAQ,211,0,209,2025-01-01,2025-11-03,8
+Himachal Pradesh,Kangra,Dharamshala,Other,FAQ,209,0,209,2025-01-02,2025-10-31,7
+Kerala,Thirssur,Wadakkanchery,Onion,FAQ,209,0,209,2025-01-07,2025-11-05,6
+Punjab,Hoshiarpur,Garh Shankar,Other,FAQ,209,0,209,2025-01-02,2025-11-05,4
+Punjab,Sangrur,Bhawanigarh,Other,FAQ,244,0,208,2025-01-01,2025-11-05,8
+Gujarat,Surat,Surat,Other,FAQ,235,0,208,2025-01-02,2025-11-05,9
+Kerala,Ernakulam,Kothamangalam,Big,FAQ,211,0,208,2025-01-03,2025-11-05,10
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Red,FAQ,210,0,208,2025-01-01,2025-10-10,14
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Other,Local,208,0,208,2025-01-26,2025-11-02,5
+Maharashtra,Pune,Pune,Local,Local,208,0,208,2025-01-27,2025-10-27,6
+Uttar Pradesh,Hamirpur,Bharuasumerpur,Red,FAQ,208,0,208,2025-01-01,2025-11-03,7
+Himachal Pradesh,Kangra,Kangra (Nagrota Bagwan),Other,FAQ,207,0,207,2025-01-03,2025-11-04,7
+Uttar Pradesh,Ballia,Rasda,Red,FAQ,207,0,207,2025-01-01,2025-10-23,7
+Tamil Nadu,Thiruvannamalai,Polur (Uzhavar Sandhai ),Bellary,Local,271,6,206,2025-01-01,2026-04-18,156
+Odisha,Khurda,Balugaon,Other,Non-FAQ,207,0,205,2025-01-23,2025-11-04,10
+Punjab,Hoshiarpur,Garh Shankar (Mahalpur),Onion,FAQ,205,0,205,2025-01-06,2025-11-05,7
+Uttar Pradesh,Fatehpur,Khaga,Red,FAQ,237,0,204,2025-01-01,2025-11-02,8
+Rajasthan,Jaipur Rural,Bassi,Other,Non-FAQ,204,0,204,2025-01-20,2025-11-05,7
+Maharashtra,Mumbai,Vashi New Mumbai,Other,Local,203,0,203,2025-01-25,2025-11-04,7
+Punjab,Amritsar,Rayya,Red,FAQ,203,0,203,2025-01-01,2025-10-10,7
+Punjab,kapurthala,Phagwara,Other,FAQ,203,0,203,2025-01-01,2025-11-03,7
+NCT of Delhi,Delhi,Keshopur,Onion,FAQ,228,0,202,2025-01-03,2025-11-03,10
+Madhya Pradesh,Ujjain,Ujjain,Onion,FAQ,212,0,202,2025-01-01,2025-10-16,9
+Tamil Nadu,Thiruvannamalai,Vandavasi (Uzhavar Sandhai ),Bellary,Local,209,7,202,2025-03-17,2026-04-19,156
+Haryana,Faridabad,"New Grain Market , Faridabad",Onion,Non-FAQ,208,0,202,2025-01-20,2025-11-05,9
+Kerala,Kottayam,Pala,Big,FAQ,206,0,202,2025-01-02,2025-11-03,8
+Punjab,Mohali,Kharar,Other,Non-FAQ,204,0,202,2025-02-04,2025-11-02,9
+Kerala,Thiruvananthapuram,Vamanapuram,Other,Non-FAQ,202,0,202,2025-01-16,2025-11-05,6
+Haryana,Karnal,Indri,Other,FAQ,202,0,201,2025-01-29,2025-10-28,11
+Kerala,Alappuzha,Aroor,Big,FAQ,201,0,201,2025-01-01,2025-11-05,6
+Kerala,Kozhikode (Calicut),Palayam,Other,FAQ,201,0,201,2025-01-01,2025-11-05,5
+Madhya Pradesh,Dhar,Dhamnod (F&V),Onion,FAQ,201,0,201,2025-01-03,2025-10-16,7
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,FAQ,201,0,201,2025-01-03,2025-11-05,6
+Uttar Pradesh,Jaunpur,Shahganj,Red,FAQ,201,0,201,2025-01-01,2025-10-17,6
+Haryana,Mewat,Nuh,Other,Non-FAQ,208,0,200,2025-01-17,2025-11-02,13
+Maharashtra,Satara,Satara,Other,Local,205,0,200,2025-01-25,2025-11-03,8
+Gujarat,Bhavnagar,Mahuva (Station Road),Red,FAQ,202,0,200,2025-01-02,2025-11-05,15
+Madhya Pradesh,Shajapur,Shujalpur,Red,FAQ,200,0,200,2025-01-01,2025-11-03,7
+Uttar Pradesh,Lakhimpur,Golagokarnath,Red,Non-FAQ,200,0,200,2025-01-31,2025-10-23,5
+Rajasthan,Hanumangarh,Rawatsar,1st Sort,FAQ,246,0,199,2025-01-02,2025-11-05,9
+Tamil Nadu,Kancheepuram,Sunguvarchatram (Uzhavar Sandhai ),Bellary,Local,208,5,199,2025-01-01,2026-04-18,160
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Other,FAQ,199,0,199,2025-01-01,2025-10-31,6
+Punjab,Bhatinda,Talwandi Sabo,Other,FAQ,199,0,199,2025-01-03,2025-11-05,6
+Uttar Pradesh,Sonbhadra,Robertsganj,Red,FAQ,212,0,198,2025-01-02,2025-11-01,14
+Himachal Pradesh,Kangra,Kangra (Jaisinghpur),1st Sort,FAQ,203,0,198,2025-01-01,2025-11-05,9
+Madhya Pradesh,Shajapur,Shajapur,Onion,FAQ,201,0,198,2025-01-04,2025-11-04,11
+Odisha,Dhenkanal,Kamakhyanagar,Onion,Non-FAQ,199,0,198,2025-03-06,2025-10-31,8
+Maharashtra,Sangli,"Sangli (Phale, Bhajipura Market)",Local,Local,198,0,198,2025-01-27,2025-11-04,6
+Madhya Pradesh,Ratlam,Ratlam,Onion,FAQ,200,0,197,2025-01-01,2025-10-31,10
+Maharashtra,Kolhapur,Kolhapur,Other,Local,200,0,197,2025-01-27,2025-11-04,14
+Punjab,Ferozpur,Firozepur City,Other,FAQ,199,0,197,2025-01-01,2025-11-03,10
+Chandigarh,Chandigarh,Chandigarh (Grain/Fruit),Other,FAQ,197,0,197,2025-01-02,2025-11-05,6
+Kerala,Malappuram,Manjeri,Other,FAQ,197,0,197,2025-01-01,2025-10-24,7
+Gujarat,Anand,"Anand (Veg,Yard,Anand)",Onion,FAQ,201,0,196,2025-01-01,2025-11-05,12
+Kerala,Kottayam,Ettumanoor,Big,FAQ,196,0,196,2025-01-03,2025-11-04,6
+Maharashtra,Sholapur,Mangal Wedha,Local,Local,196,0,196,2025-01-26,2025-11-01,6
+Uttar Pradesh,Badaun,Wazirganj,Red,Non-FAQ,200,0,195,2025-01-19,2025-10-31,11
+Uttar Pradesh,Unnao,Purwa,Red,FAQ,195,0,195,2025-01-01,2025-07-31,4
+Madhya Pradesh,Indore,Indore,Onion,Non-FAQ,199,0,194,2025-01-23,2025-11-03,9
+Kerala,Kottayam,Athirampuzha,Big,FAQ,194,0,194,2025-01-01,2025-11-01,7
+Uttar Pradesh,Hardoi,Sandi,Onion,FAQ,194,0,194,2025-03-27,2025-11-04,4
+Haryana,Jhajar,Bahadurgarh,Other,FAQ,193,0,193,2025-01-17,2025-11-04,7
+Bihar,Samastipur,Tajpur,Medium,FAQ,195,0,192,2025-01-03,2025-10-16,54
+Punjab,Mohali,Banur,Other,FAQ,211,0,191,2025-01-02,2025-10-30,13
+Uttar Pradesh,Agra,Samsabad,Red,FAQ,205,0,191,2025-01-01,2025-11-05,21
+Uttar Pradesh,Amroha,Dhanaura,Medium,Non-FAQ,197,0,191,2025-01-17,2025-10-31,9
+Kerala,Kottayam,Kottayam,Big,FAQ,191,0,191,2025-01-03,2025-11-01,6
+Uttar Pradesh,Shamli,Shamli,Red,Non-FAQ,191,0,191,2025-01-23,2025-10-25,7
+Gujarat,Vadodara (Baroda),Padra,Other,FAQ,209,0,190,2025-01-03,2025-10-28,19
+Tamil Nadu,Chengalpattu,Madhuranthagam (Uzhavar Sandhai ),Bellary,Local,197,4,190,2025-01-01,2026-04-18,156
+Punjab,Patiala,Nabha,Other,FAQ,193,0,190,2025-01-01,2025-10-29,8
+Kerala,Kottayam,Athirampuzha,Onion,FAQ,192,0,190,2025-01-01,2025-11-03,10
+Haryana,Fatehabad,Tohana (New Veg Market),Onion,FAQ,191,0,190,2025-01-02,2025-10-23,9
+Kerala,Alappuzha,Aroor,Small,FAQ,190,0,190,2025-01-01,2025-11-05,6
+Odisha,Rayagada,Rayagada,Other,FAQ,190,0,189,2025-01-02,2025-10-28,10
+Uttar Pradesh,Bareilly,Bareilly,Red,Non-FAQ,196,0,188,2025-01-30,2025-11-04,14
+Maharashtra,Sholapur,Solapur,Red,Local,190,0,188,2025-01-27,2025-11-04,11
+Kerala,Kottayam,Kottayam,Onion,FAQ,188,0,188,2025-01-03,2025-10-18,5
+Uttar Pradesh,Badaun,Bilsi,Red,FAQ,217,0,187,2025-01-01,2025-11-03,14
+Rajasthan,Hanumangarh,Bhadara,1st Sort,FAQ,218,0,186,2025-01-02,2025-11-05,30
+Telangana,Ranga Reddy,Mehndipatnam (Rythu Bazar),1st Sort,FAQ,212,0,186,2025-01-04,2025-11-05,13
+Uttar Pradesh,Deoria,Devariya,Red,FAQ,194,0,186,2025-01-02,2025-10-29,17
+Uttar Pradesh,Farukhabad,Kamlaganj,Red,FAQ,189,0,186,2025-01-01,2025-11-03,9
+Kerala,Kottayam,Pala,Big,Non-FAQ,187,0,186,2025-01-18,2025-11-03,16
+Haryana,Rohtak,Rohtak,Other,FAQ,186,0,186,2025-01-02,2025-11-05,6
+Uttar Pradesh,Badaun,Ujhani,Red,FAQ,210,0,185,2025-01-01,2025-10-27,10
+Maharashtra,Pune,Khed (Chakan),Other,Local,188,0,185,2025-01-25,2025-11-02,9
+Odisha,Balasore,Jaleswar,Other,FAQ,214,0,184,2025-01-02,2025-10-29,15
+Punjab,Nawanshahr,Nawan Shahar (Subzi Mandi),Other,FAQ,204,0,184,2025-01-02,2025-11-03,9
+Chattisgarh,Durg,Durg,Onion,Non-FAQ,186,0,184,2025-01-19,2025-11-04,12
+Uttar Pradesh,Raebarelli,Salon,1st Sort,Non-FAQ,189,0,183,2025-01-17,2025-11-04,9
+Kerala,Malappuram,Perinthalmanna,Onion,FAQ,185,0,183,2025-01-03,2025-11-05,25
+Kerala,Kozhikode (Calicut),Kallachi,Other,Non-FAQ,183,0,183,2025-01-29,2025-10-30,7
+Haryana,Jind,Jind,Other,FAQ,215,0,182,2025-01-01,2025-11-05,10
+Maharashtra,Dharashiv (Usmanabad),Dharashiv,Red,Local,182,0,182,2025-01-26,2025-11-01,7
+Punjab,Hoshiarpur,Mukerian,Onion,Non-FAQ,182,0,182,2025-02-20,2025-10-31,6
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Red,FAQ,182,0,182,2025-01-01,2025-11-04,7
+Maharashtra,Akola,Akola,Other,Local,184,0,181,2025-01-27,2025-11-03,9
+Uttar Pradesh,Pillibhit,Pilibhit,Red,Non-FAQ,182,0,181,2025-01-31,2025-11-01,82
+Madhya Pradesh,Bhopal,Bhopal,Onion,FAQ,210,0,180,2025-01-18,2025-11-03,9
+Madhya Pradesh,Mandsaur,Mandsaur,Onion,FAQ,183,0,180,2025-01-01,2025-11-04,11
+Odisha,Nuapada,Khariar Road,Other,Non-FAQ,183,0,180,2025-01-17,2025-10-27,11
+Gujarat,Kachchh,Bhuj,Small,FAQ,181,0,180,2025-01-03,2025-10-29,13
+Punjab,Mansa,Mansa,Onion,Non-FAQ,180,0,180,2025-02-21,2025-10-08,6
+Madhya Pradesh,Ujjain,Ujjain,Onion,Non-FAQ,181,0,179,2025-01-27,2025-11-04,13
+Uttar Pradesh,Shamli,Khandhla,Red,Non-FAQ,179,0,179,2025-01-17,2025-11-04,7
+Uttar Pradesh,Sonbhadra,Dudhi,Onion,FAQ,179,0,179,2025-01-18,2025-09-30,7
+Uttar Pradesh,Mau (Maunathbhanjan),Doharighat,Red,FAQ,189,0,178,2025-01-01,2025-11-04,19
+Uttar Pradesh,Pillibhit,Puranpur,Red,Non-FAQ,184,0,178,2025-01-20,2025-11-05,82
+Maharashtra,Nashik,Pimpalgaon,Other,Local,182,0,178,2025-03-01,2025-11-03,10
+Gujarat,Banaskanth,Deesa (Deesa Veg Yard),Other,FAQ,179,0,178,2025-01-01,2025-10-27,10
+Chattisgarh,Rajnandgaon,Rajnandgaon,Onion,Non-FAQ,178,0,178,2025-01-21,2025-10-24,7
+Haryana,Jhajar,Bahadurgarh,Other,Non-FAQ,178,0,178,2025-02-01,2025-11-04,7
+Punjab,Jalandhar,Phillaur (Apra Mandi),Other,FAQ,201,0,177,2025-01-02,2025-10-19,29
+Madhya Pradesh,Rajgarh,Sarangpur,Local,Non-FAQ,182,0,177,2025-03-12,2025-11-03,9
+Tamil Nadu,Coimbatore,Kurichi (Uzhavar Sandhai ),Bellary,Local,252,5,176,2025-01-01,2026-04-18,163
+West Bengal,Murshidabad,Jangipur,Red,FAQ,267,0,175,2025-01-01,2025-11-05,11
+Maharashtra,Nashik,Lasalgaon (Niphad),Other,Local,179,0,175,2025-02-17,2025-11-01,9
+Telangana,Ranga Reddy,Mehndipatnam (Rythu Bazar),1st Sort,Non-FAQ,191,0,173,2025-01-20,2025-11-05,14
+Maharashtra,Nashik,Lasalgaon,Other,Local,176,0,173,2025-02-14,2025-11-03,13
+Kerala,Thirssur,Thrissur,Onion,FAQ,198,0,172,2025-01-03,2025-11-03,13
+Maharashtra,Chattrapati Sambhajinagar,Lasur Station,Other,Local,176,0,172,2025-01-27,2025-10-31,10
+Rajasthan,Churu,Churu,1st Sort,Non-FAQ,175,0,172,2025-01-24,2025-11-04,10
+Maharashtra,Satara,Karad,Other,Local,174,0,172,2025-01-27,2025-11-04,13
+Haryana,Kurukshetra,Thanesar,Onion,Non-FAQ,172,0,172,2025-03-25,2025-11-03,6
+Haryana,Kaithal,Pundri,Other,FAQ,184,0,171,2025-01-01,2025-11-04,67
+Madhya Pradesh,Jabalpur,Jabalpur (F&V),Local,FAQ,173,0,170,2025-04-03,2025-11-04,11
+Haryana,Ambala,Barara,Other,Non-FAQ,170,0,170,2025-02-10,2025-11-05,6
+Rajasthan,Pratapgarh,Pratapgarh,Other,FAQ,170,0,170,2025-01-03,2025-10-17,7
+Rajasthan,Kota,Kota (F&V),Other,FAQ,190,0,169,2025-01-02,2025-10-28,13
+Haryana,Fatehabad,Jakhal,Other,FAQ,169,0,169,2025-01-03,2025-11-05,7
+Haryana,Panipat,Madlauda,Other,FAQ,192,0,168,2025-01-01,2025-11-05,61
+Maharashtra,Nashik,Manmad,Other,Local,172,0,168,2025-03-01,2025-10-31,10
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Red,Non-FAQ,168,0,168,2025-01-29,2025-08-01,4
+Himachal Pradesh,Hamirpur,Hamirpur,Other,FAQ,211,0,167,2025-01-02,2025-11-04,11
+Himachal Pradesh,Kullu,Bhuntar,Other,FAQ,205,0,167,2025-01-02,2025-11-04,9
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Red,FAQ,197,0,167,2025-01-04,2025-10-31,14
+Uttar Pradesh,Ballia,Chitwadagaon,Red,FAQ,179,0,167,2025-01-01,2025-11-04,34
+Maharashtra,Nashik,Pimpalgaon Baswant (Saykheda),Other,Local,173,0,167,2025-03-04,2025-11-04,11
+Maharashtra,Nashik,Lasalgaon (Vinchur),Other,Local,168,0,167,2025-02-18,2025-11-01,19
+Maharashtra,Chandrapur,Chandrapur (Ganjwad),Other,Local,167,0,167,2025-01-27,2025-10-31,6
+Kerala,Kottayam,Ettumanoor,Onion,FAQ,169,0,166,2025-01-03,2025-11-01,11
+Haryana,Hissar,Hansi,Other,Non-FAQ,166,0,166,2025-03-05,2025-08-29,3
+Uttar Pradesh,Varanasi,Varanasi (F&V),Red,FAQ,166,0,166,2025-03-02,2025-10-31,6
+Punjab,Patiala,Ghanaur,Other,FAQ,211,0,165,2025-01-02,2025-11-01,12
+Uttar Pradesh,Maharajganj,Nautnava,Red,FAQ,199,0,165,2025-01-02,2025-10-29,10
+Rajasthan,Hanumangarh,Hanumangarh Town,1st Sort,Non-FAQ,170,0,165,2025-02-12,2025-10-17,9
+Haryana,Panchkula,Raipur Rai,Other,FAQ,206,0,164,2025-01-01,2025-11-02,28
+West Bengal,Birbhum,Rampurhat,Local,FAQ,194,0,164,2025-01-03,2025-11-05,30
+Haryana,Palwal,Hodal,Onion,FAQ,169,0,164,2025-01-01,2025-11-01,8
+Madhya Pradesh,Shajapur,Kalapipal,Onion,FAQ,167,0,164,2025-01-09,2025-11-03,13
+Punjab,Gurdaspur,F.G.Churian,Onion,FAQ,167,0,164,2025-01-03,2025-08-29,8
+Kerala,Alappuzha,Cherthala,Big,FAQ,174,0,163,2025-01-03,2025-11-05,14
+Madhya Pradesh,Ratlam,Ratlam,Onion,Non-FAQ,166,0,163,2025-01-22,2025-11-03,13
+Haryana,Sirsa,Ellanabad,Local,FAQ,164,0,163,2025-02-24,2025-11-02,15
+Rajasthan,Ganganagar,Suratgarh,1st Sort,FAQ,197,0,161,2025-01-03,2025-11-05,8
+Maharashtra,Nagpur,Nagpur,Red,Local,171,0,161,2025-01-27,2025-11-01,12
+Jammu and Kashmir,Udhampur,Udhampur,Other,FAQ,169,0,161,2025-01-02,2025-10-29,13
+Uttar Pradesh,Farukhabad,Mohamadabad,Red,FAQ,264,0,160,2025-01-01,2025-10-31,11
+Maharashtra,Jalgaon,Bhusaval,Other,Local,160,0,160,2025-03-25,2025-11-01,6
+Kerala,Ernakulam,Piravam,Big,FAQ,195,0,159,2025-01-14,2025-11-05,13
+Maharashtra,Nagpur,Nagpur,White,Local,168,0,159,2025-01-27,2025-10-27,10
+Maharashtra,Dhule,Dhule,Red,Local,164,0,159,2025-01-28,2025-11-03,9
+Uttar Pradesh,Badaun,Badayoun,Nasik,Non-FAQ,161,0,159,2025-04-24,2025-11-02,10
+Uttar Pradesh,Pillibhit,Vishalpur,Red,Non-FAQ,161,0,158,2025-04-22,2025-11-05,11
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Red,Non-FAQ,186,0,157,2025-01-21,2025-10-29,14
+Kerala,Kollam,Kottarakkara,Other,FAQ,180,0,157,2025-01-03,2025-11-05,8
+Uttrakhand,Dehradoon,Dehradoon,Nasik,FAQ,164,0,157,2025-01-09,2025-11-04,9
+Madhya Pradesh,Jhabua,Petlawad (F&V),Hybrid,FAQ,160,0,157,2025-04-18,2025-11-03,11
+Telangana,Medak,Sadasivpet,1st Sort,Non-FAQ,159,0,157,2025-01-20,2025-10-27,8
+Uttar Pradesh,Etawah,Bharthna,Red,FAQ,257,0,156,2025-01-01,2025-11-02,10
+Himachal Pradesh,Mandi,Mandi (Takoli),Other,FAQ,189,0,156,2025-01-08,2025-11-02,19
+Kerala,Thirssur,Chavakkad,Other,FAQ,195,0,155,2025-01-02,2025-11-05,14
+Madhya Pradesh,Ratlam,Sailana (F&V),Local,FAQ,190,0,155,2025-01-03,2025-11-03,11
+Uttar Pradesh,Ghaziabad,Noida,Onion,FAQ,159,0,155,2025-02-19,2025-11-03,15
+Maharashtra,Jalgaon,Jalgaon,Red,Local,158,0,155,2025-01-28,2025-11-04,14
+Haryana,Sonipat,Gohana,Other,Non-FAQ,155,0,155,2025-04-03,2025-11-05,4
+Kerala,Palakad,vadakarapathy,Small,FAQ,169,0,154,2025-01-02,2025-11-03,16
+Maharashtra,Nashik,Nasik,Other,Local,158,0,154,2025-01-31,2025-10-29,26
+Madhya Pradesh,Shajapur,Soyatkalan,Onion,Non-FAQ,156,0,154,2025-01-28,2025-11-03,25
+Kerala,Kottayam,Thalayolaparambu,Onion,FAQ,223,0,153,2025-01-03,2025-11-05,9
+West Bengal,Purba Bardhaman,Burdwan,Nasik,FAQ,200,0,153,2025-01-06,2025-11-05,13
+Madhya Pradesh,Dhar,Manawar (F&V),Onion,Non-FAQ,198,0,153,2025-01-20,2025-10-30,23
+Madhya Pradesh,Dewas,Dewas (F&V),Other,FAQ,156,0,153,2025-04-15,2025-11-03,10
+Punjab,Sangrur,Sunam,Onion,FAQ,156,0,153,2025-01-25,2025-10-29,52
+Punjab,Ludhiana,Sahnewal,Onion,FAQ,154,0,153,2025-01-03,2025-11-03,9
+Haryana,Karnal,"New Grain Market (main), Karnal",Other,FAQ,210,0,152,2025-01-01,2025-10-26,13
+Rajasthan,Ajmer,Madanganj Kishangarh,1st Sort,FAQ,179,0,152,2025-01-02,2025-10-31,15
+Uttar Pradesh,Agra,Fatehabad,Red,FAQ,152,0,151,2025-01-01,2025-11-05,18
+Uttar Pradesh,Mirzapur,Ahirora,Red,Non-FAQ,208,0,150,2025-01-17,2025-11-01,18
+Himachal Pradesh,Una,Una,Onion,Non-FAQ,164,0,150,2025-01-25,2025-10-04,11
+Odisha,Nuapada,Khariar,Dry F.A.Q.,Non-FAQ,163,0,150,2025-01-17,2025-11-04,10
+Himachal Pradesh,Bilaspur,Bilaspur,Other,FAQ,170,0,148,2025-01-03,2025-11-01,15
+Odisha,Bhadrak,Chandabali,Other,FAQ,158,0,148,2025-01-02,2025-09-18,19
+Uttar Pradesh,Farukhabad,Kayamganj,Red,FAQ,232,0,147,2025-01-01,2025-11-01,14
+Rajasthan,Alwar,Alwar (F&V),Other,FAQ,207,0,146,2025-01-01,2025-11-02,13
+Madhya Pradesh,Dhar,Badnawar (F&V),Onion,Non-FAQ,146,0,146,2025-04-04,2025-11-03,7
+Himachal Pradesh,Hamirpur,Hamirpur (Nadaun),Other,FAQ,186,0,145,2025-01-02,2025-10-31,8
+Gujarat,Ahmedabad,Ahmedabad (Chimanbhai Patal Market Vasana),Local,FAQ,158,0,145,2025-01-01,2025-10-17,42
+Maharashtra,Ahmednagar,Sangamner,Other,Local,146,0,145,2025-03-04,2025-10-27,10
+Kerala,Kasargod,Neeleswaram,Big,FAQ,228,0,144,2025-01-02,2025-11-05,14
+Kerala,Kottayam,Thalayolaparambu,Big,FAQ,217,0,144,2025-01-03,2025-11-05,14
+Gujarat,Rajkot,Jetpur (Dist.Rajkot),Onion,FAQ,195,0,144,2025-01-02,2025-11-05,14
+Punjab,Moga,Nihal Singh Wala,Other,FAQ,225,0,143,2025-01-02,2025-11-03,8
+Uttar Pradesh,Kushinagar,Tamkuhi road,Red,FAQ,159,0,143,2025-02-20,2025-11-03,9
+Maharashtra,Pune,Junnar (Narayangaon),Other,Local,143,0,142,2025-01-27,2025-11-03,18
+Kerala,Alappuzha,Harippad,Other,FAQ,142,0,142,2025-04-22,2025-11-05,5
+Punjab,Patiala,Dudhansadhan,Other,FAQ,242,0,141,2025-01-01,2025-11-03,18
+Rajasthan,Churu,Sujangarh,Other,FAQ,212,0,141,2025-01-02,2025-11-04,8
+Madhya Pradesh,Dhar,Badnawar,Onion,FAQ,166,0,141,2025-01-01,2025-10-28,14
+Kerala,Alappuzha,Harippad,Big,FAQ,141,0,141,2025-04-22,2025-11-05,5
+Uttar Pradesh,Raebarelli,Lalganj,Red,FAQ,265,0,140,2025-01-01,2025-11-01,18
+Haryana,Bhiwani,Ch. Dadri,Other,FAQ,205,0,140,2025-01-01,2025-11-03,8
+Madhya Pradesh,Dhar,Badnawar,Onion,Non-FAQ,160,0,140,2025-01-28,2025-11-03,19
+Madhya Pradesh,Khandwa,Sanawad (F&V),Onion,FAQ,180,0,139,2025-01-02,2025-11-04,89
+Maharashtra,Nashik,Chandvad,Other,Local,142,0,139,2025-04-03,2025-10-29,11
+Rajasthan,Ajmer,Ajmer (F&V),Other,FAQ,198,0,138,2025-01-02,2025-10-31,27
+Punjab,Gurdaspur,Dinanagar,Other,FAQ,190,0,138,2025-01-02,2025-11-05,12
+Punjab,Hoshiarpur,Tanda Urmur,Other,FAQ,188,0,138,2025-01-02,2025-10-29,9
+Maharashtra,Ahmednagar,Kopargaon,Other,Local,169,0,138,2025-02-20,2025-11-03,12
+Maharashtra,Nagpur,Hingna,Red,Local,159,0,138,2025-01-25,2025-11-04,11
+Maharashtra,Nashik,Kalvan,Other,Local,141,0,138,2025-03-07,2025-11-04,15
+Bihar,Madhubani,Jahajharpur,Medium,FAQ,140,0,138,2025-01-03,2025-08-05,37
+Kerala,Alappuzha,Madhavapuram,Other,FAQ,186,0,137,2025-01-03,2025-10-31,10
+Himachal Pradesh,Kullu,Kullu,Other,FAQ,185,0,137,2025-01-02,2025-11-03,26
+Kerala,Thiruvananthapuram,Aralamoodu,Onion,Non-FAQ,140,0,136,2025-01-18,2025-07-21,8
+Maharashtra,Amarawati,Amrawati (Frui & Veg. Market),Local,Local,141,0,135,2025-02-15,2025-11-03,44
+Uttar Pradesh,Gorakhpur,Sehjanwa,Red,FAQ,173,0,134,2025-01-02,2025-11-04,8
+Madhya Pradesh,Sagar,Sagar (F&V),Other,FAQ,146,0,134,2025-04-04,2025-11-04,9
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,140,0,134,2025-02-21,2025-11-04,11
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Red,Non-FAQ,135,0,134,2025-01-30,2025-10-11,105
+Uttar Pradesh,Amroha,Hasanpur,Nasik,Non-FAQ,134,0,134,2025-04-26,2025-11-03,5
+West Bengal,Medinipur (E),Egra/contai,Onion,FAQ,217,0,133,2025-01-02,2025-11-03,10
+Kerala,Kozhikode (Calicut),Thamarassery,Other,FAQ,151,0,132,2025-01-01,2025-10-28,9
+Telangana,Hyderabad,Bowenpally,1st Sort,FAQ,187,0,131,2025-01-02,2025-11-05,67
+Punjab,Patiala,Samana,Other,FAQ,134,0,131,2025-01-10,2025-10-28,73
+Madhya Pradesh,Bhopal,Bhopal (F&V),Other,Non-FAQ,131,0,131,2025-05-01,2025-10-31,6
+Haryana,Karnal,"New Grain Market (main), Karnal",Other,Non-FAQ,178,0,130,2025-01-30,2025-10-09,13
+Rajasthan,Kotputli- Behror,Kotputli,Onion,FAQ,139,0,130,2025-01-02,2025-08-30,13
+Uttar Pradesh,Jalaun (Orai),Jalaun,Red,FAQ,139,0,130,2025-01-02,2025-11-04,10
+Kerala,Kollam,Chathanoor,Other,FAQ,138,0,130,2025-01-02,2025-11-05,75
+Punjab,Hoshiarpur,Mukerian (Talwara),Onion,FAQ,156,0,129,2025-01-04,2025-10-21,15
+Madhya Pradesh,Rajgarh,Narsinghgarh,Onion,FAQ,154,0,129,2025-01-02,2025-11-03,30
+Rajasthan,Dungarpur,Dungarpur,1st Sort,FAQ,145,0,129,2025-01-07,2025-10-16,23
+Madhya Pradesh,Indore,Indore (F&V),Onion,Non-FAQ,129,0,129,2025-04-04,2025-10-31,7
+Madhya Pradesh,Ratlam,Jaora,Onion,FAQ,164,0,128,2025-01-01,2025-11-04,12
+Chattisgarh,Raigarh,Raigarh,Local,Non-FAQ,161,0,127,2025-01-29,2025-10-18,9
+NCT of Delhi,Delhi,Shahdara,Other,FAQ,155,0,127,2025-03-07,2025-10-30,13
+Uttar Pradesh,Ghaziabad,Muradnagar,Red,FAQ,194,0,126,2025-01-31,2025-11-03,14
+Uttar Pradesh,Raebarelli,Jayas,Red,Non-FAQ,126,0,126,2025-02-03,2025-06-15,3
+West Bengal,Nadia,Bethuadahari,Nasik,FAQ,141,0,124,2025-03-23,2025-11-05,59
+Uttar Pradesh,Banda,Atarra,Red,FAQ,133,0,124,2025-01-01,2025-09-25,35
+Gujarat,Bharuch,Bharuch,Other,Non-FAQ,195,0,123,2025-02-01,2025-11-06,18
+Madhya Pradesh,Shajapur,Soyatkalan,Onion,FAQ,145,0,123,2025-01-04,2025-11-03,18
+Punjab,Ropar (Rupnagar),Ropar,Nasik,FAQ,132,0,123,2025-04-08,2025-11-03,20
+Haryana,Rewari,Rewari,Medium,Non-FAQ,226,0,122,2025-01-17,2025-11-05,10
+West Bengal,Sounth 24 Parganas,Diamond Harbour (South 24-pgs),Onion,FAQ,134,0,122,2025-05-06,2025-11-03,12
+Haryana,Sonipat,Sonepat (Kharkhoda),Other,FAQ,213,0,121,2025-01-01,2025-11-05,45
+Gujarat,Porbandar,Porbandar,Other,FAQ,188,0,121,2025-01-02,2025-11-05,12
+Haryana,Jind,Safidon,Other,Non-FAQ,129,0,121,2025-01-30,2025-11-05,14
+Punjab,Mansa,Budalada,Other,FAQ,130,0,120,2025-01-02,2025-10-30,15
+Maharashtra,Chattrapati Sambhajinagar,Gangapur,Other,Local,122,0,120,2025-03-17,2025-11-03,16
+Maharashtra,Nashik,Nandgaon,Other,Local,122,0,120,2025-02-17,2025-10-30,12
+West Bengal,Hooghly,Sheoraphuly,Nasik,FAQ,225,0,119,2025-01-02,2025-11-05,62
+Rajasthan,Bharatpur,Bayana,Onion,FAQ,159,0,119,2025-01-02,2025-11-04,15
+Maharashtra,Nashik,Yeola,Other,Local,129,0,118,2025-03-10,2025-11-03,12
+Maharashtra,Chattrapati Sambhajinagar,Vaijpur,Other,Local,129,0,117,2025-03-17,2025-11-03,11
+Maharashtra,Nashik,Devala,Other,Local,134,0,116,2025-03-03,2025-10-31,14
+Madhya Pradesh,Ratlam,A lot,Onion,FAQ,120,0,116,2025-03-26,2025-11-03,11
+Uttar Pradesh,Bareilly,Bahedi,Red,FAQ,159,0,115,2025-01-03,2025-10-13,21
+Haryana,Yamuna Nagar,Yamuna Nagar,Other,FAQ,150,0,115,2025-01-01,2025-10-28,63
+Punjab,Amritsar,Rayya,Red,Non-FAQ,130,0,115,2025-02-07,2025-11-05,50
+Uttrakhand,Dehradoon,Vikasnagar,Other,Non-FAQ,122,0,115,2025-01-24,2025-10-17,8
+Kerala,Thirssur,Chalakudy,Onion,FAQ,121,0,113,2025-01-03,2025-11-04,17
+Bihar,Rohtas,Sasaram,Medium,FAQ,136,0,112,2025-01-01,2025-10-23,36
+Telangana,Ranga Reddy,Kukatpally (Rythu Bazar),1st Sort,FAQ,130,0,112,2025-01-02,2025-11-04,11
+Maharashtra,Nashik,Sinner,Other,Local,114,0,112,2025-04-03,2025-11-04,21
+West Bengal,Nadia,Chakdah,Other,FAQ,217,0,111,2025-01-01,2025-11-05,17
+Jammu and Kashmir,Jammu,Batote,Other,FAQ,200,0,111,2025-01-01,2025-11-04,10
+Maharashtra,Nashik,Dindori,Other,Local,111,0,111,2025-04-01,2025-10-09,7
+West Bengal,Sounth 24 Parganas,Diamond Harbour (South 24-pgs),Red,FAQ,111,0,111,2025-01-02,2025-05-06,3
+West Bengal,Nadia,Ranaghat,Other,FAQ,216,0,110,2025-01-01,2025-11-05,18
+Punjab,Patiala,Rajpura,Local,Non-FAQ,187,0,110,2025-02-14,2025-11-02,13
+Punjab,Muktsar,Muktsar,Red,FAQ,116,0,110,2025-01-06,2025-11-04,61
+Gujarat,Vadodara (Baroda),Vadodara (Sayajipura),Other,FAQ,207,0,109,2025-01-02,2025-11-04,21
+Uttrakhand,UdhamSinghNagar,Kashipur,Other,FAQ,161,0,109,2025-01-01,2025-11-03,17
+Maharashtra,Nagpur,Ramtek,Other,Local,122,0,109,2025-01-28,2025-11-04,14
+Bihar,Jamui,Jamui,Medium,FAQ,109,0,109,2025-01-03,2025-07-03,6
+Uttar Pradesh,Etah,Awagarh,Red,Non-FAQ,137,0,108,2025-01-19,2025-10-31,10
+Madhya Pradesh,Indore,Gautampura,Onion,FAQ,112,0,108,2025-03-08,2025-11-03,18
+Uttar Pradesh,Ayodhya,Rudauli,Red,FAQ,207,0,107,2025-01-02,2025-10-31,32
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Onion,FAQ,189,0,107,2025-01-01,2025-11-05,24
+West Bengal,Puruliya,Kasipur,Other,FAQ,171,0,106,2025-01-03,2025-11-05,9
+Uttar Pradesh,Muzaffarnagar,Khatauli,Red,FAQ,152,0,106,2025-01-03,2025-11-05,70
+Punjab,Ludhiana,Khanna,Other,FAQ,200,0,105,2025-01-02,2025-11-04,8
+Himachal Pradesh,Sirmore,Paonta Sahib,Other,FAQ,139,0,105,2025-01-06,2025-11-03,40
+Tripura,Unokoti,Pabiacherra,Nasik,Non-FAQ,133,0,105,2025-03-01,2025-11-05,22
+Himachal Pradesh,Una,Santoshgarh,Onion,FAQ,122,0,105,2025-01-03,2025-10-29,9
+Telangana,Hyderabad,Mahboob Manison,2nd Sort,Non-FAQ,171,0,104,2025-01-18,2025-11-05,21
+Haryana,Fatehabad,Fatehabad,Other,FAQ,145,0,103,2025-01-02,2025-11-05,16
+Odisha,Boudh,Khunthabandha,Other,Non-FAQ,170,0,102,2025-01-17,2025-10-22,10
+Madhya Pradesh,Mandsaur,Mandsaur,Onion,Non-FAQ,164,0,102,2025-01-22,2025-11-03,15
+Rajasthan,Jaipur,Jaipur (F&V),Other,FAQ,160,0,102,2025-01-02,2025-11-03,11
+Maharashtra,Nashik,Nampur,Other,Local,119,0,102,2025-01-29,2025-10-30,33
+Madhya Pradesh,Shivpuri,Shivpuri,Onion,FAQ,104,0,102,2025-04-07,2025-11-04,10
+West Bengal,Dakshin Dinajpur,Balurghat,1st Sort,FAQ,102,0,102,2025-02-12,2025-06-19,4
+Gujarat,Rajkot,Gondal,Red,FAQ,155,0,101,2025-01-02,2025-10-28,10
+Punjab,Fatehgarh,Khamano,Onion,FAQ,152,0,101,2025-01-06,2025-11-04,13
+Punjab,Fatehgarh,Bassi Pathana,Onion,Non-FAQ,114,0,101,2025-02-22,2025-11-01,18
+West Bengal,Nadia,Nadia,Nasik,FAQ,136,0,100,2025-03-08,2025-11-05,59
+Uttar Pradesh,Amethi,Jafarganj,Red,FAQ,109,0,100,2025-01-01,2025-10-15,28
+Uttrakhand,UdhamSinghNagar,Khateema,Other,FAQ,171,0,99,2025-01-01,2025-10-20,9
+Kerala,Malappuram,Thirurrangadi,Other,FAQ,124,0,99,2025-01-03,2025-11-05,17
+Madhya Pradesh,Neemuch,Neemuch,Red,FAQ,116,0,99,2025-01-03,2025-11-01,27
+Gujarat,Bhavnagar,Mahuva (Station Road),White,FAQ,195,0,98,2025-01-08,2025-11-05,11
+Maharashtra,Ahmednagar,Rahuri (Vambori),Other,Local,101,0,98,2025-01-27,2025-11-03,12
+Gujarat,Jamnagar,Jamnagar,Other,FAQ,183,0,97,2025-01-20,2025-11-05,11
+Haryana,Faridabad,Ballabhgarh,Other,FAQ,159,0,97,2025-01-02,2025-11-05,10
+Maharashtra,Nashik,Satana,Other,Local,108,0,97,2025-03-03,2025-11-04,13
+West Bengal,Coochbehar,Pundibari,Other,FAQ,100,0,97,2025-03-26,2025-09-22,20
+Odisha,Boudh,Khunthabandha,Other,FAQ,187,0,96,2025-01-01,2025-11-04,10
+Andhra Pradesh,Kurnool,Kurnool,Local,FAQ,147,0,96,2025-01-06,2025-11-04,35
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Other,FAQ,159,0,95,2025-01-02,2025-11-04,17
+Uttar Pradesh,Prayagraj,Jasra,Red,FAQ,140,0,95,2025-01-01,2025-10-27,8
+Tripura,North Tripura,Panisagar,Nasik,FAQ,188,0,94,2025-01-01,2025-10-30,22
+Maharashtra,Nagpur,Kamthi,Local,Local,165,0,94,2025-01-26,2025-11-03,9
+Maharashtra,Ahmednagar,Karjat,Local,Local,160,0,94,2025-01-26,2025-10-15,23
+Madhya Pradesh,Gwalior,Lashkar (F&V),Local,Non-FAQ,110,0,94,2025-04-05,2025-11-03,25
+Telangana,Hyderabad,Mahboob Manison,1st Sort,Non-FAQ,184,0,93,2025-01-18,2025-11-05,21
+Uttar Pradesh,Gorakhpur,Chorichora,Red,Non-FAQ,128,0,92,2025-01-20,2025-10-31,19
+Uttar Pradesh,Prayagraj,Sirsa,Red,FAQ,125,0,92,2025-01-16,2025-11-04,39
+Madhya Pradesh,Ratlam,Sailana,Onion,FAQ,107,0,92,2025-01-03,2025-11-03,35
+Manipur,Bishnupur,Bishenpur,Onion,FAQ,158,0,91,2025-01-02,2025-11-05,13
+Haryana,Gurgaon,Pataudi,Other,Non-FAQ,108,0,91,2025-03-25,2025-10-29,9
+Madhya Pradesh,Ujjain,Badnagar,Onion,FAQ,103,0,91,2025-03-28,2025-11-03,20
+Odisha,Keonjhar,Keonjhar,Other,Non-FAQ,149,0,90,2025-01-28,2025-11-04,9
+Madhya Pradesh,Badwani,Sendhwa (F&V),Red,Non-FAQ,147,0,90,2025-01-19,2025-11-02,20
+Madhya Pradesh,Hoshangabad,Hoshangabad (F&V),Onion,FAQ,179,0,89,2025-01-02,2025-10-28,10
+Manipur,Imphal West,Imphal,Other,FAQ,155,0,89,2025-01-03,2025-11-05,11
+Uttar Pradesh,Badaun,Bilsi,Red,Non-FAQ,122,0,89,2025-04-23,2025-11-03,9
+Maharashtra,Thane,Kalyan,1st Sort,Local,171,0,88,2025-01-25,2025-11-03,11
+Rajasthan,Rajsamand,Rajsamand,Onion,FAQ,159,0,88,2025-01-03,2025-10-31,15
+Uttar Pradesh,Shravasti,Payagpur,Red,FAQ,146,0,88,2025-01-01,2025-10-31,12
+Uttar Pradesh,Badaun,Ujhani,Red,Non-FAQ,114,0,88,2025-04-23,2025-11-03,11
+West Bengal,Kolkata,Bara Bazar (Posta Bazar),Nasik,FAQ,167,0,87,2025-01-01,2025-10-22,18
+Manipur,Thoubal,Thoubal,Other,FAQ,156,0,87,2025-01-03,2025-11-05,17
+Rajasthan,Hanumangarh,Dablirathan,1st Sort,FAQ,132,0,87,2025-04-09,2025-11-03,9
+Jammu and Kashmir,Srinagar,Parimpore,Nasik,FAQ,143,0,86,2025-02-21,2025-11-05,9
+Manipur,Imphal East,Lamlong Bazaar,Other,FAQ,156,0,85,2025-01-03,2025-11-05,17
+Punjab,Moga,Baghapurana,Local,FAQ,151,0,85,2025-01-06,2025-10-23,45
+Madhya Pradesh,Shajapur,Shujalpur (F&V),Onion,FAQ,144,0,85,2025-01-01,2025-10-30,15
+Uttar Pradesh,Bijnor,Najibabad,Red,FAQ,117,0,85,2025-01-06,2025-10-31,10
+Himachal Pradesh,Shimla,Rohroo,1st Sort,FAQ,153,0,84,2025-01-01,2025-11-04,27
+Rajasthan,Bikaner,Bikaner (F&V),Other,FAQ,160,0,83,2025-01-01,2025-11-05,13
+Odisha,Boudh,Boudh,Other,FAQ,155,0,81,2025-01-01,2025-11-01,13
+Manipur,Kakching,Kakching Market,Red,FAQ,142,0,80,2025-01-03,2025-11-05,17
+Madhya Pradesh,Sehore,Sehore,Onion,FAQ,143,0,79,2025-01-01,2025-11-03,12
+Haryana,Rohtak,Sampla,Other,FAQ,132,0,79,2025-01-18,2025-11-05,22
+West Bengal,Malda,Gajol,Other,FAQ,180,0,78,2025-01-02,2025-11-03,20
+Karnataka,Davangere,Davangere,Onion,FAQ,115,0,77,2025-01-01,2025-07-01,12
+Odisha,Boudh,Boudh,Other,Non-FAQ,139,0,76,2025-01-17,2025-11-01,13
+Uttar Pradesh,Saharanpur,Chutmalpur,Red,FAQ,124,0,76,2025-01-04,2025-11-03,14
+Madhya Pradesh,Neemuch,Manasa,Onion,FAQ,140,0,75,2025-01-01,2025-10-15,13
+Tripura,Dhalai,Gandacharra,Onion,FAQ,140,0,75,2025-02-11,2025-11-01,27
+Karnataka,Shimoga,Shimoga,Onion,FAQ,111,0,74,2025-01-01,2025-07-01,12
+Uttar Pradesh,Jhansi,Moth,Red,Non-FAQ,144,0,72,2025-02-04,2025-11-03,37
+Punjab,Mohali,Lalru,Other,FAQ,136,0,72,2025-01-03,2025-09-13,24
+Gujarat,Bharuch,Ankleshwar,Nasik,FAQ,101,0,72,2025-01-16,2025-10-18,33
+Uttar Pradesh,Siddharth Nagar,Naugarh,Red,FAQ,125,0,67,2025-02-21,2025-10-31,12
+Kerala,Thiruvananthapuram,Chala,Big,FAQ,142,0,66,2025-01-03,2025-11-05,8
+Haryana,Kurukshetra,Ladwa,Onion,Non-FAQ,134,0,66,2025-01-30,2025-11-04,15
+Haryana,Ambala,Ambala City (Subji Mandi),Other,FAQ,132,0,66,2025-01-16,2025-10-30,25
+Haryana,Panipat,Samalkha,Local,FAQ,132,0,66,2025-01-03,2025-09-20,12
+Himachal Pradesh,Shimla,Shimla,1st Sort,FAQ,147,0,64,2025-01-01,2025-11-03,34
+Punjab,Patiala,Patiala,Onion,FAQ,145,0,64,2025-01-04,2025-10-27,14
+Kerala,Thiruvananthapuram,Chala,Onion,FAQ,138,0,64,2025-01-03,2025-11-05,12
+Punjab,Ludhiana,Doraha,Other,Non-FAQ,121,0,64,2025-01-18,2025-11-03,12
+Gujarat,Rajkot,Gondal,White,FAQ,114,0,64,2025-01-07,2025-08-12,10
+Uttar Pradesh,Balrampur,Panchpedwa,Red,FAQ,140,0,62,2025-01-01,2025-10-30,64
+Maharashtra,Kolhapur,Vadgaonpeth,Local,Local,111,0,62,2025-01-25,2025-11-01,14
+Uttrakhand,Haridwar,Manglaur,Other,FAQ,116,0,61,2025-01-01,2025-10-29,14
+Haryana,Hissar,Hansi,Other,FAQ,108,0,61,2025-01-01,2025-11-05,100
+Karnataka,Dharwad,Hubli (Amaragol),Puna,FAQ,102,0,61,2025-01-01,2025-06-30,26
+Uttar Pradesh,Ballia,Vilthararoad,Other,Non-FAQ,100,0,61,2025-02-18,2025-11-03,14
+Uttar Pradesh,Baghpat,Khekda,Red,FAQ,103,0,59,2025-01-01,2025-11-03,18
+Punjab,Mohali,Kurali,Other,FAQ,122,0,58,2025-01-07,2025-10-16,45
+Punjab,Fatehgarh,Sirhind,Other,FAQ,111,0,58,2025-01-01,2025-09-13,65
+Karnataka,Chikmagalur,Chikkamagalore,Other,FAQ,103,0,58,2025-01-01,2025-07-01,13
+Uttar Pradesh,Jhansi,Mauranipur,Red,Non-FAQ,100,0,58,2025-02-04,2025-09-05,20
+Odisha,Sonepur,Dungurapalli,Other,Non-FAQ,116,0,56,2025-02-20,2025-11-03,37
+Maharashtra,Nashik,Dindori (Vani),Other,Local,110,0,56,2025-03-07,2025-11-03,13
+Punjab,Hoshiarpur,Hoshiarpur,Other,FAQ,118,0,55,2025-01-01,2025-09-17,53
+Punjab,Amritsar,Amritsar (Amritsar Mewa Mandi),Onion,Non-FAQ,100,0,54,2025-02-19,2025-10-17,29
+Uttar Pradesh,Agra,Fatehpur Sikri,Red,FAQ,100,0,54,2025-01-01,2025-10-12,29
+Uttrakhand,Nanital,Ramnagar,Other,FAQ,158,0,53,2025-01-02,2025-11-05,12
+Gujarat,Junagarh,Visavadar,Onion,FAQ,129,0,53,2025-01-02,2025-11-05,22
+Rajasthan,Udaipur,Udaipur (F&V),Other,FAQ,157,0,51,2025-01-01,2025-10-30,14
+Haryana,Kurukshetra,Pehowa,Other,FAQ,117,0,51,2025-01-03,2025-11-05,23
+Himachal Pradesh,Kangra,Kangra (Jassour),Other,FAQ,112,0,51,2025-01-02,2025-09-29,31
+Punjab,Ludhiana,Jagraon,Other,FAQ,108,0,51,2025-01-01,2025-10-10,37
+Uttar Pradesh,Agra,Khairagarh,Red,FAQ,108,0,51,2025-01-04,2025-11-05,19
+Haryana,Mahendragarh-Narnaul,Narnaul,Onion,Non-FAQ,110,0,50,2025-01-31,2025-10-30,31
+Madhya Pradesh,Ratlam,Ratlam,Nasik,FAQ,107,0,50,2025-01-01,2025-10-31,16
+Madhya Pradesh,Shajapur,Shajapur,Medium,Non-FAQ,101,0,50,2025-01-27,2025-10-17,18
+Uttrakhand,Garhwal (Pauri),Kotadwara,Other,FAQ,100,0,50,2025-01-04,2025-10-31,53
+Punjab,Ferozpur,Mamdot,Other,FAQ,126,0,49,2025-01-01,2025-10-29,31
+West Bengal,Coochbehar,Mekhliganj,Other,FAQ,113,0,48,2025-01-01,2025-07-02,9
+Maharashtra,Thane,Kalyan,2nd Sort,Local,101,0,48,2025-01-25,2025-10-17,29
+Kerala,Kottayam,Pampady,Big,FAQ,141,0,45,2025-01-04,2025-11-03,12
+Rajasthan,Balotra,Balotra,1st Sort,FAQ,107,0,43,2025-01-02,2025-10-31,32
+Punjab,Muktsar,Giddarbaha,Onion,FAQ,124,0,42,2025-01-08,2025-11-04,13
+Chattisgarh,Bilaspur,Tiphra,Local,Non-FAQ,129,0,39,2025-01-29,2025-10-29,26
+Kerala,Idukki,Thodupuzha,Big,FAQ,156,0,37,2025-01-02,2025-10-14,18
+Kerala,Idukki,Thodupuzha,Small,FAQ,151,0,37,2025-01-02,2025-10-14,20
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Other,FAQ,106,0,37,2025-01-01,2025-11-03,15
+Uttar Pradesh,Shamli,Thanabhavan,Red,FAQ,108,0,36,2025-01-01,2025-11-03,14
+Tripura,North Tripura,Kadamtala,Nasik,FAQ,140,0,35,2025-01-01,2025-10-16,22
+Kerala,Thirssur,Irinjalakkuda,Other,FAQ,121,0,35,2025-01-03,2025-10-31,14
+Madhya Pradesh,Neemuch,Neemuch,Onion,FAQ,113,0,31,2025-01-01,2025-11-03,19
+Uttrakhand,UdhamSinghNagar,Sitarganj,Other,Non-FAQ,100,0,30,2025-01-18,2025-11-02,17

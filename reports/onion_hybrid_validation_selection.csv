@@ -1,0 +1,751 @@
+State,District,Market,Variety,Grade,Previous Price Baseline,Validation_Records,Linear Regression,Gradient Boosting,XGBoost,Selected_Model,Selection_Reason
+Andhra Pradesh,Kurnool,Kurnool,Local,FAQ,173.5,8,232.06044508944845,265.0031461183329,228.46314239501953,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Bihar,Banka,Barahat,Medium,FAQ,33.333333333333336,21,72.49691178102871,62.52611972650571,86.82748558407738,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Chandigarh,Chandigarh,Chandigarh (Grain/Fruit),Other,FAQ,5.555555555555555,18,27.50384350589367,50.33102669845888,36.512288411458336,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Chattisgarh,Bilaspur,Tiphra,Local,Non-FAQ,235.2941176470588,17,217.59239169948427,216.98130022744274,214.8348388671875,XGBoost,ML model had lower September validation MAE
+Chattisgarh,Durg,Durg,Onion,Non-FAQ,244.44444444444446,18,242.3317767480725,250.24264817736346,256.97169325086804,Linear Regression,ML model had lower September validation MAE
+Goa,North Goa,Mapusa,Onion,FAQ,43.75,24,55.758445760634366,55.068663546393275,53.17074076334635,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Ahmedabad,Ahmedabad (Chimanbhai Patal Market Vasana),Nasik,FAQ,52.63157894736842,19,53.78365761748044,57.66944929304997,55.086213764391445,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Anand,"Anand (Veg,Yard,Anand)",Onion,FAQ,109.375,16,124.39038894223329,126.20692904994303,121.03082275390625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Anand,Khambhat (Veg Yard Khambhat),Other,FAQ,115.78947368421052,19,141.725953998623,136.0448731375781,130.60136333264802,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Banaskanth,Deesa (Deesa Veg Yard),Other,FAQ,73.80952380952381,21,87.01670194426144,92.81729891777748,96.82746233258929,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Bharuch,Bharuch,Other,Non-FAQ,50.0,20,86.71333144305348,64.9533722793544,63.538818359375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Bhavnagar,Mahuva (Station Road),Red,FAQ,131.57894736842104,19,125.56222107790794,146.2611495280646,133.31855532997534,Linear Regression,ML model had lower September validation MAE
+Gujarat,Bhavnagar,Mahuva (Station Road),White,FAQ,247.05882352941177,17,197.6051080714558,203.21388810758654,197.05176858340994,XGBoost,ML model had lower September validation MAE
+Gujarat,Dahod,Dahod (Veg. Market),Onion,FAQ,229.54545454545453,22,190.26538670337652,186.85183546513463,184.85882845791903,XGBoost,ML model had lower September validation MAE
+Gujarat,Jamnagar,Jamnagar,Other,FAQ,123.33333333333333,15,89.29979241545371,114.40718093345755,99.79910074869791,Linear Regression,ML model had lower September validation MAE
+Gujarat,Kachchh,Bhuj,Small,FAQ,61.53846153846154,13,134.80231664866702,94.34565029644264,99.80520395132211,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Kheda,Kapadvanj,Other,FAQ,15.625,24,39.25057645565374,53.94347802820949,44.4244639078776,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Kheda,Nadiyad (Piplag),Onion,FAQ,84.21052631578948,19,95.60895199061136,86.57258504572549,84.43767989309211,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Kheda,Nadiyad (Piplag),Onion,Non-FAQ,155.55555555555554,18,103.13955317965753,112.22082774217321,110.93824598524306,Linear Regression,ML model had lower September validation MAE
+Gujarat,Mehsana,Mehsana (Mehsana Veg),Onion,FAQ,63.1578947368421,19,70.71159464234047,86.53842741772273,76.11570980674342,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Morbi,Morbi,Onion,FAQ,12.5,24,15.472913166594404,55.094706726641185,27.47252146402995,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Navsari,Bilimora,Nasik,FAQ,26.08695652173913,23,42.04281937381377,49.37409030866832,45.19929305366848,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Porbandar,Porbandar,Other,FAQ,26.31578947368421,19,65.20415954399466,77.71076491235583,58.74006411903783,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Rajkot,Gondal,Red,FAQ,42.30769230769231,13,34.42207655814764,117.13866000624586,49.72977858323317,Linear Regression,ML model had lower September validation MAE
+Gujarat,Rajkot,Jetpur (Dist.Rajkot),Onion,FAQ,33.421052631578945,19,38.405477311878236,110.29553017095101,54.706787109375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Rajkot,Rajkot (Veg.Sub Yard),Onion,FAQ,52.63157894736842,19,50.86543615557031,124.69741904340964,67.11686947471217,Linear Regression,ML model had lower September validation MAE
+Gujarat,Surat,Surat,Other,FAQ,29.41176470588235,17,30.87425836289375,58.553031771066586,48.559376436121326,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Gujarat,Vadodara (Baroda),Padra,Other,FAQ,243.75,8,210.78413252727665,205.4606965242563,196.85516357421875,XGBoost,ML model had lower September validation MAE
+Gujarat,Vadodara (Baroda),Vadodara (Sayajipura),Other,FAQ,15.217391304347826,23,28.934511105439082,49.825973265797714,48.79399307914402,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Ambala,Ambala City (Subji Mandi),Other,FAQ,78.25,20,65.41959289678024,65.02189954489636,110.42341918945313,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Ambala,Barara,Other,Non-FAQ,155.55555555555554,18,124.778686624434,130.0030531691109,126.76507907443576,Linear Regression,ML model had lower September validation MAE
+Haryana,Ambala,Naraingarh,Onion,FAQ,188.0,25,172.63629369795112,174.63864721456966,171.871220703125,XGBoost,ML model had lower September validation MAE
+Haryana,Ambala,Shahzadpur,Local,FAQ,377.77777777777777,18,341.4177647398555,326.8834446650528,324.12352159288196,XGBoost,ML model had lower September validation MAE
+Haryana,Faridabad,Ballabhgarh,Other,FAQ,233.33333333333334,12,208.63357351672576,218.27380882303927,216.23275756835938,Linear Regression,ML model had lower September validation MAE
+Haryana,Faridabad,"New Grain Market , Faridabad",Onion,Non-FAQ,209.52380952380952,21,191.9921905681921,188.7339181017067,194.9491722470238,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Fatehabad,Fatehabad,Other,FAQ,275.0,12,260.5342395662149,283.6563364862496,300.35228474934894,Linear Regression,ML model had lower September validation MAE
+Haryana,Fatehabad,Jakhal,Other,FAQ,366.6666666666667,15,297.2317096662704,311.5213427213765,316.0303059895833,Linear Regression,ML model had lower September validation MAE
+Haryana,Fatehabad,Ratia,Other,FAQ,106.81818181818181,22,89.52281636736261,91.78888958741176,90.53558904474431,Linear Regression,ML model had lower September validation MAE
+Haryana,Fatehabad,Tohana (New Veg Market),Onion,FAQ,215.78947368421052,19,234.12426368967144,213.44216257431435,206.13475920024672,XGBoost,ML model had lower September validation MAE
+Haryana,Gurgaon,Farukh Nagar,Other,FAQ,150.0,26,132.9167291830993,134.72924157863474,135.3747793344351,Linear Regression,ML model had lower September validation MAE
+Haryana,Gurgaon,Gurgaon,Other,FAQ,21.73913043478261,23,37.07328833749158,34.038697130355935,35.58472741168478,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Gurgaon,Pataudi,Other,Non-FAQ,250.0,7,229.11494498343072,240.59281618011718,246.4473876953125,Linear Regression,ML model had lower September validation MAE
+Haryana,Gurgaon,Sohna,Onion,FAQ,95.23809523809524,21,85.76554694540854,83.44716606768888,86.968994140625,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Hissar,Barwala (Hisar),Other,FAQ,206.25,16,171.01992085629354,180.97491787703086,175.83431243896484,Linear Regression,ML model had lower September validation MAE
+Haryana,Hissar,Hansi,Other,FAQ,0.0,23,52.03594453823214,21.58893435781622,147.17672596807066,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Hissar,Hissar,Other,FAQ,135.0,20,110.08169020842676,110.82101580237433,113.02315673828124,Linear Regression,ML model had lower September validation MAE
+Haryana,Hissar,Uklana,Onion,FAQ,25.0,24,68.40382155789482,52.62934814945564,55.39519755045573,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Jhajar,Bahadurgarh,Other,FAQ,54.54545454545455,11,61.56284268607506,72.33510596963848,80.79853959517045,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Jhajar,Bahadurgarh,Other,Non-FAQ,109.0909090909091,11,80.1939740990286,93.51522355937244,87.38213556463069,Linear Regression,ML model had lower September validation MAE
+Haryana,Jhajar,Jhajjar,Other,FAQ,15.789473684210526,19,50.26309575243449,22.99868648415316,21.39102333470395,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Jind,Jind,Other,FAQ,93.75,16,87.5390054453105,100.97481029205221,85.26904296875,XGBoost,ML model had lower September validation MAE
+Haryana,Jind,Narwana,Other,FAQ,135.2941176470588,17,138.80776281557857,142.67587516029755,146.28250660615808,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Kaithal,Dhand,Other,FAQ,316.1904761904762,21,268.16051606008796,291.234335788781,237.5978538876488,XGBoost,ML model had lower September validation MAE
+Haryana,Kaithal,Pundri,Other,FAQ,255.55555555555554,18,214.67154675260412,219.35744326609174,218.43732367621527,Linear Regression,ML model had lower September validation MAE
+Haryana,Kaithal,Siwan,Other,FAQ,126.08695652173913,23,143.31120192440463,144.38138668036555,140.96609099014947,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Karnal,Gharaunda,Other,FAQ,40.0,15,65.78415780413026,57.23645259920281,51.41476236979167,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Karnal,Indri,Other,FAQ,106.66666666666667,15,121.42414284340434,121.58206409853105,120.10045572916667,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Karnal,"New Grain Market (main), Karnal",Other,FAQ,65.21739130434783,23,70.70017117688431,71.92788690958541,75.32443104619566,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Kurukshetra,Pehowa,Other,FAQ,201.42857142857142,14,231.22616474172145,213.20507731264993,215.64188929966517,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Kurukshetra,Shahabad,Onion,Non-FAQ,163.5,20,130.4026053643303,139.55298936767977,135.53280639648438,Linear Regression,ML model had lower September validation MAE
+Haryana,Kurukshetra,Thanesar,Onion,Non-FAQ,173.68421052631578,19,169.08532201932155,168.1887016953824,173.99804045024672,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Mahendragarh-Narnaul,Narnaul,Onion,FAQ,222.72727272727272,22,191.9729636776416,194.53948198636144,194.37820157137784,Linear Regression,ML model had lower September validation MAE
+Haryana,Mewat,Punhana,Other,FAQ,105.26315789473684,19,130.09967584848914,131.99626650698121,134.99021510074013,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Palwal,Hodal,Onion,FAQ,88.88888888888889,18,84.628671487918,78.28527213108025,80.59425184461806,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Panchkula,Barwala,Onion,FAQ,12.0,25,31.082265635855673,23.56230777674702,27.51671875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Panchkula,Raipur Rai,Other,FAQ,78.94736842105263,19,85.51570288725561,82.3558150751806,80.07369834498355,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Panipat,Madlauda,Other,FAQ,200.0,23,159.1731285383307,156.8905721347043,158.69156547214675,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Panipat,Panipat,Other,FAQ,155.55555555555554,18,130.07517344629184,147.2155710387887,131.64964124891492,Linear Regression,ML model had lower September validation MAE
+Haryana,Rewari,Rewari,Medium,Non-FAQ,52.27272727272727,22,64.45347582311848,60.922120802533456,59.08067737926137,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Rohtak,Meham,Other,FAQ,127.77777777777777,18,117.3575146096957,131.0383562493923,132.43024359809027,Linear Regression,ML model had lower September validation MAE
+Haryana,Rohtak,Rohtak,Other,FAQ,200.0,14,176.19304898700148,178.079015952121,177.05941336495536,Linear Regression,ML model had lower September validation MAE
+Haryana,Sirsa,Ellanabad,Local,FAQ,135.0,20,121.3387609785319,118.55569242909958,107.8452880859375,XGBoost,ML model had lower September validation MAE
+Haryana,Sirsa,Rania,Other,FAQ,97.27272727272727,22,73.33727621883746,73.96128618927817,82.21572043678977,Linear Regression,ML model had lower September validation MAE
+Haryana,Sirsa,Sirsa,Other,FAQ,85.71428571428571,21,73.62702955803435,76.03819983217106,86.20626395089286,Linear Regression,ML model had lower September validation MAE
+Haryana,Sonipat,Ganaur,Onion,FAQ,16.666666666666668,24,30.530714659683145,21.524474142202866,22.848561604817707,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Sonipat,Gohana,Other,Non-FAQ,95.0,20,112.48306717301868,117.2043658692448,109.86615600585938,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Sonipat,Sonepat,Other,FAQ,290.90909090909093,22,217.29110709580394,228.1245644849232,212.39126309481534,XGBoost,ML model had lower September validation MAE
+Haryana,Sonipat,Sonepat (Kharkhoda),Other,FAQ,94.73684210526316,19,95.25447438152655,92.67107090219918,92.78700657894737,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Yamuna Nagar,Chhachrauli,Onion,FAQ,104.54545454545455,22,100.85629479009259,99.47838821779084,101.74193781072444,Gradient Boosting,ML model had lower September validation MAE
+Haryana,Yamuna Nagar,Jagadhri,Other,FAQ,102.27272727272727,22,106.61555472563182,107.29030552288914,108.11743718927556,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Yamuna Nagar,Mustafabad,Other,FAQ,111.11111111111111,27,117.23956055424252,113.4327723483421,114.26477955005787,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Yamuna Nagar,Radaur,Other,FAQ,36.8421052631579,19,57.18395385804848,47.92666413479456,45.42292865953947,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Yamuna Nagar,Sadhaura,Onion,FAQ,68.18181818181819,22,76.58334400765264,79.07361462434804,78.72809947620739,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Haryana,Yamuna Nagar,Yamuna Nagar,Other,FAQ,80.0,20,76.82359728016115,104.48283513946402,75.59129028320312,XGBoost,ML model had lower September validation MAE
+Himachal Pradesh,Chamba,Chamba,Other,FAQ,8.333333333333334,18,28.63578163670761,26.378789121802633,17.986314561631943,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Hamirpur,Hamirpur,Other,FAQ,35.0,20,47.397706424778654,51.90666977196953,48.03538208007812,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Hamirpur,Hamirpur (Nadaun),Other,FAQ,31.57894736842105,19,44.42323803457189,49.57792865009134,43.16129343133224,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Kangra,Dharamshala,Other,FAQ,77.5,20,96.54922576136656,74.56416875334813,86.5808349609375,Gradient Boosting,ML model had lower September validation MAE
+Himachal Pradesh,Kangra,Kangra,Other,FAQ,43.75,16,93.34988025438626,66.04925757454924,71.42662811279297,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Kangra,Kangra (Baijnath),Onion,FAQ,155.0,20,161.83909679826056,150.7960414908807,155.75223388671876,Gradient Boosting,ML model had lower September validation MAE
+Himachal Pradesh,Kangra,Kangra (Jaisinghpur),1st Sort,FAQ,30.0,15,94.71422667781141,44.805436726733326,59.00615234375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Kangra,Kangra (Nagrota Bagwan),Other,FAQ,33.333333333333336,15,83.17499220071359,55.18105557392132,62.913517252604166,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Kangra,Palampur,Other,FAQ,23.80952380952381,21,58.345900146806876,46.90154154806502,42.058954148065474,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Kullu,Bhuntar,Other,FAQ,159.375,16,145.04848744834504,144.39924442827305,147.07862091064453,Gradient Boosting,ML model had lower September validation MAE
+Himachal Pradesh,Kullu,Kullu,Other,FAQ,228.57142857142858,21,191.39758111581764,197.51918731090979,204.5759509858631,Linear Regression,ML model had lower September validation MAE
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,FAQ,50.0,19,59.1198393459202,63.30750628639645,65.19244706003289,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Mandi,Mandi (Mandi),Onion,FAQ,105.55555555555556,18,96.92203661663432,96.0499382754021,101.28257921006944,Gradient Boosting,ML model had lower September validation MAE
+Himachal Pradesh,Solan,Solan,Other,FAQ,52.63157894736842,19,81.30647313743661,75.09636790304772,75.65499717310855,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Himachal Pradesh,Solan,Solan (Nalagarh),Other,FAQ,55.0,20,61.98412262326609,55.82361992951003,61.669500732421874,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Other,FAQ,155.55555555555554,9,186.67306626690015,162.35933140239027,159.37535264756946,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Jammu and Kashmir,Jammu,Batote,Other,FAQ,188.88888888888889,18,141.81599067684354,139.61866424818913,147.59738498263889,Gradient Boosting,ML model had lower September validation MAE
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Other,FAQ,102.94117647058823,17,111.01301472515821,101.63689678918148,100.39667107077206,XGBoost,ML model had lower September validation MAE
+Jammu and Kashmir,Kathua,Kathua,Other,FAQ,212.5,16,198.91187743515076,199.71429813095477,201.4046630859375,Linear Regression,ML model had lower September validation MAE
+Jammu and Kashmir,Srinagar,Parimpore,Nasik,FAQ,126.66666666666667,15,156.11893460730988,143.24436601498533,145.97460123697917,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Aroor,Big,FAQ,31.57894736842105,19,35.24698638955208,37.493217093169754,43.29060444078947,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Aroor,Small,FAQ,106.25,16,147.01908297897097,147.18413288388018,201.65597534179688,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Chengannur,Onion,FAQ,90.47619047619048,21,178.92378455769853,102.7897847355864,136.70328776041666,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Chengannur,Small,FAQ,400.0,19,392.67591306956206,355.52907462581237,356.34058902138156,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Alappuzha,Cherthala,Big,FAQ,200.0,10,221.8451658113509,216.23055407306302,258.59873046875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Harippad,Big,FAQ,64.28571428571429,14,60.94625917029537,57.09646884071104,63.892752511160715,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Alappuzha,Harippad,Other,FAQ,235.2941176470588,17,205.61125842291543,205.95999977688547,288.93396714154414,Linear Regression,ML model had lower September validation MAE
+Kerala,Alappuzha,Kayamkulam,Big,FAQ,86.36363636363636,22,113.9172522847271,120.3191566718008,135.52869762073863,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Kayamkulam,Small,FAQ,177.27272727272728,22,273.7939846291507,211.4990067610546,206.1750821200284,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Alappuzha,Madhavapuram,Other,FAQ,280.0,20,270.2188172447085,314.55739653245683,349.85716552734374,Linear Regression,ML model had lower September validation MAE
+Kerala,Ernakulam,Aluva,Big,FAQ,70.58823529411765,17,69.08296441695614,65.24784046434982,83.80547736672794,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Ernakulam,Angamaly,Big,FAQ,22.22222222222222,18,56.21818087779596,26.523472278711424,39.76312934027778,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,1258.3333333333333,12,1166.9072051560959,1002.2760622623131,1009.0084025065104,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Ernakulam,Kothamangalam,Big,FAQ,242.10526315789474,19,249.41680218024578,248.22397596141835,251.93233449835526,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Ernakulam,North Paravur,1st Sort,FAQ,70.58823529411765,17,157.04545322587478,130.42668154923672,150.66065889246323,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Ernakulam,Perumbavoor,Onion,FAQ,162.5,16,246.43359171437265,234.6536149751372,243.55055236816406,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Ernakulam,Piravam,Big,FAQ,1031.25,16,1132.243697160703,1155.5573476167249,1283.711181640625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Ernakulam,Thrippunithura,Big,FAQ,116.66666666666667,18,122.18231085735323,126.0512426849896,143.44514973958334,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Idukki,Thodupuzha,Big,FAQ,12.5,8,20.940648516577426,39.54685490177923,79.35995483398438,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Idukki,Thodupuzha,Small,FAQ,357.14285714285717,7,851.7874124243092,725.0323964995359,777.7429547991071,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Idukki,Vandiperiyar,Big,FAQ,76.47058823529412,17,78.21089220867762,67.18899130895852,94.74989947150735,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Kannur,Kannur,Other,FAQ,26.08695652173913,23,56.92704583791298,43.964135067380056,62.31492017663044,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kannur,Taliparamba,Onion,FAQ,8.695652173913043,23,25.592376627234128,18.10361880399885,24.160888671875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kannur,Thalasserry,1st Sort,FAQ,73.07692307692308,26,91.5660653343122,77.63267482073294,79.83324256310097,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kasargod,Kanjangadu,Big,FAQ,40.0,20,64.63041652318671,57.28261521792788,63.65394287109375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kasargod,Neeleswaram,Big,FAQ,206.66666666666666,15,168.92434409376256,176.02915340706892,177.24443359375,Linear Regression,ML model had lower September validation MAE
+Kerala,Kollam,Anchal,Other,FAQ,366.6666666666667,15,276.42917282739563,295.80017822755394,282.7995279947917,Linear Regression,ML model had lower September validation MAE
+Kerala,Kottayam,Athirampuzha,Big,FAQ,23.529411764705884,17,101.98799819129175,37.73727800460259,63.28927791819853,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Athirampuzha,Onion,FAQ,281.25,16,267.70958499898626,282.90862445688697,281.05133056640625,Linear Regression,ML model had lower September validation MAE
+Kerala,Kottayam,Ettumanoor,Big,FAQ,160.0,15,140.39922630159086,138.84382164409914,142.12744140625,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Kottayam,Ettumanoor,Onion,FAQ,113.33333333333333,15,98.39973871064679,113.47223947413828,128.39368489583333,Linear Regression,ML model had lower September validation MAE
+Kerala,Kottayam,Kanjirappally,Big,FAQ,137.5,16,258.750116865014,198.05667076255583,197.9594268798828,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Kanjirappally,Onion,FAQ,210.52631578947367,19,217.18302033095543,278.237915967718,221.47162828947367,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Kottayam,Big,FAQ,141.1764705882353,17,183.27115406341352,155.6132818883146,184.12217084099265,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Kottayam,Onion,FAQ,280.0,20,223.8759210161928,229.28632105090333,243.3061279296875,Linear Regression,ML model had lower September validation MAE
+Kerala,Kottayam,Pala,Big,FAQ,100.0,18,138.813495873695,126.87937490407343,141.94099934895834,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Pampady,Big,FAQ,650.0,10,784.6593021051343,744.7076818769314,816.84306640625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Thalayolaparambu,Big,FAQ,173.33333333333334,15,282.20753855502966,221.90966926024853,203.2322265625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kottayam,Thalayolaparambu,Onion,FAQ,226.31578947368422,19,315.21431885965063,315.5200390530846,319.47169253700656,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kozhikode (Calicut),Kallachi,Other,FAQ,38.888888888888886,18,136.38756683592518,62.57517562514795,107.38716634114583,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Kozhikode (Calicut),Kallachi,Other,Non-FAQ,406.25,16,354.75993605900123,350.3889196927517,399.8647155761719,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Kozhikode (Calicut),Mukkom,Onion,FAQ,111.76470588235294,17,104.91759371713403,109.06993335255378,105.27063706341912,Linear Regression,ML model had lower September validation MAE
+Kerala,Kozhikode (Calicut),Palayam,Other,FAQ,293.75,16,332.2002563425513,290.9061917625282,264.8327102661133,XGBoost,ML model had lower September validation MAE
+Kerala,Kozhikode (Calicut),Perambra,Other,FAQ,77.77777777777777,18,93.8706672720583,72.83266999974519,87.27393934461806,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Malappuram,Kondotty,Other,FAQ,85.71428571428571,14,138.30004935518974,104.37333519417312,122.282958984375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Malappuram,Kottakkal,Other,FAQ,57.89473684210526,19,85.45669975330111,70.43904027056962,94.12698524876645,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Malappuram,Parappanangadi,Other,FAQ,30.0,25,81.28888364464682,33.26593327099544,79.8519140625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Malappuram,Parappanangadi,Small,FAQ,204.34782608695653,23,178.22377540890412,191.549178074032,205.68820057744566,Linear Regression,ML model had lower September validation MAE
+Kerala,Malappuram,Thirurrangadi,Other,FAQ,122.22222222222223,9,93.02306499515483,99.41416978307178,107.637451171875,Linear Regression,ML model had lower September validation MAE
+Kerala,Palakad,Koduvayoor,Big,FAQ,252.6315789473684,19,239.2730963991047,236.3381992946894,240.89370888157896,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Palakad,Koduvayoor,Small,FAQ,284.2105263157895,19,243.093049062679,236.18989506875496,306.964111328125,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Palakad,Kollengode,Big,FAQ,209.52380952380952,21,242.7230397132337,230.00317787570262,268.3590494791667,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Palakad,Kollengode,Small,FAQ,473.6842105263158,19,663.5815129663348,609.7694945704685,644.8022203947369,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Palakad,Palakkad,Big,FAQ,33.333333333333336,18,53.068663554193435,52.809655256959005,75.37392849392361,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Palakad,Palakkad,Small,FAQ,162.5,16,192.2917935426221,158.016626251359,230.15664672851562,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Palakad,Pattambi,Big,FAQ,105.55555555555556,18,102.1258402742603,100.85436280315578,114.95829264322917,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Palakad,Pattambi,Small,FAQ,153.84615384615384,13,225.85275962421534,283.7465683110113,256.70381986177887,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Palakad,Vadakkenchery,Big,FAQ,78.94736842105263,19,111.26960717457553,116.77876704990422,130.60720343338815,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Palakad,Vadakkenchery,Small,FAQ,52.63157894736842,19,106.54935118542888,265.38340109833325,206.76284950657896,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Palakad,vadakarapathy,Small,FAQ,312.5,8,293.1619052244077,272.5747444330196,296.0257873535156,Gradient Boosting,ML model had lower September validation MAE
+Kerala,Thirssur,Chavakkad,Other,FAQ,53.333333333333336,15,60.49709039758218,55.36295436122658,73.11886393229166,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thirssur,Chelakkara,Other,FAQ,183.33333333333334,18,191.09496661905993,187.02193893798872,183.78126356336804,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thirssur,Thrissur,Onion,FAQ,58.333333333333336,12,88.35525896225268,65.13056492212593,76.647705078125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thirssur,Wadakkanchery,Onion,FAQ,46.666666666666664,15,71.49664158912893,60.84063880771167,74.93343098958333,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thiruvananthapuram,Aralamoodu,Onion,FAQ,111.11111111111111,18,160.98908413992342,172.96668248266877,191.37232801649304,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thiruvananthapuram,Balarampuram,1st Sort,FAQ,131.57894736842104,19,213.7679349787495,143.87192099599457,173.5275750411184,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thiruvananthapuram,Chala,Big,FAQ,90.9090909090909,11,156.49511247803503,153.3105872096006,165.89253373579547,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Kerala,Thiruvananthapuram,Chala,Onion,FAQ,527.2727272727273,11,491.99519045773917,525.2787073060292,456.58154296875,XGBoost,ML model had lower September validation MAE
+Kerala,Thiruvananthapuram,Vamanapuram,Other,Non-FAQ,125.0,16,179.32561151813923,151.91681428235503,160.21861267089844,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Badwani,Sendhwa (F&V),Red,Non-FAQ,33.333333333333336,18,40.220626393436,61.65611498499982,37.88734266493056,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Bhopal,Bhopal,Onion,FAQ,104.76190476190476,21,98.3582002916031,131.1677249434721,91.32498895554315,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Bhopal,Bhopal (F&V),Other,Non-FAQ,33.333333333333336,18,43.386323992128084,55.23463763981039,37.19877454969618,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Dewas,Dewas (F&V),Other,FAQ,97.82608695652173,23,76.1407034014748,97.37482606565187,80.07957922894022,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Dhar,Badnawar,Onion,FAQ,50.0,17,46.261685633746616,180.0418671607455,67.65668442670037,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Dhar,Badnawar,Onion,Non-FAQ,29.5,20,30.15986536729914,172.65893242006797,57.0344970703125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Dhar,Badnawar (F&V),Onion,Non-FAQ,13.043478260869565,23,14.727115012430215,183.35294466343726,64.19433859120245,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Dhar,Manawar (F&V),Onion,Non-FAQ,81.21428571428571,14,96.0996330580754,89.8656541246294,101.07568359375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Gwalior,Lashkar (F&V),Local,Non-FAQ,54.54545454545455,22,69.01802922925187,96.24069763025587,69.697265625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Hoshangabad,Hoshangabad (F&V),Onion,FAQ,18.666666666666668,15,22.8493532601211,25.81935526447199,36.77859700520833,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Hoshangabad,Pipariya (F&V),Onion,FAQ,33.333333333333336,21,41.203075573576534,36.154792287770476,46.127418154761905,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Indore,Indore,Onion,FAQ,172.33333333333334,24,161.1562982994688,167.53277043571975,169.84678395589194,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Indore,Indore,Onion,Non-FAQ,167.45,20,135.59890594618264,153.54953964133682,144.34731750488282,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Indore,Indore,Other,FAQ,186.56521739130434,23,151.82822533553076,154.98256620746773,167.9591887100883,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Indore,Indore (F&V),Onion,Non-FAQ,85.64285714285714,14,79.98583274666484,135.52898977327155,86.28936767578125,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Indore,Mhow (F&V),Onion,FAQ,0.0,21,5.527818453030764,45.714295760670666,6.498450869605655,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Jabalpur,Jabalpur (F&V),Local,FAQ,91.30434782608695,23,81.3883154236437,83.8876171430737,78.80800993546195,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Jhabua,Petlawad (F&V),Hybrid,FAQ,104.15789473684211,19,110.82377771985074,101.82743198194721,118.56643194901316,Gradient Boosting,ML model had lower September validation MAE
+Madhya Pradesh,Khandwa,Khandwa,Local,FAQ,177.27272727272728,22,139.79220518138845,157.42116171224959,134.6494806463068,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Khandwa,Sanawad (F&V),Onion,FAQ,80.0,25,86.31156901459673,116.6813411716229,88.16338134765626,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Mandsaur,Mandsaur,Onion,FAQ,264.63157894736844,19,214.05630880297267,270.5674579969057,221.3181505705181,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Mandsaur,Mandsaur,Onion,Non-FAQ,343.3157894736842,19,277.55829648759686,435.74844773241495,333.7070794356497,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Neemuch,Neemuch,Red,FAQ,400.25,20,337.7708648754856,314.6499817894686,310.96474304199216,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Rajgarh,Narsinghgarh,Onion,FAQ,449.375,16,359.94640985520954,393.3387912995589,380.16540908813477,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Rajgarh,Sarangpur,Local,Non-FAQ,379.8181818181818,22,363.1040068224222,362.0065843615255,346.640869140625,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Ratlam,A lot,Onion,FAQ,166.6,15,191.0336999337659,426.8636988568274,280.3664815266927,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Ratlam,Jaora,Onion,FAQ,387.0,19,322.4151244764233,336.1596807674625,297.2694300601357,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Ratlam,Ratlam,Onion,FAQ,265.125,16,213.906370712398,195.3845617449677,204.59265518188477,Gradient Boosting,ML model had lower September validation MAE
+Madhya Pradesh,Ratlam,Ratlam,Onion,Non-FAQ,148.55555555555554,18,129.00732126783475,147.47109810480435,155.31049262152777,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Ratlam,Sailana (F&V),Local,FAQ,71.0,12,82.16599062117004,135.0097339338872,71.04355367024739,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Madhya Pradesh,Sagar,Sagar (F&V),Other,FAQ,61.53846153846154,13,65.85388353532747,70.76802409947949,60.70653357872596,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Shajapur,Kalapipal,Onion,FAQ,343.72222222222223,18,291.9699297704576,309.95255871588324,310.3088141547309,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Shajapur,Kalapipal (F&V),Onion,FAQ,97.96296296296296,27,91.23760724183484,102.57637649745521,89.81673177083333,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Shajapur,Shajapur,Medium,FAQ,245.45454545454547,22,184.11251510004,184.7447611051566,201.74798861416903,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Shajapur,Shajapur,Onion,FAQ,138.61111111111111,18,121.16883909686385,122.0719371311862,114.4439459906684,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Shajapur,Shujalpur,Red,FAQ,290.5263157894737,19,250.72120322213098,431.9483633351156,291.66639468544406,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Shajapur,Soyatkalan,Onion,Non-FAQ,362.63157894736844,19,305.6980071661684,376.74677855767715,335.06753218801396,Linear Regression,ML model had lower September validation MAE
+Madhya Pradesh,Ujjain,Badnagar,Onion,FAQ,191.9,20,152.59360752047834,214.17730341926054,144.49511108398437,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Ujjain,Ujjain,Onion,FAQ,233.33333333333334,18,191.525471955698,190.37521816572058,171.44246419270834,XGBoost,ML model had lower September validation MAE
+Madhya Pradesh,Ujjain,Ujjain,Onion,Non-FAQ,192.0,20,197.88206349695105,188.66530175247476,174.78355407714844,XGBoost,ML model had lower September validation MAE
+Maharashtra,Ahmednagar,Kopargaon,Other,Local,35.95238095238095,21,38.97330862667384,65.95781391909922,39.785975864955354,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Ahmednagar,Sangamner,Other,Local,47.25,16,44.95052101297648,62.3175435542252,42.747867584228516,XGBoost,ML model had lower September validation MAE
+Maharashtra,Amarawati,Amrawati (Frui & Veg. Market),Local,Local,180.95238095238096,21,166.96738324150965,165.60853472579146,169.14612978980654,Gradient Boosting,ML model had lower September validation MAE
+Maharashtra,Chandrapur,Chandrapur (Ganjwad),Other,Local,170.58823529411765,17,132.29245031253126,140.24170309364357,132.58217486213235,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Other,Local,55.36842105263158,19,60.230071153690986,99.2425342194418,57.45340768914474,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Chattrapati Sambhajinagar,Gangapur,Other,Local,76.66666666666667,15,85.24045429637994,104.26675765377146,89.18710530598959,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Chattrapati Sambhajinagar,Lasur Station,Other,Local,42.1875,16,40.78686990493531,81.88368522413654,46.66340637207031,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Dharashiv (Usmanabad),Dharashiv,Red,Local,136.66666666666666,15,107.39379097445394,114.76499823943554,114.00235188802084,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Dhule,Dhule,Red,Local,123.57142857142857,14,126.88007631738938,139.82281824853345,122.94825526646206,XGBoost,ML model had lower September validation MAE
+Maharashtra,Jalgaon,Bhusaval,Other,Local,77.77777777777777,18,88.98642506317464,104.99004370825644,91.73063151041667,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Jalgaon,Jalgaon,Red,Local,89.08333333333333,12,53.577455896506734,71.55281335361067,56.427571614583336,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Kolhapur,Kolhapur,Other,Local,23.529411764705884,17,38.016795921558526,65.98916710543656,42.39278636259191,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Mumbai,Vashi New Mumbai,Other,Local,66.66666666666667,18,71.32594558408238,82.43023166029133,70.52250840928819,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nagpur,Hingna,Red,Local,261.77777777777777,18,197.26689283409016,200.78365599911632,199.41408962673611,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nagpur,Kamthi,Local,Local,66.36363636363636,11,55.961089797154834,69.75354739239292,55.02628950639205,XGBoost,ML model had lower September validation MAE
+Maharashtra,Nagpur,Ramtek,Other,Local,138.46153846153845,13,115.88423942398546,119.5759879950309,121.4006817157452,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nashik,Chandvad,Other,Local,68.0,15,65.52272353165345,83.92158393381571,67.94698486328124,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nashik,Devala,Other,Local,43.75,16,38.345904004827915,75.77967512679905,49.39533996582031,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nashik,Dindori (Vani),Other,Local,49.06666666666667,15,50.759136115688975,60.759037305106204,52.921101888020836,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Kalvan,Other,Local,55.5625,16,56.398185334164076,77.42804832536606,57.600765228271484,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Lasalgaon,Other,Local,43.578947368421055,19,46.659894773222874,55.35245138684907,48.79671438116776,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Lasalgaon (Niphad),Other,Local,37.78947368421053,19,39.74294476109804,59.44081010265944,43.79111842105263,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Manmad,Other,Local,52.38095238095238,21,58.4953343243606,83.7121129728788,66.64284261067708,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Nampur,Other,Local,61.111111111111114,18,60.90236297751395,76.8035663164249,68.49407958984375,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nashik,Nasik,Other,Local,59.63636363636363,22,79.50429125823769,111.91472762741995,84.49333052201705,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Pimpalgaon,Other,Local,38.63636363636363,22,41.437528694762086,53.23084243197755,45.88722922585227,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Nashik,Pimpalgaon Baswant (Saykheda),Other,Local,47.75,20,43.34709328538913,70.93668818591148,46.11956787109375,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nashik,Satana,Other,Local,104.0,15,96.30825805280922,102.39565431554121,96.55926920572917,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Nashik,Yeola,Other,Local,45.785714285714285,14,47.332541252140174,96.54774631140198,52.36964634486607,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Pune,Khed (Chakan),Other,Local,141.66666666666666,12,114.56889410446797,124.87716025891241,124.31253051757812,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Pune,Pune,Local,Local,789.1304347826087,23,766.6582392232177,633.7514640008609,484.65653129245925,XGBoost,ML model had lower September validation MAE
+Maharashtra,Pune,Pune (Khadiki),Local,Local,105.26315789473684,19,89.79623442408081,94.53239869253771,92.96233809621711,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Pune,Pune (Manjri),Local,Local,42.10526315789474,19,65.69091574658579,85.60052884390906,51.75935122841283,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Pune,Pune (Moshi),Local,Local,68.42105263157895,19,65.99171157779793,72.83613396705208,65.41594174033717,XGBoost,ML model had lower September validation MAE
+Maharashtra,Pune,Pune (Pimpri),Local,Local,152.38095238095238,21,113.99906501993303,119.62442089503496,120.46589587983631,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Sangli,"Sangli (Phale, Bhajipura Market)",Local,Local,70.58823529411765,17,63.38135652132091,66.54779653782374,63.38824103860294,Linear Regression,ML model had lower September validation MAE
+Maharashtra,Satara,Karad,Other,Local,130.76923076923077,13,117.57703324131798,111.2238998545907,110.81495079627403,XGBoost,ML model had lower September validation MAE
+Maharashtra,Satara,Satara,Other,Local,23.68421052631579,19,44.814993223543546,33.96074021750419,34.22282329358553,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Sholapur,Mangal Wedha,Local,Local,203.88888888888889,18,181.43302411620263,176.7578289344625,177.89742363823785,Gradient Boosting,ML model had lower September validation MAE
+Maharashtra,Sholapur,Solapur,Red,Local,73.33333333333333,15,92.20608446877957,112.538258525321,89.76215006510417,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Thane,Kalyan,1st Sort,Local,714.2857142857143,14,748.8084124919654,751.8327465537401,779.0658307756696,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Maharashtra,Thane,Kalyan,2nd Sort,Local,70.71428571428571,14,94.29758227041917,111.25184754094951,463.6203090122768,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Manipur,Bishnupur,Bishenpur,Onion,FAQ,0.0,12,50.77817673468038,33.160691018454145,4.58990478515625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Manipur,Imphal East,Lamlong Bazaar,Other,FAQ,0.0,14,63.34003769701803,52.86944849396059,11.466064453125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Manipur,Imphal West,Imphal,Other,FAQ,0.0,13,58.16771985008329,73.69162482865568,43.96300330528846,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Manipur,Kakching,Kakching Market,Red,FAQ,0.0,14,51.15806731041088,52.86944849396059,12.628696986607142,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Manipur,Thoubal,Thoubal,Other,FAQ,0.0,11,70.74281388354513,52.86944849396059,11.682373046875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+NCT of Delhi,Delhi,Azadpur,Onion,FAQ,9.909090909090908,22,26.045797854235584,45.6251500769134,25.519353693181817,Previous Price Baseline,Baseline had equal or lower September validation MAE
+NCT of Delhi,Delhi,Keshopur,Onion,FAQ,102.38095238095238,21,89.86897865376909,90.10824162128176,89.41001674107143,XGBoost,ML model had lower September validation MAE
+NCT of Delhi,Delhi,Shahdara,Other,FAQ,117.6470588235294,17,98.18200767149852,109.76885691947018,113.49134736902573,Linear Regression,ML model had lower September validation MAE
+Odisha,Balasore,Jaleswar,Other,FAQ,156.25,16,181.76970856898657,165.1544738640183,186.7890853881836,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Bargarh,Bargarh,Other,FAQ,200.0,22,234.58042595631298,222.58982706064933,225.26494251598012,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Bargarh,Bargarh (Barapalli),Other,FAQ,208.0,25,250.9141158435023,226.66183469741074,239.774130859375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Boudh,Khunthabandha,Other,FAQ,233.33333333333334,15,214.68401694876366,219.49635636006957,224.88515625,Linear Regression,ML model had lower September validation MAE
+Odisha,Boudh,Khunthabandha,Other,Non-FAQ,268.75,16,223.3402651549805,234.62088473714658,224.7546157836914,Linear Regression,ML model had lower September validation MAE
+Odisha,Dhenkanal,Hindol,Other,Non-FAQ,57.142857142857146,21,108.38056425186642,92.09906404941162,91.14991978236607,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Dhenkanal,Kamakhyanagar,Onion,Non-FAQ,65.21739130434783,23,136.6208553271067,107.30357253394168,123.84182871942934,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Ganjam,Hinjilicut,Other,FAQ,186.36363636363637,22,217.17710910958678,215.53978122164327,216.06385387073863,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Jharsuguda,Jharsuguda,Other,Non-FAQ,136.36363636363637,22,167.46300373819162,159.75332828405547,159.02278275923297,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Keonjhar,Keonjhar,Other,Non-FAQ,35.714285714285715,14,89.49708442880394,59.47885372818636,86.91535295758929,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Khurda,Balugaon,Other,FAQ,169.44444444444446,18,178.19450340965602,190.60124403528906,182.87960476345486,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Khurda,Balugaon,Other,Non-FAQ,118.42105263157895,19,119.09783365567489,109.33025416430907,125.47007349917763,Gradient Boosting,ML model had lower September validation MAE
+Odisha,Mayurbhanja,Udala,Onion,FAQ,56.52173913043478,23,68.54455902431513,74.45050286881404,62.74901282269022,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Nuapada,Khariar,Dry F.A.Q.,Non-FAQ,125.0,8,260.52909476065435,210.40619024368132,255.57640075683594,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Rayagada,Rayagada,Other,FAQ,0.0,15,1.4704981508610218,3.258945506735472,8.783756510416667,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Odisha,Sundergarh,Sargipali,Other,Non-FAQ,57.89473684210526,19,63.06314736256043,79.29609970359887,67.01699989720395,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Bhatinda,Bathinda,Other,FAQ,181.8181818181818,22,203.64806964951893,198.00783973742165,234.44561767578125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,FAQ,113.04347826086956,23,91.14496756457325,102.15029390951041,110.59850543478261,Linear Regression,ML model had lower September validation MAE
+Punjab,Bhatinda,Raman,Other,FAQ,26.666666666666668,21,48.41246276280969,53.60664211582808,40.157156808035715,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Bhatinda,Rampuraphul (Nabha Mandi),Other,Non-FAQ,96.0,25,123.82506613439699,117.64644922056239,116.630078125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Bhatinda,Talwandi Sabo,Other,FAQ,260.0,15,235.92169926689104,236.10240470460928,238.05482584635416,Linear Regression,ML model had lower September validation MAE
+Punjab,Fatehgarh,Bassi Pathana,Onion,Non-FAQ,85.71428571428571,14,118.17896065085192,118.57847735063248,112.29224504743304,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Fatehgarh,Khamano,Onion,FAQ,577.7777777777778,9,708.4672283496244,665.3062747573084,612.2974717881945,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Fazilka,Fazilka,Other,FAQ,21.73913043478261,23,47.76887049342321,38.165709207387714,25.059342094089676,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Fazilka,Jalalabad,Other,FAQ,94.44444444444444,18,104.00249634045605,94.94624352265596,93.08047146267361,XGBoost,ML model had lower September validation MAE
+Punjab,Ferozpur,Firozepur City,Other,FAQ,186.11111111111111,18,146.94605226888385,152.59233493301429,153.5732421875,Linear Regression,ML model had lower September validation MAE
+Punjab,Ferozpur,Mamdot,Other,FAQ,84.61538461538461,13,103.66416359484646,104.1096005483295,104.6936504657452,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Ferozpur,Zira,Local,FAQ,227.27272727272728,22,166.35169521870094,167.24593759981354,175.34759521484375,Linear Regression,ML model had lower September validation MAE
+Punjab,Gurdaspur,Dinanagar,Other,FAQ,46.15384615384615,13,84.54790024415117,86.1006565462633,84.63156362680289,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Gurdaspur,Gurdaspur,Other,FAQ,147.61904761904762,21,139.72161473225,132.7401791372108,135.89071219308036,Gradient Boosting,ML model had lower September validation MAE
+Punjab,Hoshiarpur,Garh Shankar,Other,FAQ,73.6842105263158,19,59.46547270657919,69.37067636336423,72.1971499794408,Linear Regression,ML model had lower September validation MAE
+Punjab,Hoshiarpur,Garh Shankar (Mahalpur),Onion,FAQ,105.88235294117646,17,116.52950316444348,110.18655052632879,120.14794921875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,FAQ,168.75,16,139.64101318077962,145.10587062287905,139.7759017944336,Linear Regression,ML model had lower September validation MAE
+Punjab,Hoshiarpur,Mukerian,Onion,Non-FAQ,63.1578947368421,19,86.85720666662715,83.44423294303076,83.66593210320724,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Hoshiarpur,Tanda Urmur,Other,FAQ,62.5,16,97.61005281881981,58.485147469090506,59.45196533203125,Gradient Boosting,ML model had lower September validation MAE
+Punjab,Jalandhar,Bilga,Other,FAQ,50.0,20,65.17632027709558,54.03864051450701,53.2953369140625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Jalandhar,Jalandhar City (Jalandhar),Other,FAQ,105.26315789473684,19,130.42366215686545,151.8951685063624,133.40546296772203,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Jalandhar,Phillaur (Apra Mandi),Other,FAQ,42.857142857142854,14,105.02331566373557,85.31032922651809,77.17165701729911,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Ludhiana,Khanna,Other,FAQ,15.789473684210526,19,42.419867567039965,50.02444503623286,46.4196134868421,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Ludhiana,Ludhiana,Other,FAQ,14.705882352941176,17,26.68352272598586,67.18186357493512,39.70312140969669,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Ludhiana,Sahnewal,Onion,FAQ,116.66666666666667,12,98.64542965086213,113.69949206366499,107.09552001953125,Linear Regression,ML model had lower September validation MAE
+Punjab,Moga,Nihal Singh Wala,Other,FAQ,109.52380952380952,21,145.42945533376522,142.42080490679436,144.34318033854166,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Mohali,Banur,Other,FAQ,109.0,10,179.04521972256526,160.52879895946626,144.648193359375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Mohali,Dera Bassi,Other,FAQ,77.77777777777777,18,135.72990265403303,111.20847014587801,111.34894476996527,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Mohali,Kharar,Other,Non-FAQ,42.10526315789474,19,66.5389584843194,52.738477559818705,56.37608578330592,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Muktsar,Giddarbaha,Onion,FAQ,50.0,10,92.67553448319218,97.71201226629664,104.183056640625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Muktsar,Malout,Onion,FAQ,295.23809523809524,21,300.8403131105337,296.55470117457344,311.1125953311012,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Muktsar,Muktsar,Red,FAQ,90.0,20,107.47068134190981,112.45717731438981,114.00184326171875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Nawanshahr,Nawan Shahar (Subzi Mandi),Other,FAQ,66.66666666666667,12,80.11322546194206,86.95148267908871,82.555419921875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Patiala,Dudhansadhan,Other,FAQ,50.0,20,54.49646957296827,62.61994771654072,63.742486572265626,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Patiala,Ghanaur,Other,FAQ,42.857142857142854,21,55.09035569643353,46.58278102848794,47.131080264136905,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Patiala,Patran,Other,FAQ,92.22222222222223,18,85.05129373968231,87.43268973464374,87.45989990234375,Linear Regression,ML model had lower September validation MAE
+Punjab,Patiala,Rajpura,Local,Non-FAQ,56.81818181818182,22,54.684972177785674,59.36397501880977,58.99077259410512,Linear Regression,ML model had lower September validation MAE
+Punjab,Patiala,Samana,Other,FAQ,109.0909090909091,22,94.11132130386237,87.98860606465202,89.40674937855114,Gradient Boosting,ML model had lower September validation MAE
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Other,FAQ,193.75,16,366.347446653971,313.25766388567376,356.9696502685547,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Sangrur,Bhawanigarh,Other,FAQ,118.42105263157895,19,120.81707924839439,115.15094377453919,110.0821597450658,XGBoost,ML model had lower September validation MAE
+Punjab,Sangrur,Dhuri,Onion,FAQ,107.6923076923077,13,108.12516579528356,109.44770935511136,110.3644268329327,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Sangrur,Sunam,Onion,FAQ,36.8421052631579,19,49.359787567819524,45.197139167792464,43.47816868832237,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Punjab,Tarntaran,Patti,Other,FAQ,330.0,20,259.30434227116643,280.2856350297585,262.28065795898436,Linear Regression,ML model had lower September validation MAE
+Punjab,Tarntaran,Tarantaran,Other,FAQ,135.2941176470588,17,108.2773173977919,112.00974464356815,108.46543255974265,Linear Regression,ML model had lower September validation MAE
+Punjab,kapurthala,Phagwara,Other,FAQ,116.46666666666667,15,109.28672010750195,106.12220878400007,108.783935546875,Gradient Boosting,ML model had lower September validation MAE
+Rajasthan,Alwar,Alwar (F&V),Other,FAQ,88.23529411764706,17,96.91819222475456,97.66121446951843,88.99969123391544,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Bharatpur,Bayana,Onion,FAQ,35.294117647058826,17,51.55820544425279,38.43835433060552,40.7485782398897,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Bhilwara,Bhilwara,Other,FAQ,19.047619047619047,21,56.104117984548125,33.43859755452564,31.460466657366073,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Churu,Churu,1st Sort,Non-FAQ,85.71428571428571,21,78.03139251085668,76.06430078514848,76.046875,XGBoost,ML model had lower September validation MAE
+Rajasthan,Churu,Sujangarh,Other,FAQ,66.66666666666667,15,74.23498170468544,82.0065815401834,73.54063313802084,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Ganganagar,Sriganganagar (F&V),Other,FAQ,86.95652173913044,23,75.57580550785039,74.332765574012,76.43759553328805,Gradient Boosting,ML model had lower September validation MAE
+Rajasthan,Ganganagar,Suratgarh,1st Sort,FAQ,0.0,21,5.648845302846364,12.90037519065254,6.695039295014881,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Hanumangarh,Bhadara,1st Sort,FAQ,139.95652173913044,23,133.89968935362577,137.55592116849706,140.653564453125,Linear Regression,ML model had lower September validation MAE
+Rajasthan,Hanumangarh,Dablirathan,1st Sort,FAQ,13.636363636363637,22,14.976565653033587,11.440627508915306,14.351368297230113,Gradient Boosting,ML model had lower September validation MAE
+Rajasthan,Hanumangarh,Goluwala,1st Sort,FAQ,66.66666666666667,21,69.49353075465568,72.50917695009451,76.65152413504464,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Hanumangarh,Rawatsar,1st Sort,FAQ,100.0,24,85.18881962561609,85.41533749625675,87.99850972493489,Linear Regression,ML model had lower September validation MAE
+Rajasthan,Hanumangarh,Sangriya,Onion,FAQ,130.0,20,140.29668218339893,139.3285363917632,137.75859375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Jaipur,Jaipur (F&V),Other,FAQ,63.63636363636363,11,68.98524809980387,77.75576557238266,71.40167791193181,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Jaipur Rural,Bassi,Other,Non-FAQ,215.625,16,234.03308485825136,220.20160335300017,220.40618896484375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Jaipur Rural,Chomu (F&V),Other,Non-FAQ,33.333333333333336,18,67.8333126674618,92.5333200479508,73.76987033420139,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Jodhpur,Jodhpur (F&V),Other,FAQ,64.28571428571429,21,60.47013329428572,93.11489558291517,67.68759591238839,Linear Regression,ML model had lower September validation MAE
+Rajasthan,Kota,Kota (F&V),Other,FAQ,162.5,8,153.12515798390228,186.38331265022202,156.66209411621094,Linear Regression,ML model had lower September validation MAE
+Rajasthan,Rajsamand,Rajsamand,Onion,FAQ,0.0,15,18.57880376977311,30.229229361408898,2.8559163411458335,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Rajasthan,Sikar,Sikar,Onion,FAQ,117.6470588235294,17,135.56276464053255,149.9143663877035,130.3177992876838,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Ariyalur,Ariyalur (Uzhavar Sandhai),Bellary,Local,108.33333333333333,24,160.1094601883219,171.13001113625705,157.98531087239584,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Bellary,Local,100.0,23,97.39529016213314,96.8426058439616,101.89638884171195,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Chengalpattu,Chengalpet (Uzhavar Sandhai ),Bellary,Local,190.9090909090909,22,158.45490378268525,153.1631133836224,174.5122403231534,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Chengalpattu,Guduvancheri (Uzhavar Sandhai ),Bellary,Local,245.83333333333334,24,275.30148497310483,259.0661164000837,300.57366434733075,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Chengalpattu,Jameenrayapettai (Uzhavar Sandhai ),Bellary,Local,0.0,25,13.77744511257839,5.562228006431724,15.9452734375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Chengalpattu,Medavakkam (Uzhavar Sandhai ),Bellary,Local,150.0,20,151.7914935115112,148.8986903152773,150.15787353515626,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Chengalpattu,Nanganallur (Uzhavar Sandhai ),Bellary,Local,32.0,25,85.95098215761428,56.09179510569944,132.184775390625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Chengalpattu,Pallavaram (Uzhavar Sandhai ),Bellary,Local,0.0,26,11.940584898807,5.562228006431724,16.016066331129807,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Chengalpattu,Thirukalukundram (Uzhavar Sandhai ),Bellary,Local,125.0,24,160.43976514508026,159.09927806062208,158.84437052408853,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Kurichi (Uzhavar Sandhai ),Bellary,Local,31.818181818181817,22,47.59224086519335,51.915266500415946,56.14506392045455,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Mettupalayam (Uzhavar Sandhai ),Bellary,Local,42.857142857142854,21,63.931113282209765,70.00571558653346,72.80882626488095,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Pollachi (Uzhavar Sandhai ),Bellary,Local,20.0,25,66.18244049439777,44.51511303537551,68.372138671875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,RSPuram (Uzhavar Sandhai ),Bellary,Local,12.5,24,24.17137443350843,27.76362905439542,41.15845743815104,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Singanallur (Uzhavar Sandhai ),Bellary,Local,20.0,20,38.17338112786331,33.28138671717115,55.91741943359375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Sulur (Uzhavar Sandhai ),Bellary,Local,16.0,25,32.44189600848633,29.399772751678228,49.255791015625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Sundarapuram (Uzhavar Sandhai ),Bellary,Local,29.166666666666668,24,44.316335030604215,47.68084201413527,54.688496907552086,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Udumalpet,Bellary,Local,30.0,20,50.746632428721156,40.7163736196326,47.78323974609375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Coimbatore,Vadavalli (Uzhavar Sandhai ),Bellary,Local,52.17391304347826,23,55.799121847665226,53.48908640916348,64.73096764605978,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Cuddalore,Chidambaram (Uzhavar Sandhai ),Bellary,Local,140.0,25,163.3983091099327,178.01398540622344,173.967041015625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Cuddalore,Cuddalore (Uzhavar Sandhai ),Bellary,Local,54.166666666666664,24,72.28634737772084,77.52948314795702,65.44706217447917,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Cuddalore,Panruti (Uzhavar Sandhai ),Bellary,Local,217.3913043478261,23,224.50114756415928,216.50028342781684,229.0946734884511,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Cuddalore,Viruthachalam (Uzhavar Sandhai ),Bellary,Local,27.77777777777778,18,84.37137205270966,60.55000462931033,103.95278591579861,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dharmapuri,AJattihalli (Uzhavar Sandhai ),Bellary,Local,34.78260869565217,23,60.16825781876285,46.59358090534543,79.76960555366848,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dharmapuri,Dharmapuri (Uzhavar Sandhai ),Bellary,Local,17.391304347826086,23,53.21588177587995,37.17914858347773,71.26664402173913,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dharmapuri,Harur (Uzhavar Sandhai ),Bellary,Local,0.0,21,2.8201871986806553,7.374169737805547,19.057640438988095,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dharmapuri,Palacode (Uzhavar Sandhai ),Bellary,Local,55.55555555555556,27,90.51902185928753,83.3822901251961,99.03412543402777,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dharmapuri,Pennagaram (Uzhavar Sandhai ),Bellary,Local,60.869565217391305,23,117.89864405931773,99.87054252467209,112.8797023607337,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dindigul,Chinnalapatti (Uzhavar Sandhai ),Bellary,Local,50.0,24,65.2646413166974,60.823452706138504,76.88627115885417,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dindigul,Dindigul (Uzhavar Sandhai ),Bellary,Local,50.0,24,65.23347933830735,60.823452706138504,77.38222249348958,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dindigul,Palani (Uzhavar Sandhai ),Bellary,Local,9.090909090909092,22,31.26188936624571,19.231460743924945,45.43772194602273,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Dindigul,Vedasanthur (Uzhavar Sandhai ),Bellary,Local,18.181818181818183,22,27.220964120325046,20.412053364155078,34.97212357954545,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Erode,Gobichettipalayam (Uzhavar Sandhai ),Bellary,Local,34.78260869565217,23,55.837801094911676,44.185195283592336,63.91198199728261,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Erode,Perundurai (Uzhavar Sandhai ),Bellary,Local,16.666666666666668,24,21.035250127635038,17.66890839950842,28.672017415364582,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Erode,Sampath Nagar (Uzhavar Sandhai ),Bellary,Local,21.05263157894737,19,45.04065923134876,31.912925752278362,69.05691046463816,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Erode,Sathiyamagalam (Uzhavar Sandhai ),Bellary,Local,8.333333333333334,24,23.13739832760308,16.219321894711566,39.8563232421875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Erode,Thalavadi (Uzhavar Sandhai ),Bellary,Local,10.0,20,25.674946082012184,17.603437225070753,39.86397705078125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Kallakuruchi,Kallakurichi (Uzhavar Sandhai ),Bellary,Local,0.0,24,3.907803166427565,5.562228006431724,20.695953369140625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Kallakuruchi,Sankarapuram (Uzhavar Sandhai ),Bellary,Local,0.0,24,5.761169872754313,10.222439203638052,17.642679850260418,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Kancheepuram,Kancheepuram (Uzhavar Sandhai ),Bellary,Local,638.8888888888889,18,502.3069630917392,509.30307248182976,659.8114556206597,Linear Regression,ML model had lower September validation MAE
+Tamil Nadu,Kancheepuram,Kundrathur (Uzhavar Sandhai ),Bellary,Local,88.0,25,116.31816557823255,102.24909056654879,134.414599609375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Kancheepuram,Padappai (Uzhavar Sandhai ),Bellary,Local,59.09090909090909,22,180.78025325771392,133.77093974048157,269.09481534090907,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Kancheepuram,Sunguvarchatram (Uzhavar Sandhai ),Bellary,Local,28.0,25,52.97256893379092,38.54668660070467,68.608662109375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Karur,Karur (Uzhavar Sandhai ),Bellary,Local,0.0,24,2.0518865411688694,5.562228006431724,15.296346028645834,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Karur,Kulithalai (Uzhavar Sandhai ),Bellary,Local,0.0,22,1.8289035864757723,5.562228006431724,15.66650390625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Karur,Velayuthampalayam (Uzhavar Sandhai ),Bellary,Local,0.0,26,1.76040020394054,5.562228006431724,15.754770132211538,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Krishnagiri,Avallapalli (Uzhavar Sandhai ),Bellary,Local,20.0,25,56.64004326665879,43.90178296054068,85.661474609375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Krishnagiri,Denkanikottai (Uzhavar Sandhai ),Bellary,Local,21.73913043478261,23,60.53898259786739,47.38656367772268,90.08472741168478,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Krishnagiri,Hosur (Uzhavar Sandhai ),Bellary,Local,25.0,20,66.39010486301535,53.800159977645606,96.610302734375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Krishnagiri,Kaveripattinam (Uzhavar Sandhai ),Bellary,Local,22.727272727272727,22,53.12798959768805,36.38484807565138,70.28865189985795,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Krishnagiri,Krishnagiri (Uzhavar Sandhai ),Bellary,Local,36.0,25,60.52614329424936,41.96634345863393,80.374033203125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Anaiyur (Uzhavar Sandhai ),Bellary,Local,30.76923076923077,26,56.382487185273284,57.5825689590661,57.07322340745192,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Anna nagar (Uzhavar Sandhai ),Bellary,Local,27.272727272727273,22,43.438073027812955,55.42408911145065,41.16604891690341,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Chokkikulam (Uzhavar Sandhai ),Bellary,Local,56.0,25,84.92565151335856,89.02047538928419,85.4775,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Melur (Uzhavar Sandhai ),Bellary,Local,80.0,25,91.4320452303237,98.90501955115398,94.351552734375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Palanganatham (Uzhavar Sandhai ),Bellary,Local,34.78260869565217,23,59.66327540024051,61.91642537198896,59.01051927649456,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Thirumangalam (Uzhavar Sandhai ),Bellary,Local,45.45454545454545,22,100.6718305260281,82.76060052953666,93.23848100142045,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Madurai,Usilampatty,Bellary,Local,40.0,25,94.82522259525156,73.36977114683606,86.82830078125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Nagapattinam,Mayiladuthurai (Uzhavar Sandhai ),Bellary,Local,45.45454545454545,22,73.9869639098245,74.84838258756335,70.80909312855114,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Nagapattinam,Nagapattinam (Uzhavar Sandhai ),Bellary,Local,191.30434782608697,23,188.9566803616713,186.71719141226387,213.1817467730978,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Nagapattinam,Sirkali (Uzhavar Sandhai ),Bellary,Local,416.6666666666667,24,341.92331298219705,340.4689071296056,268.03089396158856,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi (Uzhavar Sandhai ),Bellary,Local,21.73913043478261,23,63.78281286559628,42.075265731191074,59.12166694972826,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri,Bellary,Local,21.73913043478261,23,64.28671540973684,42.075265731191074,58.99424677309783,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Namakkal,Kumarapalayam (Uzhavar Sandhai ),Bellary,Local,160.0,25,184.13785711462887,155.9683371542199,181.23357421875,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Namakkal,Mohanur (Uzhavar Sandhai ),Bellary,Local,65.21739130434783,23,99.51228258688325,98.08837632662663,94.92349906589673,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Namakkal,Namakkal (Uzhavar Sandhai ),Bellary,Local,16.666666666666668,24,42.58429917482704,28.71746336723682,47.201517740885414,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Namakkal,Paramathivelur (Uzhavar Sandhai ),Bellary,Local,36.0,25,39.79986763869256,71.46449668136016,80.481884765625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Namakkal,Rasipuram (Uzhavar Sandhai ),Bellary,Local,31.818181818181817,22,66.65594049902283,96.37613691082615,57.33348499644887,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Namakkal,Tiruchengode,Bellary,Local,61.53846153846154,26,94.05884016093965,117.30460735708033,81.7406757061298,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Perambalur,Perambalur (Uzhavar Sandhai ),Bellary,Local,70.83333333333333,24,69.39903873694173,69.60871550557907,73.24728393554688,Linear Regression,ML model had lower September validation MAE
+Tamil Nadu,Pudukkottai,Alangudi (Uzhavar Sandhai ),Bellary,Local,40.0,25,34.97547281621999,34.45870633267383,44.625908203125,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Pudukkottai,Aranthangi (Uzhavar Sandhai ),Bellary,Local,113.63636363636364,22,108.19911895307878,88.36071480674259,117.52350408380681,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Pudukkottai,Gandarvakottai (Uzhavar Sandhai ),Bellary,Local,0.0,24,2.018172184003921,6.989132119888609,14.936726888020834,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Pudukkottai,Karambakkudi (Uzhavar Sandhai ),Bellary,Local,47.61904761904762,21,53.44607883898425,43.47529837933005,67.22200520833333,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Pudukkottai,Pudukottai (Uzhavar Sandhai ),Bellary,Local,0.0,24,20.335248821102272,33.160691018454145,6.71337890625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Pudukkottai,Viralimalai (Uzhavar Sandhai ),Bellary,Local,60.0,20,73.34517960844207,94.91706498834435,79.37235107421876,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Ramanathapuram,Paramakudi (Uzhavar Sandhai ),Bellary,Local,142.85714285714286,21,151.73458708322732,162.10852008141543,142.59242466517858,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Ramanathapuram,Ramanathapuram (Uzhavar Sandhai ),Bellary,Local,136.36363636363637,22,156.86739064934702,128.80754105731933,335.39189009232956,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Ranipet,Arcot (Uzhavar Sandhai ),Bellary,Local,15.0,20,35.97014059490225,24.76799045299947,48.39183349609375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Ranipet,Ranipettai (Uzhavar Sandhai ),Bellary,Local,62.5,24,64.68173378309262,73.12460532574555,64.4268798828125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Ammapet (Uzhavar Sandhai ),Bellary,Local,54.54545454545455,22,73.52279496382266,65.86252734256203,79.92724609375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Athur (Uzhavar Sandhai ),Bellary,Local,70.83333333333333,24,96.09449901051966,83.4515720054609,95.33465576171875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Attayampatti (Uzhavar Sandhai ),Bellary,Local,219.04761904761904,21,186.1560054392201,189.83509330563456,189.3407970610119,Linear Regression,ML model had lower September validation MAE
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Bellary,Local,38.095238095238095,21,76.61683069036033,46.73886026602285,80.22011021205357,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Elampillai (Uzhavar Sandhai ),Bellary,Local,18.181818181818183,22,60.080387859165405,32.22002703907455,64.98329856178977,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Hasthampatti (Uzhavar Sandhai ),Bellary,Local,17.391304347826086,23,58.59970258405492,28.42243916749885,65.0261761209239,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Jalagandapuram (Uzhavar Sandhai ),Bellary,Local,48.0,25,87.78345594233852,62.33097059073114,85.647705078125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Mettur (Uzhavar Sandhai ),Bellary,Local,48.0,25,69.92337254386831,53.09120841222642,78.45103515625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Sooramangalam (Uzhavar Sandhai ),Bellary,Local,15.384615384615385,26,52.98186369794114,26.24364822954644,60.49564302884615,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Bellary,Local,38.095238095238095,21,61.18134315590063,43.60401001614006,70.20300874255952,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Salem,Thathakapatti (Uzhavar Sandhai ),Bellary,Local,23.076923076923077,26,56.45131994977615,34.362395775871306,65.69594163161058,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ),Bellary,Local,81.81818181818181,22,118.57746585203057,106.0757312524671,131.2238103693182,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Sivaganga,Karaikudi (Uzhavar Sandhai ),Bellary,Local,91.66666666666667,24,111.84685700879699,143.05456687149413,106.69181315104167,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Sivaganga,Singampunari (Uzhavar Sandhai ),Bellary,Local,115.38461538461539,26,174.76709237744984,165.13937972206597,173.42596905048077,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ),Bellary,Local,36.36363636363637,22,61.65773990919195,70.29436379207067,78.29883922230114,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Sivaganga,Tirupatthur (Uzhavar Sandhai ),Bellary,Local,52.17391304347826,23,97.41371469909583,128.1700611556523,96.31850798233695,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Tenkasi,Sankarankoil (Uzhavar Sandhai ),Bellary,Local,120.0,25,152.1657762222857,131.88704280707555,155.04634765625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Tenkasi,Tenkasi (Uzhavar Sandhai ),Bellary,Local,100.0,25,172.08841073711832,143.18333983978889,178.04923828125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Bellary,Local,0.0,24,9.150096274158765,54.32305070099301,4.340291341145833,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thanjavur,Papanasam (Uzhavar Sandhai ),Bellary,Local,0.0,21,8.78634881265892,54.32305070099301,4.77490234375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thanjavur,Pattukottai (Uzhavar Sandhai ),Bellary,Local,0.0,23,14.71798982794039,68.17737670705264,20.598898182744566,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thanjavur,Thanjavur (Uzhavar Sandhai ),Bellary,Local,18.181818181818183,22,48.91424077154356,24.577749624847396,59.29918323863637,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,The Nilgiris,Coonoor (Uzhavar Sandhai ),Bellary,Local,228.57142857142858,21,264.25562061899154,251.76227628320225,253.045654296875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,The Nilgiris,Gudalur (Uzhavar Sandhai ),Bellary,Local,8.0,25,26.600906622677286,15.419878743382705,41.05154296875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,The Nilgiris,Udhagamandalam (Uzhavar Sandhai ),Bellary,Local,30.434782608695652,23,66.18282785525787,38.79781147180934,75.12038255774456,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Andipatti (Uzhavar Sandhai ),Bellary,Local,58.333333333333336,24,86.09253561174444,85.22638699715475,86.79066975911458,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Bodinayakanur (Uzhavar Sandhai ),Bellary,Local,11.538461538461538,26,30.577768527118188,22.683499160595638,48.94741586538461,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Chinnamanur (Uzhavar Sandhai ),Bellary,Local,54.166666666666664,24,64.63652732432952,63.19690179214725,72.79915364583333,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Devaram (Uzhavar Sandhai ),Bellary,Local,70.0,20,78.82123166558048,79.99360820780399,95.61953125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Kambam (Uzhavar Sandhai ),Bellary,Local,19.23076923076923,26,40.81934179184392,35.47797488150433,57.34043532151442,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Periyakulam (Uzhavar Sandhai ),Bellary,Local,36.36363636363637,22,52.04254630425817,47.80575784830312,69.5363436612216,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Theni,Theni (Uzhavar Sandhai ),Bellary,Local,16.666666666666668,18,47.20047401193233,40.36108040893472,62.18537055121528,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruchirappalli,Lalgudi (Uzhavar Sandhai ),Bellary,Local,141.66666666666666,24,151.16958018032025,163.72293950963612,141.24383544921875,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Thiruchirappalli,Manachanallur (Uzhavar Sandhai ),Bellary,Local,208.33333333333334,24,208.1863323397557,208.05192467059024,203.54086303710938,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Thiruchirappalli,Manapparai (Uzhavar Sandhai ),Bellary,Local,42.857142857142854,21,37.395943766885225,65.00770081779112,41.03443545386905,Linear Regression,ML model had lower September validation MAE
+Tamil Nadu,Thiruchirappalli,Musiri (Uzhavar Sandhai ),Bellary,Local,0.0,27,9.84487523114462,33.160691018454145,4.039035373263889,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Bellary,Local,21.73913043478261,23,61.6309650960216,46.565464549326464,74.5166652513587,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirunelveli,Melapalayam (Uzhavar Sandhai ),Bellary,Local,13.043478260869565,23,31.66698643998475,24.990343503145795,51.71423870584239,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirunelveli,NGO Colony (Uzhavar Sandhai ),Bellary,Local,16.0,25,38.838405508812464,32.84596714815847,105.5276171875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirunelveli,Palayamkottai (Uzhavar Sandhai ),Bellary,Local,18.51851851851852,27,32.805794526553335,26.804120441797462,50.445619936342595,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirupathur,Natrampalli (Uzhavar Sandhai ),Bellary,Local,44.0,25,66.25459962452811,61.769198313870476,81.327900390625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirupathur,Vaniyampadi (Uzhavar Sandhai ),Bellary,Local,62.5,24,108.19152427238136,95.25204069322626,116.596435546875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirupur,Dharapuram (Uzhavar Sandhai ),Bellary,Local,36.36363636363637,22,99.11923871130607,76.07019316194646,97.95011763139205,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirupur,Kangayam (Uzhavar Sandhai ),Bellary,Local,200.0,24,148.4138069019694,151.43619271601497,159.87958780924478,Linear Regression,ML model had lower September validation MAE
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ),Bellary,Local,74.07407407407408,27,82.37109624877647,77.0676489685004,97.73851634837963,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ),Bellary,Local,68.18181818181819,22,99.98828646011026,77.76104013894918,135.6689120205966,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Arani (Uzhavar Sandhai ),Bellary,Local,178.2608695652174,23,202.3660218911406,195.89050977959587,191.2562096637228,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Chengam (Uzhavar Sandhai ),Bellary,Local,0.0,22,19.42526744810111,5.562228006431724,13.889825994318182,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Cheyyar (Uzhavar Sandhai ),Bellary,Local,143.47826086956522,23,171.18670755572683,166.3563383538156,167.0180133322011,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Keelpennathur (Uzhavar Sandhai ),Bellary,Local,121.73913043478261,23,153.14608247463224,129.4084763032281,165.06565259850544,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Polur (Uzhavar Sandhai ),Bellary,Local,17.24137931034483,29,46.21714636191478,29.617474887189836,40.60256431842672,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai (Uzhavar Sandhai ),Bellary,Local,52.63157894736842,19,62.333081371139734,49.53976530729034,85.13393040707237,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Thiruvannamalai,Vandavasi (Uzhavar Sandhai ),Bellary,Local,187.5,24,183.22608473437984,182.65563985657923,180.47055053710938,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Thiruvarur,Mannargudi I (Uzhavar Sandhai ),Bellary,Local,18.181818181818183,22,45.26892674609357,49.063908320539916,47.85336026278409,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvarur,Mannargudi II (Uzhavar Sandhai ),Bellary,Local,17.391304347826086,23,42.47355950862825,46.09792251407049,45.455014436141305,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvarur,Muthupettai (Uzhavar Sandhai ),Bellary,Local,125.0,24,96.82054203448858,122.90671964678823,72.34951782226562,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Thiruvarur,Needamangalam (Uzhavar Sandhai ),Bellary,Local,38.095238095238095,21,93.00456324829572,81.18338147438492,69.05746605282738,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvarur,Tiruvarur (Uzhavar Sandhai ),Bellary,Local,204.34782608695653,23,211.35679907784478,245.68885191078948,154.8933636209239,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Thiruvarur,Valangaiman,Bellary,Local,34.48275862068966,29,73.05465199721087,58.54021777611324,53.901964911099135,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvellore,Ambattur (Uzhavar Sandhai ),Bellary,Local,20.0,25,60.17181052151138,45.16284223063885,76.239453125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvellore,Naravarikuppam (Uzhavar Sandhai ),Bellary,Local,20.0,25,95.95711820170055,85.86229798177946,91.389951171875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvellore,Paruthipattu (Uzhavar Sandhai ),Bellary,Local,20.0,25,49.226457317396054,36.661574503009504,63.421728515625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvellore,Perambakkam (Uzhavar Sandhai ),Bellary,Local,0.0,22,2.392605192201782,5.562228006431724,18.390880237926137,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Thiruvellore,Tiruvallur (Uzhavar Sandhai ),Bellary,Local,83.33333333333333,24,95.78557731137204,78.77265038545518,190.01751708984375,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Tuticorin,Kovilpatti (Uzhavar Sandhai ),Bellary,Local,239.1304347826087,23,225.61898833448006,209.04409940946982,225.4098590353261,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Tuticorin,Tuticorin (Uzhavar Sandhai ),Bellary,Local,0.0,18,6.9743108134928455,5.562228006431724,15.72280544704861,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Vellore,Gudiyatham (Uzhavar Sandhai ),Bellary,Local,245.0,20,260.2906047174357,247.47961721697112,212.71383056640624,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Vellore,Kahithapattarai (Uzhavar Sandhai ),Bellary,Local,26.31578947368421,19,32.42816206407415,30.280462125375763,41.55202765213816,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Bellary,Local,31.818181818181817,22,41.22697832377606,37.96272744444795,57.00661399147727,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Vellore,Thirupathur,Bellary,Local,0.0,27,21.142329400041742,5.562228006431724,15.296486183449074,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Vellore,Vellore,Bellary,Local,116.66666666666667,24,115.68496230128373,121.9769216892048,127.12816874186198,Linear Regression,ML model had lower September validation MAE
+Tamil Nadu,Villupuram,Gingee (Uzhavar Sandhai ),Bellary,Local,173.91304347826087,23,223.1220128441833,213.5130703498831,211.4288383152174,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Villupuram,Tindivanam,Bellary,Local,51.851851851851855,27,53.323445069046656,54.34466197961936,64.58604600694444,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Villupuram,Ulundurpettai,Bellary,Local,0.0,23,4.058550428017102,5.562228006431724,24.65149456521739,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Virudhunagar,Aruppukottai (Uzhavar Sandhai ),Bellary,Local,113.63636363636364,22,136.4054748112632,120.75743359593312,144.6426336115057,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Virudhunagar,Kariyapatti (Uzhavar Sandhai ),Bellary,Local,21.73913043478261,23,56.07169046237163,49.316522403805855,72.95358143682066,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Virudhunagar,Rajapalayam (Uzhavar Sandhai ),Bellary,Local,68.18181818181819,22,126.98572713154216,133.0873163689985,110.1700439453125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Virudhunagar,Sathur (Uzhavar Sandhai ),Bellary,Local,0.0,23,1.7099994699626975,5.562228006431724,38.414614470108695,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Virudhunagar,Sivakasi (Uzhavar Sandhai ),Bellary,Local,90.9090909090909,22,91.98787971829871,81.25046937845732,84.2388028231534,Gradient Boosting,ML model had lower September validation MAE
+Tamil Nadu,Virudhunagar,Srivilliputhur (Uzhavar Sandhai ),Bellary,Local,20.0,25,36.89028839683406,25.554127694759956,73.190048828125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tamil Nadu,Virudhunagar,Thalavaipuram (Uzhavar Sandhai ),Bellary,Local,238.0952380952381,21,239.26748531974417,248.968836869288,224.4282691592262,XGBoost,ML model had lower September validation MAE
+Tamil Nadu,Virudhunagar,Virudhunagar (Uzhavar Sandhai ),Bellary,Local,230.0,20,206.33067026040672,188.92313464109355,224.09189453125,Gradient Boosting,ML model had lower September validation MAE
+Telangana,Hyderabad,Bowenpally,1st Sort,FAQ,177.77777777777777,18,155.43359587715918,153.95087431347292,152.3256632486979,XGBoost,ML model had lower September validation MAE
+Telangana,Hyderabad,Gudimalkapur,1st Sort,FAQ,109.0909090909091,22,90.05485667094028,97.531959767215,95.34138627485795,Linear Regression,ML model had lower September validation MAE
+Telangana,Hyderabad,Mahboob Manison,1st Sort,FAQ,76.19047619047619,21,85.30685822328826,84.17305971277928,86.56392415364583,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Telangana,Hyderabad,Mahboob Manison,1st Sort,Non-FAQ,47.05882352941177,17,74.04269328541666,85.51100500679267,77.1531120749081,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Telangana,Hyderabad,Mahboob Manison,2nd Sort,FAQ,114.28571428571429,21,104.14310942824986,105.45965313683358,101.20972842261905,XGBoost,ML model had lower September validation MAE
+Telangana,Hyderabad,Mahboob Manison,2nd Sort,Non-FAQ,85.71428571428571,14,68.87530442751164,100.08798978703719,66.36084420340401,XGBoost,ML model had lower September validation MAE
+Telangana,Medak,Sadasivpet,1st Sort,Non-FAQ,146.83333333333334,12,131.38328795833596,135.56932539954803,219.85476684570312,Linear Regression,ML model had lower September validation MAE
+Telangana,Ranga Reddy,Mehndipatnam (Rythu Bazar),1st Sort,FAQ,100.0,10,194.0168750844386,152.2938441461214,158.04130859375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Telangana,Ranga Reddy,Mehndipatnam (Rythu Bazar),1st Sort,Non-FAQ,133.33333333333334,6,246.031300912057,213.1084445718534,217.66495768229166,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tripura,Dhalai,Gandacharra,Onion,FAQ,35.65217391304348,23,94.33035069913932,114.95464837809423,95.67063306725544,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tripura,North Tripura,Dasda,Onion,FAQ,4.166666666666667,24,15.233814892484835,7.404694115096959,16.466684977213543,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tripura,Sepahijala,Bishalgarh,Nasik,FAQ,25.0,20,69.6607961673966,38.147877815770656,44.30152587890625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tripura,Sepahijala,Jumpuijala,Other,FAQ,0.0,21,40.49923045388165,29.48635790114343,3.935791015625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Tripura,Sepahijala,Melaghar,Small,FAQ,69.56521739130434,23,158.51572234435812,74.6785382867539,79.81617803158967,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Agra,Achnera,Red,FAQ,20.416666666666668,24,18.407436424978652,27.05423268969592,24.827870686848957,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Agra,Agra,Red,FAQ,22.142857142857142,28,17.4354974102734,25.894911728989882,23.698957170758927,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Agra,Samsabad,Red,FAQ,47.36842105263158,19,61.0793299214872,97.63469708410554,69.74493086965461,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Aligarh,Aligarh,Red,FAQ,27.391304347826086,23,28.172062347836412,30.761531390568933,26.617325492527176,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Aligarh,Charra,Red,FAQ,0.0,27,10.988089782964758,24.09873836385973,5.256777162905093,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Aligarh,Khair,Red,Non-FAQ,141.66666666666666,24,129.79420933919764,131.70339331654898,132.67233276367188,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Red,FAQ,13.88888888888889,18,13.793802293887389,21.277792004467578,16.74985080295139,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Amethi,Sultanpur,Red,FAQ,13.6,25,17.222055803104496,18.405587260941093,13.14087890625,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Amethi,Sultanpur,Red,Non-FAQ,41.81818181818182,22,38.31655600096512,38.85382548501524,38.05985329367898,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Amroha,Amroha,Red,FAQ,16.956521739130434,23,14.110200723394309,22.70853088727397,19.430398692255434,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Amroha,Hasanpur,Nasik,Non-FAQ,11.0,20,11.317959767596028,38.78568051753196,11.921783447265625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Auraiya,Achalda,Red,FAQ,214.7058823529412,17,199.43962596758385,212.85969706089358,154.70765596277573,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Auraiya,Auraiya,Red,FAQ,23.333333333333332,24,19.594757676573135,24.691723744106913,21.23590596516927,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Ayodhya,Faizabad,Red,FAQ,12.8,25,12.21235273587863,18.95057492639943,14.8371728515625,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Ayodhya,Rudauli,Red,FAQ,408.9130434782609,23,366.57637309168325,393.11762996859864,262.5176205842391,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Azamgarh,Azamgarh,Red,FAQ,18.333333333333332,18,13.648265755878153,25.26095812984248,18.92437744140625,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Badaun,Badayoun,Nasik,FAQ,7.826086956521739,23,8.330125028685327,16.731554381487307,12.169332753057065,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Badaun,Badayoun,Nasik,Non-FAQ,7.826086956521739,23,12.418567474506714,27.066700303463964,20.1376953125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Badaun,Bilsi,Red,FAQ,28.0,5,24.605628703660706,24.138160239737182,21.4852294921875,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Badaun,Bilsi,Red,Non-FAQ,37.142857142857146,7,30.674490263643488,32.672951152022634,31.064679827008927,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Badaun,Ujhani,Red,FAQ,18.333333333333332,6,18.621370769981052,23.518888978721026,20.074686686197918,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Badaun,Ujhani,Red,Non-FAQ,20.0,5,35.30163649784522,21.639860842249526,21.18896484375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Baghpat,Baraut,Red,FAQ,8.80952380952381,21,10.869864138775386,13.668276998496996,10.880836123511905,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bahraich,Bahraich,Red,FAQ,19.782608695652176,23,19.472857363786122,29.568555734986287,24.725235648777176,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Ballia,Ballia,Red,FAQ,14.117647058823529,17,12.254282768002172,21.053423574753477,15.671932444852942,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Ballia,Chitwadagaon,Red,FAQ,12.352941176470589,17,12.693221119614195,17.625820045741527,14.827399758731618,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Ballia,Rasda,Red,FAQ,60.0,19,51.1577112207734,58.16421115053068,52.43516781455592,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Balrampur,Balrampur,Red,FAQ,24.523809523809526,21,25.247852945294923,27.665225096666216,25.138927641369047,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Balrampur,Panchpedwa,Red,FAQ,80.0,15,95.92552709180238,93.79294835273092,85.78653971354167,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Balrampur,Tulsipur,Red,FAQ,22.692307692307693,26,26.621488025564524,31.493474712838694,28.177842360276443,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Banda,Banda,Red,FAQ,32.89473684210526,19,28.141218057589544,34.33780502852066,32.7598298725329,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Barabanki,Barabanki,Red,FAQ,19.0,20,21.490117286428482,21.16415882119054,29.5748046875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Barabanki,Safdarganj,Red,FAQ,12.0,20,15.340180525444817,21.06918774874372,18.029168701171876,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bareilly,Anwala,Red,FAQ,35.0,20,69.2376165509666,89.4156792935521,73.47551879882812,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bareilly,Bareilly,Red,FAQ,12.352941176470589,17,16.711221041066075,26.481929109638124,20.16872989430147,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Basti,Basti,Red,FAQ,14.411764705882353,17,13.177411648436513,18.51421657364025,13.977388269761029,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Bhadohi (Sant Ravi Nagar),Gopiganj,Red,FAQ,11.666666666666666,21,11.497371810200006,15.732060563339138,12.232404436383929,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Bijnor,Bijnaur,Red,FAQ,16.666666666666668,21,15.243800939696257,21.788192775640287,21.522100539434526,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Bijnor,Chaandpur,Red,FAQ,14.285714285714286,21,23.75054362968739,60.59382703854627,34.253150576636905,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bijnor,Najibabad,Red,FAQ,7.142857142857143,14,27.038909354756907,25.487157696046502,17.006600516183035,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bulandshahar,Anoop Shahar,Red,FAQ,100.0,26,106.37170972409947,104.56948008726856,96.77232008713942,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Bulandshahar,Buland Shahr,Red,FAQ,17.857142857142858,21,17.61756755853515,22.083157087606164,17.672276088169642,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Bulandshahar,Gulavati,Red,FAQ,72.72727272727273,22,60.18412433269961,59.801957727286634,54.47640713778409,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Bulandshahar,Jahangirabad,Red,FAQ,9.4,15,10.29718847724586,21.683160176967082,16.139892578125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bulandshahar,Khurja,Red,FAQ,6.111111111111111,18,13.74786644668144,15.8951160523295,9.22332763671875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bulandshahar,Sikarpur,Red,FAQ,18.42105263157895,19,41.31953612422772,84.37918033443177,58.9071623149671,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Bulandshahar,Siyana,Red,FAQ,190.0,20,190.01811269620947,192.2976536702582,189.24691772460938,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Chandauli,Chandoli,Red,FAQ,14.736842105263158,19,16.661154297902982,20.0132380183571,14.60106779399671,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Chitrakut,Karvi,Red,FAQ,39.5,20,44.62348750101545,47.980835924544536,43.68644409179687,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Deoria,Devariya,Red,FAQ,18.94736842105263,19,17.887003149511404,23.816624004173082,18.60803865131579,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Etah,Etah,Red,FAQ,7.75,24,9.79897080525827,13.476977858131411,8.012410481770834,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Etawah,Bharthna,Red,FAQ,27.391304347826086,23,23.379089492296266,30.985905460906757,28.11218792459239,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Etawah,Etawah,Red,FAQ,38.8235294117647,17,40.60361082703734,39.8060055566434,39.85262522977941,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Etawah,Jasvantnagar,Red,FAQ,31.73913043478261,23,35.425425823737996,36.184870376095276,34.64066215183424,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Farukhabad,Farukhabad,Red,FAQ,16.304347826086957,23,16.920065365374008,22.112534296640543,16.690891431725543,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Farukhabad,Kayamganj,Red,FAQ,15.277777777777779,18,18.862645068295038,27.73145215190689,17.498046875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Farukhabad,Mohamadabad,Red,FAQ,12.173913043478262,23,13.222493149173607,17.04492529601056,12.378030528192935,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Fatehpur,Bindki,Red,FAQ,18.095238095238095,21,12.87256191909847,16.18759094473146,19.62983630952381,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Fatehpur,Fatehpur,Red,FAQ,7.916666666666667,24,7.66758162652754,14.376566477488373,10.482864379882812,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Fatehpur,Khaga,Red,FAQ,31.52173913043478,23,23.741887777267976,28.44796642038399,26.760280443274457,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Firozabad,Firozabad,Red,FAQ,15.666666666666666,30,24.0777922080451,27.43280900085202,82.9983642578125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Firozabad,Tundla,Red,FAQ,119.0909090909091,22,97.20188605647937,104.60639443765196,103.33159845525569,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Red,FAQ,11.0,10,20.070672446161915,16.241521565391302,13.8057373046875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Red,Non-FAQ,24.0,10,26.283164288174408,27.061018003287245,23.9991943359375,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Gautam Budh Nagar,Dankaur,Red,FAQ,47.8,25,43.85287090092229,46.147571021976326,42.463740234375,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Ghaziabad,Ghaziabad,Red,FAQ,7.962962962962963,27,21.458667971330595,14.597758697243544,10.112729673032407,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Ghaziabad,Ghaziabad,Red,Non-FAQ,21.19047619047619,21,25.599816117056207,37.66397652442976,24.100149972098215,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Ghaziabad,Hapur,Red,FAQ,16.0,20,20.608665090193973,18.052666330029023,16.087249755859375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Ghaziabad,Muradnagar,Red,FAQ,54.074074074074076,27,51.041992812944855,62.330496890788574,50.890579788773145,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Ghaziabad,Noida,Onion,FAQ,13.91304347826087,23,24.658599610220364,18.768237547797465,13.27095363451087,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Ghazipur,Gazipur,Red,FAQ,14.4,25,15.295717305434046,20.15044020634926,17.770263671875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Gonda,Gonda,Red,FAQ,51.785714285714285,28,46.36937513369916,48.16886235478801,48.79503958565848,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Gonda,Nawabganj,Red,FAQ,18.14814814814815,27,23.746656430289022,26.185050143114168,25.19931369357639,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Gorakhpur,Chorichora,Red,Non-FAQ,26.19047619047619,21,33.98254047667412,37.44561777160503,33.51459030877976,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Gorakhpur,Gorakhpur,Red,FAQ,23.958333333333332,24,18.290762035260702,18.7093365170709,16.395350138346355,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Gorakhpur,Sehjanwa,Red,FAQ,270.0,20,331.1775814518792,298.4456991314191,276.03758544921874,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Hamirpur,Bharuasumerpur,Red,FAQ,31.25,20,25.138735196595405,32.35605125002526,28.333770751953125,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Hamirpur,Muskara,Red,FAQ,27.727272727272727,22,25.235540730025367,30.61483885025291,28.425215287642047,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Hardoi,Hardoi,Pusa-Red,FAQ,9.310344827586206,29,13.29622576954834,17.2435278024221,11.702043204471982,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Hardoi,Madhoganj,Red,FAQ,8.96551724137931,29,15.20931773498931,17.270182277664414,10.852673760775861,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Hardoi,Sandi,Onion,FAQ,11.923076923076923,26,17.9325327804907,16.665600383016542,13.553194486177885,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Hardoi,Sandila,Red,FAQ,9.615384615384615,26,14.14063781452317,18.121035554416146,11.198941744290865,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Hardoi,Shahabad (New Mandi),Red,FAQ,10.74074074074074,27,19.143353386798463,20.60363742770879,16.131804289641202,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Hathras,Haathras,Red,FAQ,27.5,24,25.013593787858724,29.470875359811288,24.102198282877605,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Hathras,Shadabad,Red,FAQ,67.85714285714286,28,64.43092033834772,69.0968553493868,67.00251116071429,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Jalaun (Orai),Orai,Red,FAQ,26.071428571428573,28,28.21967677548596,30.139491924497065,28.242806570870535,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Jaunpur,Jaunpur,Red,FAQ,16.363636363636363,22,17.748267012021838,20.972055820079028,32.48131769353693,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Red,FAQ,10.76923076923077,26,12.179972996078321,15.209426592142476,11.9019775390625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Jhansi,Chirgaon,Red,FAQ,15.454545454545455,22,16.99154768025096,15.814147028376821,17.09222412109375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Jhansi,Gurusarai,Red,FAQ,16.53846153846154,26,16.990017036896322,19.609511691159074,18.64948448768029,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Jhansi,Jhansi,Red,FAQ,16.842105263157894,19,14.624190948728698,18.68062544255318,21.16598350123355,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Jhansi,Mauranipur,Red,FAQ,17.5,24,16.74459463886053,21.92336631144329,20.060007731119793,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Jhansi,Moth,Red,FAQ,21.73913043478261,23,19.837066784307748,22.448254198657246,19.401590098505434,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Jhansi,Moth,Red,Non-FAQ,34.54545454545455,22,30.406114484825764,51.73252759525506,31.360734419389203,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Kannuj,Chhibramau,Red,FAQ,17.5,28,19.912328660741746,23.891504949909297,18.374747140066965,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Kannuj,Kannauj,Red,FAQ,11.6,25,17.6597678706905,24.4115622431457,18.52984375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Kanpur,Choubepur,Red,FAQ,15.76923076923077,26,20.292796528470937,31.543830473399968,22.793316180889423,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Kanpur,Kanpur (Grain),Red,FAQ,18.46153846153846,26,22.081179623182397,25.12247976726114,18.988868126502403,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Kanpur,Uttaripura,Red,FAQ,20.8,25,19.29205480019904,24.868400044717536,21.30888671875,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Kanpur Dehat,Pukharayan,Red,FAQ,18.0,25,20.587627682818358,20.779240319522778,17.552216796875,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Kanpur Dehat,Pukharayan,Red,Non-FAQ,28.541666666666668,24,28.656255190394045,27.915250115093375,27.487436930338543,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Kasganj,Kasganj,Red,FAQ,17.0,30,15.691656673767692,16.642234296606905,14.82491455078125,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Kaushambi,Manjhanpur,Red,FAQ,13.2,25,10.963470846665604,16.79633003211602,13.3418359375,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Red,FAQ,331.60714285714283,28,311.42874662214,319.7905451770215,318.70592825753346,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Red,FAQ,25.434782608695652,23,37.438647840902014,30.67536816184362,31.084536345108695,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Red,Non-FAQ,56.30434782608695,23,52.11867024538254,56.624887003898365,50.983573581861414,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Kushinagar,Tamkuhi road,Red,FAQ,39.09090909090909,22,44.9031196528694,50.340831183090465,46.43874844637784,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Lakhimpur,Golagokarnath,Red,FAQ,30.0,25,41.61969465793021,35.415373307987636,33.1742578125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Lakhimpur,Golagokarnath,Red,Non-FAQ,30.0,25,40.849870081865944,37.8467944830076,36.801669921875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Lakhimpur,Lakhimpur,Red,FAQ,34.827586206896555,29,40.75944624739705,39.03745238980402,36.146892679148706,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Lalitpur,Lalitpur,Red,FAQ,26.53846153846154,26,26.951199441736136,34.501664365429264,31.876662034254807,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Lucknow,Lucknow,Red,FAQ,12.068965517241379,29,15.748717847122414,19.227714475491524,16.858234273976294,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Maharajganj,Anandnagar,Red,FAQ,166.66666666666666,27,140.5518620931299,138.0454763427442,140.04278790509258,Gradient Boosting,ML model had lower September validation MAE
+Uttar Pradesh,Maharajganj,Gadaura,Red,FAQ,13.333333333333334,30,24.785544544526875,29.231020212295267,24.16583251953125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Maharajganj,Nautnava,Red,FAQ,93.6,25,69.18562573866171,75.18918445894076,74.150712890625,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Maharajganj,Partaval,Red,FAQ,15.909090909090908,22,12.736865308028625,16.963376758118795,12.888261274857955,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Mahoba,Mahoba,Red,FAQ,14.210526315789474,19,12.854417287271609,21.156311011919676,16.054244192023027,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Mainpuri,Ghiraur,Red,FAQ,22.06896551724138,29,18.856379019103407,24.76861553139273,23.983436321390087,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Mainpuri,Mainpuri,Red,FAQ,25.925925925925927,27,21.580407356076986,27.861462579985073,25.99140986689815,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Mathura,Kosikalan,Red,FAQ,29.583333333333332,24,28.469854631037123,31.517011271276857,31.99255879720052,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Mathura,Mathura,Red,FAQ,35.833333333333336,24,34.70123452530865,38.01658839085485,36.96876525878906,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Mau (Maunathbhanjan),Doharighat,Red,FAQ,51.041666666666664,24,83.84146382686654,60.654897788313775,61.846293131510414,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Mau (Maunathbhanjan),Kopaganj,Red,FAQ,75.23809523809524,21,67.74013246038469,72.75609298093175,72.4370349702381,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Meerut,Meerut,Red,FAQ,24.09090909090909,22,26.471411490650357,25.702167688012775,23.51578036221591,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Mirzapur,Ahirora,Red,Non-FAQ,26.08695652173913,23,28.824654373993326,53.85065413346888,41.22343643851902,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Mirzapur,Mirzapur,Red,FAQ,13.91304347826087,23,14.55501345279309,18.31158621543491,15.816151494565217,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Muzaffarnagar,Khatauli,Red,FAQ,194.73684210526315,19,186.99685721003493,184.54003318148347,211.30296245374177,Gradient Boosting,ML model had lower September validation MAE
+Uttar Pradesh,Pillibhit,Pilibhit,Red,FAQ,11.2,30,12.14526002153428,15.798599895652,10.107568359375,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Pillibhit,Pilibhit,Red,Non-FAQ,11.2,30,14.623962948092466,15.757860017498464,14.496248372395833,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Pillibhit,Puranpur,Red,FAQ,12.551724137931034,29,14.736016944757043,15.712798221881046,12.05866109913793,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Pillibhit,Puranpur,Red,Non-FAQ,13.241379310344827,29,17.493408769236513,14.174255379687065,15.28583395070043,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Pillibhit,Vishalpur,Red,FAQ,10.0,25,11.616460926400187,17.417452412486245,12.435244140625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Pillibhit,Vishalpur,Red,Non-FAQ,28.84,25,24.941783030934857,28.87289677030575,26.20423828125,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Pratapgarh,Pratapgarh,Red,FAQ,19.655172413793103,29,15.252005853692127,20.020549127665877,19.95227471713362,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Prayagraj,Ajuha,Red,FAQ,15.862068965517242,29,13.048360057035412,18.63884617928819,16.922586375269397,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Prayagraj,Allahabad,Red,FAQ,103.46153846153847,26,102.44310933981382,102.57031733851679,78.15156907301683,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Prayagraj,Jasra,Red,FAQ,15.6,25,18.227191444043445,17.903563451296623,15.6124560546875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Prayagraj,Sirsa,Red,FAQ,52.17391304347826,23,47.4244968734673,58.56247441790611,59.46595299762228,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Raebarelli,Bachranwa,Red,FAQ,9.107142857142858,28,13.002422301055885,17.810795559211005,11.221553257533483,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Raebarelli,Jayas,Red,FAQ,32.82608695652174,23,33.888672734714675,31.775376358595334,30.263008449388586,XGBoost,ML model had lower September validation MAE
+Uttar Pradesh,Raebarelli,Lalganj,Red,FAQ,1.7241379310344827,29,6.5670804620922985,32.917611074146386,16.17634529903017,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Raebarelli,Raibareilly,Red,FAQ,15.833333333333334,30,15.71060193157181,19.852741149595865,18.397318522135418,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Raebarelli,Salon,1st Sort,Non-FAQ,21.272727272727273,22,18.951962067869047,25.43964912002372,21.309270685369317,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Rampur,Milak,Red,FAQ,15.416666666666666,24,14.61726732918486,22.379513827950614,18.102574666341145,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Rampur,Rampur,Red,FAQ,10.357142857142858,28,9.930458983761591,17.93018557444038,14.326616559709821,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Saharanpur,Gangoh,Red,FAQ,133.33333333333334,18,112.03792697521313,110.83439055816329,116.73390706380208,Gradient Boosting,ML model had lower September validation MAE
+Uttar Pradesh,Saharanpur,Saharanpur,Red,FAQ,12.142857142857142,28,18.84838920446661,17.87009132429329,20.023158482142858,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Saharanpur,Saharanpur,Red,Non-FAQ,37.5,28,37.47871351229789,61.16673769196057,39.63350786481585,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Sambhal,Chandausi,Red,FAQ,12.833333333333334,30,12.140164202531293,18.80155193307512,14.823258463541666,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Sambhal,Muradabad,Red,FAQ,8.928571428571429,28,9.394103438580098,16.58259459415728,13.445055280412946,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Sambhal,Sambhal,Red,FAQ,83.33333333333333,30,75.4235609807293,76.14794896194083,76.36693522135417,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Shahjahanpur,Puwaha,Red,FAQ,6.166666666666667,30,7.5819522106921875,15.661896005291911,11.220072428385416,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Shahjahanpur,Puwaha,Red,Non-FAQ,10.666666666666666,30,11.77025108508548,17.104664040785778,13.77918701171875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Shahjahanpur,Tilhar,Red,FAQ,9.655172413793103,29,9.600741015660349,15.892911026809065,10.425789668642242,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Shahjahanpur,Tilhar,Red,Non-FAQ,8.703703703703704,27,10.12000282328703,15.061159745536315,15.661399558738426,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Shamli,Kairana,Red,FAQ,42.857142857142854,28,41.02670798051952,60.68712742652034,45.40608433314732,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Shamli,Khandhla,Red,Non-FAQ,238.0952380952381,21,295.2536937065145,297.4426983580696,327.53465634300596,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Shamli,Shamli,Red,FAQ,16.03448275862069,29,16.853923948695762,25.741903605517713,20.083403488685345,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Shamli,Shamli,Red,Non-FAQ,35.65217391304348,23,32.450977746067885,43.80620365301585,37.26651664402174,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Shamli,Thanabhavan,Red,FAQ,9.090909090909092,11,11.4947421702212,35.92127702791907,13.509221857244318,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Shravasti,Bhinga,Red,FAQ,13.571428571428571,28,12.933155757222437,19.53007876177625,15.855991908482142,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Shravasti,Payagpur,Red,FAQ,115.0,20,108.06798991483004,108.44528229602058,118.346533203125,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Red,FAQ,90.95238095238095,21,78.86567080084585,72.25647140932173,77.46323939732143,Gradient Boosting,ML model had lower September validation MAE
+Uttar Pradesh,Sitapur,Hargaon (Laharpur),Nasik,FAQ,26.428571428571427,28,35.098145645191515,55.64277864547607,35.109200613839285,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Sitapur,Mehmoodabad,Red,FAQ,11.176470588235293,17,15.427330622613294,20.93719117243551,14.332742130055147,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Sitapur,Sitapur,Red,FAQ,12.0,30,12.874305738644837,19.464700468615373,12.306156412760417,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Sitapur,Viswan,Red,FAQ,9.8,25,12.135964651983222,14.914464789681478,10.332294921875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Sonbhadra,Robertsganj,Red,FAQ,11.041666666666666,24,11.354297147852046,19.367536472148164,13.947794596354166,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Unnao,Bangarmau,Red,FAQ,17.24137931034483,29,14.32424998958026,21.701406704970974,16.59441928205819,Linear Regression,ML model had lower September validation MAE
+Uttar Pradesh,Unnao,Unnao,Red,FAQ,10.2,25,15.38871794893189,16.063674554926394,13.517978515625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttar Pradesh,Varanasi,Varanasi (F&V),Red,FAQ,15.0,21,20.15712581873426,18.168842065239957,16.038510277157737,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttrakhand,Dehradoon,Dehradoon,Nasik,FAQ,260.0,15,201.6160795100546,204.4340520291823,204.06142578125,Linear Regression,ML model had lower September validation MAE
+Uttrakhand,Dehradoon,Rishikesh,Other,FAQ,48.214285714285715,28,41.39528053388961,39.36984998823977,41.982064383370535,Gradient Boosting,ML model had lower September validation MAE
+Uttrakhand,Haridwar,Haridwar Union,Onion,FAQ,55.55555555555556,27,63.611972182405694,61.46180868390114,63.86937120225694,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttrakhand,Haridwar,Manglaur,Other,FAQ,190.0,10,156.4188396067621,155.36501179590996,157.94864501953126,Gradient Boosting,ML model had lower September validation MAE
+Uttrakhand,Haridwar,Roorkee,Other,FAQ,0.0,27,55.957487768167134,5.562228006431724,7.472981770833333,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttrakhand,Nanital,Haldwani,Other,FAQ,57.142857142857146,21,66.88433755191754,77.16502598291274,75.32298060825893,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttrakhand,Nanital,Ramnagar,Other,FAQ,75.0,16,68.70147172184176,69.66438434391911,77.62959289550781,Linear Regression,ML model had lower September validation MAE
+Uttrakhand,UdhamSinghNagar,Kashipur,Other,FAQ,163.63636363636363,11,134.94457027436508,152.99870290178217,153.0066583806818,Linear Regression,ML model had lower September validation MAE
+Uttrakhand,UdhamSinghNagar,Khateema,Other,FAQ,80.0,15,95.22058695446874,113.81194829068019,96.84607747395833,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttrakhand,UdhamSinghNagar,Rudrapur,Other,FAQ,86.95652173913044,23,111.31141308345168,109.19712852249121,116.2036716627038,Previous Price Baseline,Baseline had equal or lower September validation MAE
+Uttrakhand,UdhamSinghNagar,Sitarganj,Other,Non-FAQ,112.5,8,93.2865242536563,99.58836715990321,95.74334716796875,Linear Regression,ML model had lower September validation MAE
+West Bengal,Alipurduar,Alipurduar,Other,FAQ,92.5925925925926,27,87.40847036301659,81.05946698799993,81.42264811197917,Gradient Boosting,ML model had lower September validation MAE
+West Bengal,Alipurduar,Falakata,Other,FAQ,54.166666666666664,24,63.971696684146025,62.10427441348125,60.43380228678385,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Bankura,Bankura Sadar,Nasik,FAQ,53.84615384615385,26,46.147931539818124,49.87056383489684,52.37432861328125,Linear Regression,ML model had lower September validation MAE
+West Bengal,Bankura,Bishnupur (Bankura),Nasik,Non-FAQ,10.714285714285714,28,33.20887225151733,26.264468970277523,20.889155796595983,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Birbhum,Birbhum,Other,FAQ,10.0,30,33.225184081869415,23.610867697747192,31.226521809895832,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Birbhum,Bolpur,Onion,FAQ,10.0,30,30.441355642881035,23.610867697747192,30.792236328125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Birbhum,Rampurhat,Local,FAQ,50.0,22,64.35521346340865,62.87902556284832,60.83511075106534,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Birbhum,Sainthia,Onion,FAQ,10.344827586206897,29,31.141612891263197,24.27644489574096,31.597517342403016,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Dakshin Dinajpur,Gangarampur (Dakshin Dinajpur),1st Sort,FAQ,44.0,25,85.93529772841677,71.34585147409044,76.3387939453125,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Darjeeling,Darjeeling,Other,FAQ,7.407407407407407,27,47.84669917258171,39.58527767951465,77.67352973090277,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Darjeeling,Karsiyang (Matigara),Other,FAQ,3.4482758620689653,29,40.071938065199994,32.905179264036285,16.594810748922413,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Darjeeling,Siliguri,Other,FAQ,7.142857142857143,28,15.299639642901395,25.798651493467933,16.255358014787948,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Hooghly,Champadanga,Nasik,FAQ,16.666666666666668,30,27.51263559174293,26.623981372112407,37.65952962239583,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Hooghly,Kalipur,Nasik,FAQ,10.0,30,24.555409375159776,23.531741475452083,35.439794921875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Hooghly,Pandua,Dry F.A.Q.,FAQ,24.137931034482758,29,35.85408923056721,31.494807680886062,36.7451171875,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Hooghly,Sheoraphuly,Nasik,FAQ,31.03448275862069,29,68.88135531131398,61.6307888118225,64.64834489493535,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Howrah,Ramkrishanpur (Howrah),Other,FAQ,20.689655172413794,29,53.28291996311696,43.73324811110806,37.845964102909484,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Howrah,Uluberia,Other,FAQ,13.333333333333334,30,40.31244758655212,32.841489082917725,27.692724609375,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Jalpaiguri,Belacoba,Nasik,FAQ,25.0,24,37.61024460481942,40.14074007669236,37.396464029947914,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Jalpaiguri,Dhupguri,Nasik,FAQ,18.51851851851852,27,33.618130081721205,26.442726015262316,28.07913773148148,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Jalpaiguri,Jalpaiguri Sadar,Nasik,FAQ,11.11111111111111,27,28.026433847450907,19.109838091894947,21.895155164930557,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Jalpaiguri,Moynaguri,Nasik,FAQ,29.166666666666668,24,39.61686180309556,41.831058483421806,40.466695149739586,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Kolkata,Bara Bazar (Posta Bazar),Nasik,FAQ,49.0,20,69.35337267707172,63.25714860825955,54.7962890625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Malda,English Bazar,Other,FAQ,6.896551724137931,29,22.124324003773584,20.268642684203893,25.992486361799568,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Malda,Gajol,Other,FAQ,71.0,20,90.61236817679523,74.85704323877488,84.6232666015625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Malda,Samsi,Onion,FAQ,10.344827586206897,29,19.001178323544224,22.183953588655452,24.591338058997845,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Medinipur (E),Egra/contai,Onion,FAQ,30.0,20,40.482482942001425,35.78095471150065,31.559613037109376,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Medinipur (E),Tamluk (Medinipur E),Onion,FAQ,54.54545454545455,22,65.78270420587461,64.62452407519775,69.5487393465909,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Medinipur (W),Garbeta (Medinipur),Onion,FAQ,9.523809523809524,21,12.939787690733542,13.28889227105598,18.694800967261905,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Medinipur (W),Ghatal,Onion,FAQ,74.0,25,66.8072332432021,69.78567358214245,69.410966796875,Linear Regression,ML model had lower September validation MAE
+West Bengal,Medinipur (W),Medinipur (West),Onion,FAQ,54.44444444444444,27,56.307365337231296,66.21381061047954,57.69271285445602,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Murshidabad,Jangipur,Red,FAQ,51.666666666666664,27,70.83780308851149,70.81339656593454,65.95997902199075,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Nadia,Bethuadahari,Nasik,FAQ,57.69230769230769,26,59.65557577203462,56.34202593038266,59.81846266526442,Gradient Boosting,ML model had lower September validation MAE
+West Bengal,Nadia,Kalyani,Onion,FAQ,3.5714285714285716,28,15.629698014245378,9.462054194141208,15.166041782924108,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Nadia,Karimpur,Nasik,FAQ,37.5,28,56.12439226121676,54.32538875694474,46.543853759765625,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,North 24 Parganas,Barasat,Other,FAQ,20.0,30,52.04172905534384,28.943428408844458,31.378511555989583,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,North 24 Parganas,Habra,Other,FAQ,36.666666666666664,30,97.20135499904436,83.69829113036113,87.20599772135417,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Paschim Bardhaman,Asansol,Nasik,FAQ,39.6551724137931,29,41.78722783890678,49.78029634904004,41.05031822467672,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Paschim Bardhaman,Asansol,Nasik,Non-FAQ,29.62962962962963,27,32.82384936897113,38.9426691453724,38.61060022424768,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Paschim Bardhaman,Durgapur,Nasik,FAQ,37.93103448275862,29,49.70147841338552,48.14412307026147,40.754137762661635,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Paschim Bardhaman,Durgapur,Nasik,Non-FAQ,17.24137931034483,29,20.680743600034358,26.96565044553294,30.519080852640087,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Purba Bardhaman,Burdwan,Nasik,FAQ,19.23076923076923,26,26.25096378070601,25.702621217207952,33.87974665715144,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Purba Bardhaman,Kalna,Local,FAQ,10.344827586206897,29,19.832128303644275,29.954081669810396,19.89622760641164,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Purba Bardhaman,Kalna,Other,FAQ,10.344827586206897,29,33.320646649906514,27.88197059146463,19.50090500404095,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Purba Bardhaman,Katwa,Other,FAQ,38.46153846153846,26,60.579833333415245,41.5191803619983,43.07667893629808,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Puruliya,Balarampur,Other,FAQ,11.11111111111111,27,47.57216746087853,21.63503087168901,19.91915328414352,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Puruliya,Kasipur,Other,FAQ,14.285714285714286,14,27.5730397669213,14.478252639735924,23.375462123325892,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Puruliya,Purulia,Other,FAQ,50.0,28,55.66717446512014,57.92790540057941,54.78420148577009,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Sounth 24 Parganas,Baruipur (Canning),Other,FAQ,13.793103448275861,29,28.72763573952775,27.311106707530033,29.405130320581897,Previous Price Baseline,Baseline had equal or lower September validation MAE
+West Bengal,Sounth 24 Parganas,Diamond Harbour (South 24-pgs),Onion,FAQ,18.42105263157895,19,33.43647525780747,32.37262631673885,36.966013055098685,Previous Price Baseline,Baseline had equal or lower September validation MAE

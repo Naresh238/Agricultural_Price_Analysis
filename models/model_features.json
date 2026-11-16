@@ -1,0 +1,14 @@
+{
+    "model_name": "Improved Linear Regression",
+    "commodity": "BAJRI",
+    "market": "Kada",
+    "district": "Beed",
+    "target": "Modal_Price",
+    "features": [
+        "Month_Number",
+        "Year",
+        "Lag_1",
+        "Lag_2"
+    ],
+    "price_unit": "INR per Quintal"
+}

@@ -1,0 +1,752 @@
+State,District,Market,Variety,Grade,Test_Records,MAE,Selected_Model
+Andhra Pradesh,Kurnool,Kurnool,Local,FAQ,13,102.84615384615384,Previous Price Baseline
+Bihar,Banka,Barahat,Medium,FAQ,14,14.285714285714286,Previous Price Baseline
+Chandigarh,Chandigarh,Chandigarh (Grain/Fruit),Other,FAQ,15,6.666666666666667,Previous Price Baseline
+Chattisgarh,Bilaspur,Tiphra,Local,Non-FAQ,14,390.28761509486606,XGBoost
+Chattisgarh,Durg,Durg,Onion,Non-FAQ,10,285.8786862356805,Linear Regression
+Goa,North Goa,Mapusa,Onion,FAQ,23,93.47826086956522,Previous Price Baseline
+Gujarat,Ahmedabad,Ahmedabad (Chimanbhai Patal Market Vasana),Nasik,FAQ,15,43.333333333333336,Previous Price Baseline
+Gujarat,Anand,"Anand (Veg,Yard,Anand)",Onion,FAQ,14,89.28571428571429,Previous Price Baseline
+Gujarat,Anand,Khambhat (Veg Yard Khambhat),Other,FAQ,15,66.66666666666667,Previous Price Baseline
+Gujarat,Banaskanth,Deesa (Deesa Veg Yard),Other,FAQ,11,43.18181818181818,Previous Price Baseline
+Gujarat,Bharuch,Bharuch,Other,Non-FAQ,16,168.75,Previous Price Baseline
+Gujarat,Bhavnagar,Mahuva (Station Road),Red,FAQ,10,68.56530102201918,Linear Regression
+Gujarat,Bhavnagar,Mahuva (Station Road),White,FAQ,15,195.37694905598957,XGBoost
+Gujarat,Dahod,Dahod (Veg. Market),Onion,FAQ,21,158.79852004278274,XGBoost
+Gujarat,Jamnagar,Jamnagar,Other,FAQ,14,147.81025258408707,Linear Regression
+Gujarat,Kachchh,Bhuj,Small,FAQ,10,55.0,Previous Price Baseline
+Gujarat,Kheda,Kapadvanj,Other,FAQ,17,51.470588235294116,Previous Price Baseline
+Gujarat,Kheda,Nadiyad (Piplag),Onion,FAQ,17,117.6470588235294,Previous Price Baseline
+Gujarat,Kheda,Nadiyad (Piplag),Onion,Non-FAQ,19,77.56636907506602,Linear Regression
+Gujarat,Mehsana,Mehsana (Mehsana Veg),Onion,FAQ,16,125.0,Previous Price Baseline
+Gujarat,Morbi,Morbi,Onion,FAQ,17,20.58823529411765,Previous Price Baseline
+Gujarat,Navsari,Bilimora,Nasik,FAQ,22,50.0,Previous Price Baseline
+Gujarat,Porbandar,Porbandar,Other,FAQ,18,83.33333333333333,Previous Price Baseline
+Gujarat,Rajkot,Gondal,Red,FAQ,10,40.20488940465772,Linear Regression
+Gujarat,Rajkot,Jetpur (Dist.Rajkot),Onion,FAQ,15,37.333333333333336,Previous Price Baseline
+Gujarat,Rajkot,Rajkot (Veg.Sub Yard),Onion,FAQ,13,62.07734461717684,Linear Regression
+Gujarat,Surat,Surat,Other,FAQ,22,61.36363636363637,Previous Price Baseline
+Gujarat,Vadodara (Baroda),Padra,Other,FAQ,12,101.1334737141927,XGBoost
+Gujarat,Vadodara (Baroda),Vadodara (Sayajipura),Other,FAQ,15,80.0,Previous Price Baseline
+Haryana,Ambala,Ambala City (Subji Mandi),Other,FAQ,14,81.9133973893515,Gradient Boosting
+Haryana,Ambala,Barara,Other,Non-FAQ,13,119.55207364548936,Linear Regression
+Haryana,Ambala,Naraingarh,Onion,FAQ,14,143.24788992745536,XGBoost
+Haryana,Ambala,Shahzadpur,Local,FAQ,16,293.33570098876953,XGBoost
+Haryana,Faridabad,Ballabhgarh,Other,FAQ,12,310.08648907373447,Linear Regression
+Haryana,Faridabad,"New Grain Market , Faridabad",Onion,Non-FAQ,15,117.5811735708665,Gradient Boosting
+Haryana,Fatehabad,Fatehabad,Other,FAQ,12,41.68308829723812,Linear Regression
+Haryana,Fatehabad,Jakhal,Other,FAQ,12,168.55124880114127,Linear Regression
+Haryana,Fatehabad,Ratia,Other,FAQ,13,52.16262801063105,Linear Regression
+Haryana,Fatehabad,Tohana (New Veg Market),Onion,FAQ,11,338.06172318892044,XGBoost
+Haryana,Gurgaon,Farukh Nagar,Other,FAQ,21,71.91861712365287,Linear Regression
+Haryana,Gurgaon,Gurgaon,Other,FAQ,18,211.11111111111111,Previous Price Baseline
+Haryana,Gurgaon,Pataudi,Other,Non-FAQ,10,638.5305154342434,Linear Regression
+Haryana,Gurgaon,Sohna,Onion,FAQ,14,46.68553981718885,Gradient Boosting
+Haryana,Hissar,Barwala (Hisar),Other,FAQ,21,119.71967004957735,Linear Regression
+Haryana,Hissar,Hansi,Other,FAQ,21,19.047619047619047,Previous Price Baseline
+Haryana,Hissar,Hissar,Other,FAQ,11,192.4897641346051,Linear Regression
+Haryana,Hissar,Uklana,Onion,FAQ,24,12.5,Previous Price Baseline
+Haryana,Jhajar,Bahadurgarh,Other,FAQ,15,206.66666666666666,Previous Price Baseline
+Haryana,Jhajar,Bahadurgarh,Other,Non-FAQ,14,197.33942093193212,Linear Regression
+Haryana,Jhajar,Jhajjar,Other,FAQ,17,35.294117647058826,Previous Price Baseline
+Haryana,Jind,Jind,Other,FAQ,18,173.41126166449652,XGBoost
+Haryana,Jind,Narwana,Other,FAQ,17,58.8235294117647,Previous Price Baseline
+Haryana,Kaithal,Dhand,Other,FAQ,17,210.7461655560662,XGBoost
+Haryana,Kaithal,Pundri,Other,FAQ,16,119.82221110229358,Linear Regression
+Haryana,Kaithal,Siwan,Other,FAQ,23,30.434782608695652,Previous Price Baseline
+Haryana,Karnal,Gharaunda,Other,FAQ,19,115.78947368421052,Previous Price Baseline
+Haryana,Karnal,Indri,Other,FAQ,14,57.142857142857146,Previous Price Baseline
+Haryana,Karnal,"New Grain Market (main), Karnal",Other,FAQ,12,37.5,Previous Price Baseline
+Haryana,Kurukshetra,Pehowa,Other,FAQ,18,181.66666666666666,Previous Price Baseline
+Haryana,Kurukshetra,Shahabad,Onion,Non-FAQ,18,111.67151943822688,Linear Regression
+Haryana,Kurukshetra,Thanesar,Onion,Non-FAQ,20,103.61421502395152,Gradient Boosting
+Haryana,Mahendragarh-Narnaul,Narnaul,Onion,FAQ,16,76.27324281020908,Linear Regression
+Haryana,Mewat,Punhana,Other,FAQ,14,121.42857142857143,Previous Price Baseline
+Haryana,Palwal,Hodal,Onion,FAQ,13,212.540662741301,Gradient Boosting
+Haryana,Panchkula,Barwala,Onion,FAQ,19,28.94736842105263,Previous Price Baseline
+Haryana,Panchkula,Raipur Rai,Other,FAQ,18,38.888888888888886,Previous Price Baseline
+Haryana,Panipat,Madlauda,Other,FAQ,21,190.66535195722736,Gradient Boosting
+Haryana,Panipat,Panipat,Other,FAQ,15,85.63846234588222,Linear Regression
+Haryana,Rewari,Rewari,Medium,Non-FAQ,21,54.76190476190476,Previous Price Baseline
+Haryana,Rohtak,Meham,Other,FAQ,18,108.12331960736826,Linear Regression
+Haryana,Rohtak,Rohtak,Other,FAQ,18,125.68745668212483,Linear Regression
+Haryana,Sirsa,Ellanabad,Local,FAQ,12,97.87123616536458,XGBoost
+Haryana,Sirsa,Rania,Other,FAQ,20,55.34333135517969,Linear Regression
+Haryana,Sirsa,Sirsa,Other,FAQ,14,70.35464118467858,Linear Regression
+Haryana,Sonipat,Ganaur,Onion,FAQ,24,258.3333333333333,Previous Price Baseline
+Haryana,Sonipat,Gohana,Other,Non-FAQ,22,127.27272727272727,Previous Price Baseline
+Haryana,Sonipat,Sonepat,Other,FAQ,20,144.785986328125,XGBoost
+Haryana,Sonipat,Sonepat (Kharkhoda),Other,FAQ,20,83.53592649574009,Gradient Boosting
+Haryana,Yamuna Nagar,Chhachrauli,Onion,FAQ,24,150.92522705147474,Gradient Boosting
+Haryana,Yamuna Nagar,Jagadhri,Other,FAQ,18,33.333333333333336,Previous Price Baseline
+Haryana,Yamuna Nagar,Mustafabad,Other,FAQ,17,82.3529411764706,Previous Price Baseline
+Haryana,Yamuna Nagar,Radaur,Other,FAQ,14,128.57142857142858,Previous Price Baseline
+Haryana,Yamuna Nagar,Sadhaura,Onion,FAQ,21,52.38095238095238,Previous Price Baseline
+Haryana,Yamuna Nagar,Yamuna Nagar,Other,FAQ,10,64.24899291992188,XGBoost
+Himachal Pradesh,Chamba,Chamba,Other,FAQ,15,0.0,Previous Price Baseline
+Himachal Pradesh,Hamirpur,Hamirpur,Other,FAQ,14,17.857142857142858,Previous Price Baseline
+Himachal Pradesh,Hamirpur,Hamirpur (Nadaun),Other,FAQ,15,3.3333333333333335,Previous Price Baseline
+Himachal Pradesh,Kangra,Dharamshala,Other,FAQ,10,111.48685567782908,Gradient Boosting
+Himachal Pradesh,Kangra,Kangra,Other,FAQ,15,66.66666666666667,Previous Price Baseline
+Himachal Pradesh,Kangra,Kangra (Baijnath),Onion,FAQ,15,89.88728301085868,Gradient Boosting
+Himachal Pradesh,Kangra,Kangra (Jaisinghpur),1st Sort,FAQ,15,60.0,Previous Price Baseline
+Himachal Pradesh,Kangra,Kangra (Nagrota Bagwan),Other,FAQ,15,73.33333333333333,Previous Price Baseline
+Himachal Pradesh,Kangra,Palampur,Other,FAQ,19,50.0,Previous Price Baseline
+Himachal Pradesh,Kullu,Bhuntar,Other,FAQ,20,63.135301340947045,Gradient Boosting
+Himachal Pradesh,Kullu,Kullu,Other,FAQ,22,88.16928297090232,Linear Regression
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Other,FAQ,19,50.0,Previous Price Baseline
+Himachal Pradesh,Mandi,Mandi (Mandi),Onion,FAQ,16,82.80710599143605,Gradient Boosting
+Himachal Pradesh,Solan,Solan,Other,FAQ,13,138.46153846153845,Previous Price Baseline
+Himachal Pradesh,Solan,Solan (Nalagarh),Other,FAQ,15,206.66666666666666,Previous Price Baseline
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Other,FAQ,12,141.66666666666666,Previous Price Baseline
+Jammu and Kashmir,Jammu,Batote,Other,FAQ,15,105.0908284769814,Gradient Boosting
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Other,FAQ,11,102.22999156605114,XGBoost
+Jammu and Kashmir,Kathua,Kathua,Other,FAQ,13,152.2668728475592,Linear Regression
+Jammu and Kashmir,Srinagar,Parimpore,Nasik,FAQ,17,152.94117647058823,Previous Price Baseline
+Kerala,Alappuzha,Aroor,Big,FAQ,21,28.571428571428573,Previous Price Baseline
+Kerala,Alappuzha,Aroor,Small,FAQ,18,205.55555555555554,Previous Price Baseline
+Kerala,Alappuzha,Chengannur,Onion,FAQ,16,187.5,Previous Price Baseline
+Kerala,Alappuzha,Chengannur,Small,FAQ,14,587.8965586286661,Gradient Boosting
+Kerala,Alappuzha,Cherthala,Big,FAQ,10,350.0,Previous Price Baseline
+Kerala,Alappuzha,Harippad,Big,FAQ,19,52.387274288055394,Gradient Boosting
+Kerala,Alappuzha,Harippad,Other,FAQ,17,214.6941063892166,Linear Regression
+Kerala,Alappuzha,Kayamkulam,Big,FAQ,23,152.17391304347825,Previous Price Baseline
+Kerala,Alappuzha,Kayamkulam,Small,FAQ,25,236.0,Previous Price Baseline
+Kerala,Alappuzha,Madhavapuram,Other,FAQ,12,325.83684140221766,Linear Regression
+Kerala,Ernakulam,Aluva,Big,FAQ,18,71.63214362305115,Gradient Boosting
+Kerala,Ernakulam,Angamaly,Big,FAQ,20,90.0,Previous Price Baseline
+Kerala,Ernakulam,Broadway market,1st Sort,Non-FAQ,12,927.7082897934671,Gradient Boosting
+Kerala,Ernakulam,Kothamangalam,Big,FAQ,12,250.0,Previous Price Baseline
+Kerala,Ernakulam,North Paravur,1st Sort,FAQ,15,313.3333333333333,Previous Price Baseline
+Kerala,Ernakulam,Perumbavoor,Onion,FAQ,21,109.52380952380952,Previous Price Baseline
+Kerala,Ernakulam,Piravam,Big,FAQ,20,380.0,Previous Price Baseline
+Kerala,Ernakulam,Thrippunithura,Big,FAQ,15,93.33333333333333,Previous Price Baseline
+Kerala,Idukki,Thodupuzha,Big,FAQ,11,100.0,Previous Price Baseline
+Kerala,Idukki,Thodupuzha,Small,FAQ,10,0.0,Previous Price Baseline
+Kerala,Idukki,Vandiperiyar,Big,FAQ,12,137.4866306103452,Gradient Boosting
+Kerala,Kannur,Kannur,Other,FAQ,24,66.66666666666667,Previous Price Baseline
+Kerala,Kannur,Taliparamba,Onion,FAQ,15,33.333333333333336,Previous Price Baseline
+Kerala,Kannur,Thalasserry,1st Sort,FAQ,27,44.44444444444444,Previous Price Baseline
+Kerala,Kasargod,Kanjangadu,Big,FAQ,18,61.111111111111114,Previous Price Baseline
+Kerala,Kasargod,Neeleswaram,Big,FAQ,16,161.74269623746548,Linear Regression
+Kerala,Kollam,Anchal,Other,FAQ,17,481.84342724622064,Linear Regression
+Kerala,Kottayam,Athirampuzha,Big,FAQ,13,76.92307692307692,Previous Price Baseline
+Kerala,Kottayam,Athirampuzha,Onion,FAQ,10,535.8380250417589,Linear Regression
+Kerala,Kottayam,Ettumanoor,Big,FAQ,15,84.50704717833247,Gradient Boosting
+Kerala,Kottayam,Ettumanoor,Onion,FAQ,13,434.47567095917105,Linear Regression
+Kerala,Kottayam,Kanjirappally,Big,FAQ,18,55.55555555555556,Previous Price Baseline
+Kerala,Kottayam,Kanjirappally,Onion,FAQ,19,52.63157894736842,Previous Price Baseline
+Kerala,Kottayam,Kottayam,Big,FAQ,17,611.7647058823529,Previous Price Baseline
+Kerala,Kottayam,Kottayam,Onion,FAQ,11,564.5322129957319,Linear Regression
+Kerala,Kottayam,Pala,Big,FAQ,15,40.0,Previous Price Baseline
+Kerala,Kottayam,Pampady,Big,FAQ,10,620.0,Previous Price Baseline
+Kerala,Kottayam,Thalayolaparambu,Big,FAQ,15,93.33333333333333,Previous Price Baseline
+Kerala,Kottayam,Thalayolaparambu,Onion,FAQ,18,222.22222222222223,Previous Price Baseline
+Kerala,Kozhikode (Calicut),Kallachi,Other,FAQ,15,26.666666666666668,Previous Price Baseline
+Kerala,Kozhikode (Calicut),Kallachi,Other,Non-FAQ,13,418.8278134038344,Gradient Boosting
+Kerala,Kozhikode (Calicut),Mukkom,Onion,FAQ,19,116.12317225676526,Linear Regression
+Kerala,Kozhikode (Calicut),Palayam,Other,FAQ,13,103.20553823617789,XGBoost
+Kerala,Kozhikode (Calicut),Perambra,Other,FAQ,15,164.45651914269493,Gradient Boosting
+Kerala,Malappuram,Kondotty,Other,FAQ,21,52.38095238095238,Previous Price Baseline
+Kerala,Malappuram,Kottakkal,Other,FAQ,13,53.84615384615385,Previous Price Baseline
+Kerala,Malappuram,Parappanangadi,Other,FAQ,22,47.72727272727273,Previous Price Baseline
+Kerala,Malappuram,Parappanangadi,Small,FAQ,24,284.4398968079375,Linear Regression
+Kerala,Malappuram,Thirurrangadi,Other,FAQ,11,145.44429673358695,Linear Regression
+Kerala,Palakad,Koduvayoor,Big,FAQ,22,309.7607040211593,Gradient Boosting
+Kerala,Palakad,Koduvayoor,Small,FAQ,22,562.7879292190809,Gradient Boosting
+Kerala,Palakad,Kollengode,Big,FAQ,12,241.66666666666666,Previous Price Baseline
+Kerala,Palakad,Kollengode,Small,FAQ,12,250.0,Previous Price Baseline
+Kerala,Palakad,Palakkad,Big,FAQ,19,126.3157894736842,Previous Price Baseline
+Kerala,Palakad,Palakkad,Small,FAQ,18,532.1406420246565,Gradient Boosting
+Kerala,Palakad,Pattambi,Big,FAQ,16,125.67882572551275,Gradient Boosting
+Kerala,Palakad,Pattambi,Small,FAQ,16,225.0,Previous Price Baseline
+Kerala,Palakad,Vadakkenchery,Big,FAQ,19,128.94736842105263,Previous Price Baseline
+Kerala,Palakad,Vadakkenchery,Small,FAQ,16,125.0,Previous Price Baseline
+Kerala,Palakad,vadakarapathy,Small,FAQ,11,324.1500984479621,Gradient Boosting
+Kerala,Thirssur,Chavakkad,Other,FAQ,13,107.6923076923077,Previous Price Baseline
+Kerala,Thirssur,Chelakkara,Other,FAQ,19,242.10526315789474,Previous Price Baseline
+Kerala,Thirssur,Thrissur,Onion,FAQ,17,35.294117647058826,Previous Price Baseline
+Kerala,Thirssur,Wadakkanchery,Onion,FAQ,13,146.15384615384616,Previous Price Baseline
+Kerala,Thiruvananthapuram,Aralamoodu,Onion,FAQ,20,175.0,Previous Price Baseline
+Kerala,Thiruvananthapuram,Balarampuram,1st Sort,FAQ,13,230.76923076923077,Previous Price Baseline
+Kerala,Thiruvananthapuram,Chala,Big,FAQ,16,312.5,Previous Price Baseline
+Kerala,Thiruvananthapuram,Chala,Onion,FAQ,15,672.1009765625,XGBoost
+Kerala,Thiruvananthapuram,Vamanapuram,Other,Non-FAQ,17,58.8235294117647,Previous Price Baseline
+Madhya Pradesh,Badwani,Sendhwa (F&V),Red,Non-FAQ,19,68.42105263157895,Previous Price Baseline
+Madhya Pradesh,Bhopal,Bhopal,Onion,FAQ,19,78.36957429584704,XGBoost
+Madhya Pradesh,Bhopal,Bhopal (F&V),Other,Non-FAQ,15,126.66666666666667,Previous Price Baseline
+Madhya Pradesh,Dewas,Dewas (F&V),Other,FAQ,18,75.88328402623296,Linear Regression
+Madhya Pradesh,Dhar,Badnawar,Onion,FAQ,11,49.8161423141617,Linear Regression
+Madhya Pradesh,Dhar,Badnawar,Onion,Non-FAQ,10,50.0,Previous Price Baseline
+Madhya Pradesh,Dhar,Badnawar (F&V),Onion,Non-FAQ,15,26.666666666666668,Previous Price Baseline
+Madhya Pradesh,Dhar,Manawar (F&V),Onion,Non-FAQ,16,100.6875,Previous Price Baseline
+Madhya Pradesh,Gwalior,Lashkar (F&V),Local,Non-FAQ,10,40.0,Previous Price Baseline
+Madhya Pradesh,Hoshangabad,Hoshangabad (F&V),Onion,FAQ,12,25.0,Previous Price Baseline
+Madhya Pradesh,Hoshangabad,Pipariya (F&V),Onion,FAQ,14,28.571428571428573,Previous Price Baseline
+Madhya Pradesh,Indore,Indore,Onion,FAQ,14,160.256528876452,Linear Regression
+Madhya Pradesh,Indore,Indore,Onion,Non-FAQ,17,183.05322798656604,Linear Regression
+Madhya Pradesh,Indore,Indore,Other,FAQ,10,137.3004090413387,Linear Regression
+Madhya Pradesh,Indore,Indore (F&V),Onion,Non-FAQ,13,70.32159718422139,Linear Regression
+Madhya Pradesh,Indore,Mhow (F&V),Onion,FAQ,13,0.0,Previous Price Baseline
+Madhya Pradesh,Jabalpur,Jabalpur (F&V),Local,FAQ,19,70.30960886101974,XGBoost
+Madhya Pradesh,Jhabua,Petlawad (F&V),Hybrid,FAQ,16,65.81834000895527,Gradient Boosting
+Madhya Pradesh,Khandwa,Khandwa,Local,FAQ,17,117.42150160845588,XGBoost
+Madhya Pradesh,Khandwa,Sanawad (F&V),Onion,FAQ,17,264.70588235294116,Previous Price Baseline
+Madhya Pradesh,Mandsaur,Mandsaur,Onion,FAQ,10,250.95285488396877,Linear Regression
+Madhya Pradesh,Mandsaur,Mandsaur,Onion,Non-FAQ,10,164.17278093347872,Linear Regression
+Madhya Pradesh,Neemuch,Neemuch,Red,FAQ,12,287.20055135091144,XGBoost
+Madhya Pradesh,Rajgarh,Narsinghgarh,Onion,FAQ,12,252.33151140257152,Linear Regression
+Madhya Pradesh,Rajgarh,Sarangpur,Local,Non-FAQ,17,152.40833955652573,XGBoost
+Madhya Pradesh,Ratlam,A lot,Onion,FAQ,10,188.3,Previous Price Baseline
+Madhya Pradesh,Ratlam,Jaora,Onion,FAQ,12,313.7184549967448,XGBoost
+Madhya Pradesh,Ratlam,Ratlam,Onion,FAQ,16,124.78029407556778,Gradient Boosting
+Madhya Pradesh,Ratlam,Ratlam,Onion,Non-FAQ,10,90.13910678561875,Linear Regression
+Madhya Pradesh,Ratlam,Sailana (F&V),Local,FAQ,13,191.07692307692307,Previous Price Baseline
+Madhya Pradesh,Sagar,Sagar (F&V),Other,FAQ,12,62.280293782552086,XGBoost
+Madhya Pradesh,Shajapur,Kalapipal,Onion,FAQ,12,227.04512733804253,Linear Regression
+Madhya Pradesh,Shajapur,Kalapipal (F&V),Onion,FAQ,19,81.83082982113487,XGBoost
+Madhya Pradesh,Shajapur,Shajapur,Medium,FAQ,12,104.71352491555164,Linear Regression
+Madhya Pradesh,Shajapur,Shajapur,Onion,FAQ,11,92.55256236683239,XGBoost
+Madhya Pradesh,Shajapur,Shujalpur,Red,FAQ,15,341.4671507879627,Linear Regression
+Madhya Pradesh,Shajapur,Soyatkalan,Onion,Non-FAQ,14,215.10785605550987,Linear Regression
+Madhya Pradesh,Ujjain,Badnagar,Onion,FAQ,14,114.70869663783482,XGBoost
+Madhya Pradesh,Ujjain,Ujjain,Onion,FAQ,10,160.6783447265625,XGBoost
+Madhya Pradesh,Ujjain,Ujjain,Onion,Non-FAQ,11,170.36415238813922,XGBoost
+Maharashtra,Ahmednagar,Kopargaon,Other,Local,12,52.916666666666664,Previous Price Baseline
+Maharashtra,Ahmednagar,Sangamner,Other,Local,10,64.30712280273437,XGBoost
+Maharashtra,Amarawati,Amrawati (Frui & Veg. Market),Local,Local,16,228.31651649575667,Gradient Boosting
+Maharashtra,Chandrapur,Chandrapur (Ganjwad),Other,Local,13,95.91795383421398,Linear Regression
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Other,Local,17,108.82352941176471,Previous Price Baseline
+Maharashtra,Chattrapati Sambhajinagar,Gangapur,Other,Local,11,73.63636363636364,Previous Price Baseline
+Maharashtra,Chattrapati Sambhajinagar,Lasur Station,Other,Local,14,93.29059534098415,Linear Regression
+Maharashtra,Dharashiv (Usmanabad),Dharashiv,Red,Local,12,168.5897534901247,Linear Regression
+Maharashtra,Dhule,Dhule,Red,Local,16,153.44041061401367,XGBoost
+Maharashtra,Jalgaon,Bhusaval,Other,Local,18,55.55555555555556,Previous Price Baseline
+Maharashtra,Jalgaon,Jalgaon,Red,Local,13,73.44385977519838,Linear Regression
+Maharashtra,Kolhapur,Kolhapur,Other,Local,13,30.76923076923077,Previous Price Baseline
+Maharashtra,Mumbai,Vashi New Mumbai,Other,Local,17,52.94117647058823,Previous Price Baseline
+Maharashtra,Nagpur,Hingna,Red,Local,13,208.57091565011208,Linear Regression
+Maharashtra,Nagpur,Kamthi,Local,Local,18,73.20707194010417,XGBoost
+Maharashtra,Nagpur,Ramtek,Other,Local,11,116.58071048110573,Linear Regression
+Maharashtra,Nashik,Chandvad,Other,Local,13,89.88146258416512,Linear Regression
+Maharashtra,Nashik,Devala,Other,Local,10,119.71676198125185,Linear Regression
+Maharashtra,Nashik,Dindori (Vani),Other,Local,11,136.36363636363637,Previous Price Baseline
+Maharashtra,Nashik,Kalvan,Other,Local,12,112.33333333333333,Previous Price Baseline
+Maharashtra,Nashik,Lasalgaon,Other,Local,12,63.333333333333336,Previous Price Baseline
+Maharashtra,Nashik,Lasalgaon (Niphad),Other,Local,15,80.0,Previous Price Baseline
+Maharashtra,Nashik,Manmad,Other,Local,17,88.82352941176471,Previous Price Baseline
+Maharashtra,Nashik,Nampur,Other,Local,10,85.78789639076987,Linear Regression
+Maharashtra,Nashik,Nasik,Other,Local,13,101.6923076923077,Previous Price Baseline
+Maharashtra,Nashik,Pimpalgaon,Other,Local,16,68.75,Previous Price Baseline
+Maharashtra,Nashik,Pimpalgaon Baswant (Saykheda),Other,Local,16,94.56309656115985,Linear Regression
+Maharashtra,Nashik,Satana,Other,Local,11,102.2907732985163,Linear Regression
+Maharashtra,Nashik,Yeola,Other,Local,12,127.08333333333333,Previous Price Baseline
+Maharashtra,Pune,Khed (Chakan),Other,Local,16,100.22032817298474,Linear Regression
+Maharashtra,Pune,Pune,Local,Local,11,494.53548916903407,XGBoost
+Maharashtra,Pune,Pune (Khadiki),Local,Local,14,88.25803240569164,Linear Regression
+Maharashtra,Pune,Pune (Manjri),Local,Local,12,125.0,Previous Price Baseline
+Maharashtra,Pune,Pune (Moshi),Local,Local,16,128.02178573608398,XGBoost
+Maharashtra,Pune,Pune (Pimpri),Local,Local,21,98.01696668997197,Linear Regression
+Maharashtra,Sangli,"Sangli (Phale, Bhajipura Market)",Local,Local,15,63.22208292801984,Linear Regression
+Maharashtra,Satara,Karad,Other,Local,11,137.3799715909091,XGBoost
+Maharashtra,Satara,Satara,Other,Local,17,100.0,Previous Price Baseline
+Maharashtra,Sholapur,Mangal Wedha,Local,Local,15,305.14261622556234,Gradient Boosting
+Maharashtra,Sholapur,Solapur,Red,Local,12,54.166666666666664,Previous Price Baseline
+Maharashtra,Thane,Kalyan,1st Sort,Local,15,756.6666666666666,Previous Price Baseline
+Maharashtra,Thane,Kalyan,2nd Sort,Local,13,146.15384615384616,Previous Price Baseline
+Manipur,Bishnupur,Bishenpur,Onion,FAQ,10,0.0,Previous Price Baseline
+Manipur,Imphal East,Lamlong Bazaar,Other,FAQ,11,0.0,Previous Price Baseline
+Manipur,Imphal West,Imphal,Other,FAQ,10,0.0,Previous Price Baseline
+Manipur,Kakching,Kakching Market,Red,FAQ,10,0.0,Previous Price Baseline
+Manipur,Thoubal,Thoubal,Other,FAQ,13,0.0,Previous Price Baseline
+NCT of Delhi,Delhi,Azadpur,Onion,FAQ,17,0.29411764705882354,Previous Price Baseline
+NCT of Delhi,Delhi,Keshopur,Onion,FAQ,16,116.99520874023438,XGBoost
+NCT of Delhi,Delhi,Shahdara,Other,FAQ,11,157.73744679966705,Linear Regression
+Odisha,Balasore,Jaleswar,Other,FAQ,11,154.54545454545453,Previous Price Baseline
+Odisha,Bargarh,Bargarh,Other,FAQ,18,222.22222222222223,Previous Price Baseline
+Odisha,Bargarh,Bargarh (Barapalli),Other,FAQ,27,188.88888888888889,Previous Price Baseline
+Odisha,Boudh,Khunthabandha,Other,FAQ,10,254.6084217148428,Linear Regression
+Odisha,Boudh,Khunthabandha,Other,Non-FAQ,10,247.02074736397282,Linear Regression
+Odisha,Dhenkanal,Hindol,Other,Non-FAQ,24,75.0,Previous Price Baseline
+Odisha,Dhenkanal,Kamakhyanagar,Onion,Non-FAQ,14,285.7142857142857,Previous Price Baseline
+Odisha,Ganjam,Hinjilicut,Other,FAQ,24,270.8333333333333,Previous Price Baseline
+Odisha,Jharsuguda,Jharsuguda,Other,Non-FAQ,17,58.8235294117647,Previous Price Baseline
+Odisha,Keonjhar,Keonjhar,Other,Non-FAQ,13,115.38461538461539,Previous Price Baseline
+Odisha,Khurda,Balugaon,Other,FAQ,13,80.76923076923077,Previous Price Baseline
+Odisha,Khurda,Balugaon,Other,Non-FAQ,14,124.36577296885535,Gradient Boosting
+Odisha,Mayurbhanja,Udala,Onion,FAQ,22,45.45454545454545,Previous Price Baseline
+Odisha,Nuapada,Khariar,Dry F.A.Q.,Non-FAQ,13,423.0769230769231,Previous Price Baseline
+Odisha,Rayagada,Rayagada,Other,FAQ,10,10.0,Previous Price Baseline
+Odisha,Sundergarh,Sargipali,Other,Non-FAQ,11,118.18181818181819,Previous Price Baseline
+Punjab,Amritsar,Rayya,Red,Non-FAQ,12,100.0,Previous Price Baseline
+Punjab,Bhatinda,Bathinda,Other,FAQ,23,178.2608695652174,Previous Price Baseline
+Punjab,Bhatinda,Bhagta Bhai Ka,Other,FAQ,23,108.6403904174353,Linear Regression
+Punjab,Bhatinda,Raman,Other,FAQ,17,27.647058823529413,Previous Price Baseline
+Punjab,Bhatinda,Rampuraphul (Nabha Mandi),Other,Non-FAQ,21,28.571428571428573,Previous Price Baseline
+Punjab,Bhatinda,Talwandi Sabo,Other,FAQ,17,125.59212115026337,Linear Regression
+Punjab,Fatehgarh,Bassi Pathana,Onion,Non-FAQ,16,62.5,Previous Price Baseline
+Punjab,Fatehgarh,Khamano,Onion,FAQ,14,1885.7142857142858,Previous Price Baseline
+Punjab,Fazilka,Fazilka,Other,FAQ,18,50.0,Previous Price Baseline
+Punjab,Fazilka,Jalalabad,Other,FAQ,15,86.88758951822916,XGBoost
+Punjab,Ferozpur,Firozepur City,Other,FAQ,15,115.25205132110091,Linear Regression
+Punjab,Ferozpur,Mamdot,Other,FAQ,11,68.18181818181819,Previous Price Baseline
+Punjab,Ferozpur,Zira,Local,FAQ,19,181.98687465535127,Linear Regression
+Punjab,Gurdaspur,Dinanagar,Other,FAQ,15,30.0,Previous Price Baseline
+Punjab,Gurdaspur,Gurdaspur,Other,FAQ,15,61.02303979656946,Gradient Boosting
+Punjab,Hoshiarpur,Garh Shankar,Other,FAQ,17,63.25944566367054,Linear Regression
+Punjab,Hoshiarpur,Garh Shankar (Mahalpur),Onion,FAQ,10,60.0,Previous Price Baseline
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Other,FAQ,15,95.4680711600028,Linear Regression
+Punjab,Hoshiarpur,Mukerian,Onion,Non-FAQ,13,53.84615384615385,Previous Price Baseline
+Punjab,Hoshiarpur,Tanda Urmur,Other,FAQ,14,61.454266838197086,Gradient Boosting
+Punjab,Jalandhar,Bilga,Other,FAQ,18,0.0,Previous Price Baseline
+Punjab,Jalandhar,Jalandhar City (Jalandhar),Other,FAQ,17,58.8235294117647,Previous Price Baseline
+Punjab,Jalandhar,Phillaur (Apra Mandi),Other,FAQ,10,200.0,Previous Price Baseline
+Punjab,Ludhiana,Khanna,Other,FAQ,14,28.571428571428573,Previous Price Baseline
+Punjab,Ludhiana,Ludhiana,Other,FAQ,23,6.521739130434782,Previous Price Baseline
+Punjab,Ludhiana,Sahnewal,Onion,FAQ,14,97.66714888216435,Linear Regression
+Punjab,Moga,Nihal Singh Wala,Other,FAQ,17,141.1764705882353,Previous Price Baseline
+Punjab,Mohali,Banur,Other,FAQ,19,252.6315789473684,Previous Price Baseline
+Punjab,Mohali,Dera Bassi,Other,FAQ,16,62.5,Previous Price Baseline
+Punjab,Mohali,Kharar,Other,Non-FAQ,14,0.0,Previous Price Baseline
+Punjab,Muktsar,Giddarbaha,Onion,FAQ,11,18.181818181818183,Previous Price Baseline
+Punjab,Muktsar,Malout,Onion,FAQ,19,252.6315789473684,Previous Price Baseline
+Punjab,Muktsar,Muktsar,Red,FAQ,14,78.57142857142857,Previous Price Baseline
+Punjab,Nawanshahr,Nawan Shahar (Subzi Mandi),Other,FAQ,18,8.333333333333334,Previous Price Baseline
+Punjab,Patiala,Dudhansadhan,Other,FAQ,21,23.80952380952381,Previous Price Baseline
+Punjab,Patiala,Ghanaur,Other,FAQ,14,85.71428571428571,Previous Price Baseline
+Punjab,Patiala,Patran,Other,FAQ,18,49.891045509403405,Linear Regression
+Punjab,Patiala,Rajpura,Local,Non-FAQ,20,51.30640390232723,Linear Regression
+Punjab,Patiala,Samana,Other,FAQ,18,28.852478461182084,Gradient Boosting
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Other,FAQ,19,110.52631578947368,Previous Price Baseline
+Punjab,Sangrur,Bhawanigarh,Other,FAQ,25,108.5179150390625,XGBoost
+Punjab,Sangrur,Dhuri,Onion,FAQ,20,25.0,Previous Price Baseline
+Punjab,Sangrur,Sunam,Onion,FAQ,12,116.66666666666667,Previous Price Baseline
+Punjab,Tarntaran,Patti,Other,FAQ,23,217.1313428936243,Linear Regression
+Punjab,Tarntaran,Tarantaran,Other,FAQ,19,53.686452189566445,Linear Regression
+Punjab,kapurthala,Phagwara,Other,FAQ,16,84.238616529,Gradient Boosting
+Rajasthan,Alwar,Alwar (F&V),Other,FAQ,18,54.166666666666664,Previous Price Baseline
+Rajasthan,Bharatpur,Bayana,Onion,FAQ,18,55.55555555555556,Previous Price Baseline
+Rajasthan,Bhilwara,Bhilwara,Other,FAQ,15,16.666666666666668,Previous Price Baseline
+Rajasthan,Churu,Churu,1st Sort,Non-FAQ,12,96.81668090820312,XGBoost
+Rajasthan,Churu,Sujangarh,Other,FAQ,14,78.57142857142857,Previous Price Baseline
+Rajasthan,Ganganagar,Sriganganagar (F&V),Other,FAQ,16,104.09583593879452,Gradient Boosting
+Rajasthan,Ganganagar,Suratgarh,1st Sort,FAQ,10,50.0,Previous Price Baseline
+Rajasthan,Hanumangarh,Bhadara,1st Sort,FAQ,16,160.2412437223619,Linear Regression
+Rajasthan,Hanumangarh,Dablirathan,1st Sort,FAQ,15,24.318781276374224,Gradient Boosting
+Rajasthan,Hanumangarh,Goluwala,1st Sort,FAQ,17,129.41176470588235,Previous Price Baseline
+Rajasthan,Hanumangarh,Rawatsar,1st Sort,FAQ,18,114.59418446755156,Linear Regression
+Rajasthan,Hanumangarh,Sangriya,Onion,FAQ,20,205.0,Previous Price Baseline
+Rajasthan,Jaipur,Jaipur (F&V),Other,FAQ,13,107.6923076923077,Previous Price Baseline
+Rajasthan,Jaipur Rural,Bassi,Other,Non-FAQ,17,232.35294117647058,Previous Price Baseline
+Rajasthan,Jaipur Rural,Chomu (F&V),Other,Non-FAQ,15,26.666666666666668,Previous Price Baseline
+Rajasthan,Jodhpur,Jodhpur (F&V),Other,FAQ,17,49.671671088006306,Linear Regression
+Rajasthan,Kota,Kota (F&V),Other,FAQ,13,54.807449824962156,Linear Regression
+Rajasthan,Rajsamand,Rajsamand,Onion,FAQ,18,61.111111111111114,Previous Price Baseline
+Rajasthan,Sikar,Sikar,Onion,FAQ,21,164.28571428571428,Previous Price Baseline
+Tamil Nadu,Ariyalur,Ariyalur (Uzhavar Sandhai),Bellary,Local,17,105.88235294117646,Previous Price Baseline
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Bellary,Local,19,108.87766042195506,Gradient Boosting
+Tamil Nadu,Chengalpattu,Chengalpet (Uzhavar Sandhai ),Bellary,Local,19,207.3125085537105,Gradient Boosting
+Tamil Nadu,Chengalpattu,Guduvancheri (Uzhavar Sandhai ),Bellary,Local,16,156.25,Previous Price Baseline
+Tamil Nadu,Chengalpattu,Jameenrayapettai (Uzhavar Sandhai ),Bellary,Local,18,138.88888888888889,Previous Price Baseline
+Tamil Nadu,Chengalpattu,Medavakkam (Uzhavar Sandhai ),Bellary,Local,16,304.61803974577344,Gradient Boosting
+Tamil Nadu,Chengalpattu,Nanganallur (Uzhavar Sandhai ),Bellary,Local,19,257.89473684210526,Previous Price Baseline
+Tamil Nadu,Chengalpattu,Pallavaram (Uzhavar Sandhai ),Bellary,Local,16,31.25,Previous Price Baseline
+Tamil Nadu,Chengalpattu,Thirukalukundram (Uzhavar Sandhai ),Bellary,Local,18,333.3333333333333,Previous Price Baseline
+Tamil Nadu,Coimbatore,Kurichi (Uzhavar Sandhai ),Bellary,Local,16,62.5,Previous Price Baseline
+Tamil Nadu,Coimbatore,Mettupalayam (Uzhavar Sandhai ),Bellary,Local,17,52.94117647058823,Previous Price Baseline
+Tamil Nadu,Coimbatore,Pollachi (Uzhavar Sandhai ),Bellary,Local,18,38.888888888888886,Previous Price Baseline
+Tamil Nadu,Coimbatore,RSPuram (Uzhavar Sandhai ),Bellary,Local,17,41.1764705882353,Previous Price Baseline
+Tamil Nadu,Coimbatore,Singanallur (Uzhavar Sandhai ),Bellary,Local,17,17.647058823529413,Previous Price Baseline
+Tamil Nadu,Coimbatore,Sulur (Uzhavar Sandhai ),Bellary,Local,14,57.142857142857146,Previous Price Baseline
+Tamil Nadu,Coimbatore,Sundarapuram (Uzhavar Sandhai ),Bellary,Local,17,35.294117647058826,Previous Price Baseline
+Tamil Nadu,Coimbatore,Udumalpet,Bellary,Local,18,27.77777777777778,Previous Price Baseline
+Tamil Nadu,Coimbatore,Vadavalli (Uzhavar Sandhai ),Bellary,Local,19,89.47368421052632,Previous Price Baseline
+Tamil Nadu,Cuddalore,Chidambaram (Uzhavar Sandhai ),Bellary,Local,17,58.8235294117647,Previous Price Baseline
+Tamil Nadu,Cuddalore,Cuddalore (Uzhavar Sandhai ),Bellary,Local,15,60.0,Previous Price Baseline
+Tamil Nadu,Cuddalore,Panruti (Uzhavar Sandhai ),Bellary,Local,18,201.76459540089436,Gradient Boosting
+Tamil Nadu,Cuddalore,Viruthachalam (Uzhavar Sandhai ),Bellary,Local,15,0.0,Previous Price Baseline
+Tamil Nadu,Dharmapuri,AJattihalli (Uzhavar Sandhai ),Bellary,Local,16,112.5,Previous Price Baseline
+Tamil Nadu,Dharmapuri,Dharmapuri (Uzhavar Sandhai ),Bellary,Local,15,106.66666666666667,Previous Price Baseline
+Tamil Nadu,Dharmapuri,Harur (Uzhavar Sandhai ),Bellary,Local,20,0.0,Previous Price Baseline
+Tamil Nadu,Dharmapuri,Palacode (Uzhavar Sandhai ),Bellary,Local,21,138.0952380952381,Previous Price Baseline
+Tamil Nadu,Dharmapuri,Pennagaram (Uzhavar Sandhai ),Bellary,Local,15,93.33333333333333,Previous Price Baseline
+Tamil Nadu,Dindigul,Chinnalapatti (Uzhavar Sandhai ),Bellary,Local,21,0.0,Previous Price Baseline
+Tamil Nadu,Dindigul,Dindigul (Uzhavar Sandhai ),Bellary,Local,17,29.41176470588235,Previous Price Baseline
+Tamil Nadu,Dindigul,Palani (Uzhavar Sandhai ),Bellary,Local,23,34.78260869565217,Previous Price Baseline
+Tamil Nadu,Dindigul,Vedasanthur (Uzhavar Sandhai ),Bellary,Local,21,9.523809523809524,Previous Price Baseline
+Tamil Nadu,Erode,Gobichettipalayam (Uzhavar Sandhai ),Bellary,Local,15,0.0,Previous Price Baseline
+Tamil Nadu,Erode,Perundurai (Uzhavar Sandhai ),Bellary,Local,21,219.04761904761904,Previous Price Baseline
+Tamil Nadu,Erode,Sampath Nagar (Uzhavar Sandhai ),Bellary,Local,16,225.0,Previous Price Baseline
+Tamil Nadu,Erode,Sathiyamagalam (Uzhavar Sandhai ),Bellary,Local,21,9.523809523809524,Previous Price Baseline
+Tamil Nadu,Erode,Thalavadi (Uzhavar Sandhai ),Bellary,Local,18,22.22222222222222,Previous Price Baseline
+Tamil Nadu,Kallakuruchi,Kallakurichi (Uzhavar Sandhai ),Bellary,Local,17,29.41176470588235,Previous Price Baseline
+Tamil Nadu,Kallakuruchi,Sankarapuram (Uzhavar Sandhai ),Bellary,Local,17,29.41176470588235,Previous Price Baseline
+Tamil Nadu,Kancheepuram,Kancheepuram (Uzhavar Sandhai ),Bellary,Local,15,316.2727259946056,Linear Regression
+Tamil Nadu,Kancheepuram,Kundrathur (Uzhavar Sandhai ),Bellary,Local,18,27.77777777777778,Previous Price Baseline
+Tamil Nadu,Kancheepuram,Padappai (Uzhavar Sandhai ),Bellary,Local,18,77.77777777777777,Previous Price Baseline
+Tamil Nadu,Kancheepuram,Sunguvarchatram (Uzhavar Sandhai ),Bellary,Local,16,31.25,Previous Price Baseline
+Tamil Nadu,Karur,Karur (Uzhavar Sandhai ),Bellary,Local,19,42.10526315789474,Previous Price Baseline
+Tamil Nadu,Karur,Kulithalai (Uzhavar Sandhai ),Bellary,Local,19,10.526315789473685,Previous Price Baseline
+Tamil Nadu,Karur,Velayuthampalayam (Uzhavar Sandhai ),Bellary,Local,17,47.05882352941177,Previous Price Baseline
+Tamil Nadu,Krishnagiri,Avallapalli (Uzhavar Sandhai ),Bellary,Local,20,75.0,Previous Price Baseline
+Tamil Nadu,Krishnagiri,Denkanikottai (Uzhavar Sandhai ),Bellary,Local,17,29.41176470588235,Previous Price Baseline
+Tamil Nadu,Krishnagiri,Hosur (Uzhavar Sandhai ),Bellary,Local,23,21.73913043478261,Previous Price Baseline
+Tamil Nadu,Krishnagiri,Kaveripattinam (Uzhavar Sandhai ),Bellary,Local,22,90.9090909090909,Previous Price Baseline
+Tamil Nadu,Krishnagiri,Krishnagiri (Uzhavar Sandhai ),Bellary,Local,17,52.94117647058823,Previous Price Baseline
+Tamil Nadu,Madurai,Anaiyur (Uzhavar Sandhai ),Bellary,Local,14,28.571428571428573,Previous Price Baseline
+Tamil Nadu,Madurai,Anna nagar (Uzhavar Sandhai ),Bellary,Local,15,26.666666666666668,Previous Price Baseline
+Tamil Nadu,Madurai,Chokkikulam (Uzhavar Sandhai ),Bellary,Local,18,133.33333333333334,Previous Price Baseline
+Tamil Nadu,Madurai,Melur (Uzhavar Sandhai ),Bellary,Local,17,58.8235294117647,Previous Price Baseline
+Tamil Nadu,Madurai,Palanganatham (Uzhavar Sandhai ),Bellary,Local,22,45.45454545454545,Previous Price Baseline
+Tamil Nadu,Madurai,Thirumangalam (Uzhavar Sandhai ),Bellary,Local,20,120.0,Previous Price Baseline
+Tamil Nadu,Madurai,Usilampatty,Bellary,Local,19,31.57894736842105,Previous Price Baseline
+Tamil Nadu,Nagapattinam,Mayiladuthurai (Uzhavar Sandhai ),Bellary,Local,20,50.0,Previous Price Baseline
+Tamil Nadu,Nagapattinam,Nagapattinam (Uzhavar Sandhai ),Bellary,Local,15,284.8618009120914,Gradient Boosting
+Tamil Nadu,Nagapattinam,Sirkali (Uzhavar Sandhai ),Bellary,Local,13,423.3296086237981,XGBoost
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi (Uzhavar Sandhai ),Bellary,Local,17,147.05882352941177,Previous Price Baseline
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri,Bellary,Local,18,138.88888888888889,Previous Price Baseline
+Tamil Nadu,Namakkal,Kumarapalayam (Uzhavar Sandhai ),Bellary,Local,19,4.022530829422641,Gradient Boosting
+Tamil Nadu,Namakkal,Mohanur (Uzhavar Sandhai ),Bellary,Local,23,82.6086956521739,Previous Price Baseline
+Tamil Nadu,Namakkal,Namakkal (Uzhavar Sandhai ),Bellary,Local,21,133.33333333333334,Previous Price Baseline
+Tamil Nadu,Namakkal,Paramathivelur (Uzhavar Sandhai ),Bellary,Local,17,35.294117647058826,Previous Price Baseline
+Tamil Nadu,Namakkal,Rasipuram (Uzhavar Sandhai ),Bellary,Local,16,0.0,Previous Price Baseline
+Tamil Nadu,Namakkal,Tiruchengode,Bellary,Local,16,225.0,Previous Price Baseline
+Tamil Nadu,Perambalur,Perambalur (Uzhavar Sandhai ),Bellary,Local,20,85.51346274797729,Linear Regression
+Tamil Nadu,Pudukkottai,Alangudi (Uzhavar Sandhai ),Bellary,Local,24,73.273467022943,Gradient Boosting
+Tamil Nadu,Pudukkottai,Aranthangi (Uzhavar Sandhai ),Bellary,Local,17,373.1798364909155,Gradient Boosting
+Tamil Nadu,Pudukkottai,Gandarvakottai (Uzhavar Sandhai ),Bellary,Local,21,95.23809523809524,Previous Price Baseline
+Tamil Nadu,Pudukkottai,Karambakkudi (Uzhavar Sandhai ),Bellary,Local,19,4.251826425024151,Gradient Boosting
+Tamil Nadu,Pudukkottai,Pudukottai (Uzhavar Sandhai ),Bellary,Local,15,66.66666666666667,Previous Price Baseline
+Tamil Nadu,Pudukkottai,Viralimalai (Uzhavar Sandhai ),Bellary,Local,21,190.47619047619048,Previous Price Baseline
+Tamil Nadu,Ramanathapuram,Paramakudi (Uzhavar Sandhai ),Bellary,Local,20,55.66361083984375,XGBoost
+Tamil Nadu,Ramanathapuram,Ramanathapuram (Uzhavar Sandhai ),Bellary,Local,17,70.18589516079498,Gradient Boosting
+Tamil Nadu,Ranipet,Arcot (Uzhavar Sandhai ),Bellary,Local,13,38.46153846153846,Previous Price Baseline
+Tamil Nadu,Ranipet,Ranipettai (Uzhavar Sandhai ),Bellary,Local,17,41.1764705882353,Previous Price Baseline
+Tamil Nadu,Salem,Ammapet (Uzhavar Sandhai ),Bellary,Local,17,58.8235294117647,Previous Price Baseline
+Tamil Nadu,Salem,Athur (Uzhavar Sandhai ),Bellary,Local,22,22.727272727272727,Previous Price Baseline
+Tamil Nadu,Salem,Attayampatti (Uzhavar Sandhai ),Bellary,Local,19,153.52668411206122,Linear Regression
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Bellary,Local,25,56.0,Previous Price Baseline
+Tamil Nadu,Salem,Elampillai (Uzhavar Sandhai ),Bellary,Local,17,47.05882352941177,Previous Price Baseline
+Tamil Nadu,Salem,Hasthampatti (Uzhavar Sandhai ),Bellary,Local,19,42.10526315789474,Previous Price Baseline
+Tamil Nadu,Salem,Jalagandapuram (Uzhavar Sandhai ),Bellary,Local,16,31.25,Previous Price Baseline
+Tamil Nadu,Salem,Mettur (Uzhavar Sandhai ),Bellary,Local,17,47.05882352941177,Previous Price Baseline
+Tamil Nadu,Salem,Sooramangalam (Uzhavar Sandhai ),Bellary,Local,18,44.44444444444444,Previous Price Baseline
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Bellary,Local,20,25.0,Previous Price Baseline
+Tamil Nadu,Salem,Thathakapatti (Uzhavar Sandhai ),Bellary,Local,15,40.0,Previous Price Baseline
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ),Bellary,Local,19,178.94736842105263,Previous Price Baseline
+Tamil Nadu,Sivaganga,Karaikudi (Uzhavar Sandhai ),Bellary,Local,17,123.52941176470588,Previous Price Baseline
+Tamil Nadu,Sivaganga,Singampunari (Uzhavar Sandhai ),Bellary,Local,19,100.0,Previous Price Baseline
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ),Bellary,Local,20,20.0,Previous Price Baseline
+Tamil Nadu,Sivaganga,Tirupatthur (Uzhavar Sandhai ),Bellary,Local,15,140.0,Previous Price Baseline
+Tamil Nadu,Tenkasi,Sankarankoil (Uzhavar Sandhai ),Bellary,Local,17,147.05882352941177,Previous Price Baseline
+Tamil Nadu,Tenkasi,Tenkasi (Uzhavar Sandhai ),Bellary,Local,15,400.0,Previous Price Baseline
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Bellary,Local,18,66.66666666666667,Previous Price Baseline
+Tamil Nadu,Thanjavur,Papanasam (Uzhavar Sandhai ),Bellary,Local,22,54.54545454545455,Previous Price Baseline
+Tamil Nadu,Thanjavur,Pattukottai (Uzhavar Sandhai ),Bellary,Local,16,0.0,Previous Price Baseline
+Tamil Nadu,Thanjavur,Thanjavur (Uzhavar Sandhai ),Bellary,Local,19,10.526315789473685,Previous Price Baseline
+Tamil Nadu,The Nilgiris,Coonoor (Uzhavar Sandhai ),Bellary,Local,18,155.55555555555554,Previous Price Baseline
+Tamil Nadu,The Nilgiris,Gudalur (Uzhavar Sandhai ),Bellary,Local,20,60.0,Previous Price Baseline
+Tamil Nadu,The Nilgiris,Udhagamandalam (Uzhavar Sandhai ),Bellary,Local,18,55.55555555555556,Previous Price Baseline
+Tamil Nadu,Theni,Andipatti (Uzhavar Sandhai ),Bellary,Local,15,40.0,Previous Price Baseline
+Tamil Nadu,Theni,Bodinayakanur (Uzhavar Sandhai ),Bellary,Local,17,29.41176470588235,Previous Price Baseline
+Tamil Nadu,Theni,Chinnamanur (Uzhavar Sandhai ),Bellary,Local,13,69.23076923076923,Previous Price Baseline
+Tamil Nadu,Theni,Devaram (Uzhavar Sandhai ),Bellary,Local,19,42.10526315789474,Previous Price Baseline
+Tamil Nadu,Theni,Kambam (Uzhavar Sandhai ),Bellary,Local,16,25.0,Previous Price Baseline
+Tamil Nadu,Theni,Periyakulam (Uzhavar Sandhai ),Bellary,Local,16,12.5,Previous Price Baseline
+Tamil Nadu,Theni,Theni (Uzhavar Sandhai ),Bellary,Local,20,25.0,Previous Price Baseline
+Tamil Nadu,Thiruchirappalli,Lalgudi (Uzhavar Sandhai ),Bellary,Local,20,39.28177490234375,XGBoost
+Tamil Nadu,Thiruchirappalli,Manachanallur (Uzhavar Sandhai ),Bellary,Local,20,186.9859619140625,XGBoost
+Tamil Nadu,Thiruchirappalli,Manapparai (Uzhavar Sandhai ),Bellary,Local,22,98.7401357692196,Linear Regression
+Tamil Nadu,Thiruchirappalli,Musiri (Uzhavar Sandhai ),Bellary,Local,20,35.0,Previous Price Baseline
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Bellary,Local,19,26.31578947368421,Previous Price Baseline
+Tamil Nadu,Thirunelveli,Melapalayam (Uzhavar Sandhai ),Bellary,Local,18,38.888888888888886,Previous Price Baseline
+Tamil Nadu,Thirunelveli,NGO Colony (Uzhavar Sandhai ),Bellary,Local,19,42.10526315789474,Previous Price Baseline
+Tamil Nadu,Thirunelveli,Palayamkottai (Uzhavar Sandhai ),Bellary,Local,22,31.818181818181817,Previous Price Baseline
+Tamil Nadu,Thirupathur,Natrampalli (Uzhavar Sandhai ),Bellary,Local,16,0.0,Previous Price Baseline
+Tamil Nadu,Thirupathur,Vaniyampadi (Uzhavar Sandhai ),Bellary,Local,20,75.0,Previous Price Baseline
+Tamil Nadu,Thirupur,Dharapuram (Uzhavar Sandhai ),Bellary,Local,18,27.77777777777778,Previous Price Baseline
+Tamil Nadu,Thirupur,Kangayam (Uzhavar Sandhai ),Bellary,Local,18,180.81053898510766,Linear Regression
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ),Bellary,Local,17,41.1764705882353,Previous Price Baseline
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ),Bellary,Local,16,0.0,Previous Price Baseline
+Tamil Nadu,Thiruvannamalai,Arani (Uzhavar Sandhai ),Bellary,Local,18,205.55555555555554,Previous Price Baseline
+Tamil Nadu,Thiruvannamalai,Chengam (Uzhavar Sandhai ),Bellary,Local,20,0.0,Previous Price Baseline
+Tamil Nadu,Thiruvannamalai,Cheyyar (Uzhavar Sandhai ),Bellary,Local,16,168.75,Previous Price Baseline
+Tamil Nadu,Thiruvannamalai,Keelpennathur (Uzhavar Sandhai ),Bellary,Local,15,300.0,Previous Price Baseline
+Tamil Nadu,Thiruvannamalai,Polur (Uzhavar Sandhai ),Bellary,Local,22,68.18181818181819,Previous Price Baseline
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai (Uzhavar Sandhai ),Bellary,Local,19,231.25970273036862,Gradient Boosting
+Tamil Nadu,Thiruvannamalai,Vandavasi (Uzhavar Sandhai ),Bellary,Local,21,195.86895461309524,XGBoost
+Tamil Nadu,Thiruvarur,Mannargudi I (Uzhavar Sandhai ),Bellary,Local,19,105.26315789473684,Previous Price Baseline
+Tamil Nadu,Thiruvarur,Mannargudi II (Uzhavar Sandhai ),Bellary,Local,17,23.529411764705884,Previous Price Baseline
+Tamil Nadu,Thiruvarur,Muthupettai (Uzhavar Sandhai ),Bellary,Local,18,48.4306640625,XGBoost
+Tamil Nadu,Thiruvarur,Needamangalam (Uzhavar Sandhai ),Bellary,Local,17,282.3529411764706,Previous Price Baseline
+Tamil Nadu,Thiruvarur,Tiruvarur (Uzhavar Sandhai ),Bellary,Local,18,244.99522569444446,XGBoost
+Tamil Nadu,Thiruvarur,Valangaiman,Bellary,Local,16,0.0,Previous Price Baseline
+Tamil Nadu,Thiruvellore,Ambattur (Uzhavar Sandhai ),Bellary,Local,17,29.41176470588235,Previous Price Baseline
+Tamil Nadu,Thiruvellore,Naravarikuppam (Uzhavar Sandhai ),Bellary,Local,16,37.5,Previous Price Baseline
+Tamil Nadu,Thiruvellore,Paruthipattu (Uzhavar Sandhai ),Bellary,Local,22,22.727272727272727,Previous Price Baseline
+Tamil Nadu,Thiruvellore,Perambakkam (Uzhavar Sandhai ),Bellary,Local,17,58.8235294117647,Previous Price Baseline
+Tamil Nadu,Thiruvellore,Tiruvallur (Uzhavar Sandhai ),Bellary,Local,16,4.208833500848868,Gradient Boosting
+Tamil Nadu,Tuticorin,Kovilpatti (Uzhavar Sandhai ),Bellary,Local,15,236.76973028898658,Gradient Boosting
+Tamil Nadu,Tuticorin,Tuticorin (Uzhavar Sandhai ),Bellary,Local,15,33.333333333333336,Previous Price Baseline
+Tamil Nadu,Vellore,Gudiyatham (Uzhavar Sandhai ),Bellary,Local,17,187.39388499540442,XGBoost
+Tamil Nadu,Vellore,Kahithapattarai (Uzhavar Sandhai ),Bellary,Local,21,42.857142857142854,Previous Price Baseline
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Bellary,Local,17,64.70588235294117,Previous Price Baseline
+Tamil Nadu,Vellore,Thirupathur,Bellary,Local,18,55.55555555555556,Previous Price Baseline
+Tamil Nadu,Vellore,Vellore,Bellary,Local,17,292.3913067590211,Linear Regression
+Tamil Nadu,Villupuram,Gingee (Uzhavar Sandhai ),Bellary,Local,17,0.0,Previous Price Baseline
+Tamil Nadu,Villupuram,Tindivanam,Bellary,Local,20,20.0,Previous Price Baseline
+Tamil Nadu,Villupuram,Ulundurpettai,Bellary,Local,19,52.63157894736842,Previous Price Baseline
+Tamil Nadu,Virudhunagar,Aruppukottai (Uzhavar Sandhai ),Bellary,Local,16,0.0,Previous Price Baseline
+Tamil Nadu,Virudhunagar,Kariyapatti (Uzhavar Sandhai ),Bellary,Local,21,380.95238095238096,Previous Price Baseline
+Tamil Nadu,Virudhunagar,Rajapalayam (Uzhavar Sandhai ),Bellary,Local,15,233.33333333333334,Previous Price Baseline
+Tamil Nadu,Virudhunagar,Sathur (Uzhavar Sandhai ),Bellary,Local,23,43.47826086956522,Previous Price Baseline
+Tamil Nadu,Virudhunagar,Sivakasi (Uzhavar Sandhai ),Bellary,Local,18,187.8783110347444,Gradient Boosting
+Tamil Nadu,Virudhunagar,Srivilliputhur (Uzhavar Sandhai ),Bellary,Local,19,52.63157894736842,Previous Price Baseline
+Tamil Nadu,Virudhunagar,Thalavaipuram (Uzhavar Sandhai ),Bellary,Local,20,201.4058837890625,XGBoost
+Tamil Nadu,Virudhunagar,Virudhunagar (Uzhavar Sandhai ),Bellary,Local,21,156.93661692689062,Gradient Boosting
+Telangana,Hyderabad,Bowenpally,1st Sort,FAQ,19,135.9945068359375,XGBoost
+Telangana,Hyderabad,Gudimalkapur,1st Sort,FAQ,18,72.0083246668347,Linear Regression
+Telangana,Hyderabad,Mahboob Manison,1st Sort,FAQ,23,91.30434782608695,Previous Price Baseline
+Telangana,Hyderabad,Mahboob Manison,1st Sort,Non-FAQ,20,75.0,Previous Price Baseline
+Telangana,Hyderabad,Mahboob Manison,2nd Sort,FAQ,16,96.44017791748047,XGBoost
+Telangana,Hyderabad,Mahboob Manison,2nd Sort,Non-FAQ,16,68.1887092590332,XGBoost
+Telangana,Medak,Sadasivpet,1st Sort,Non-FAQ,10,107.39341348810936,Linear Regression
+Telangana,Ranga Reddy,Mehndipatnam (Rythu Bazar),1st Sort,FAQ,16,75.0,Previous Price Baseline
+Telangana,Ranga Reddy,Mehndipatnam (Rythu Bazar),1st Sort,Non-FAQ,12,116.66666666666667,Previous Price Baseline
+Tripura,Dhalai,Gandacharra,Onion,FAQ,12,0.0,Previous Price Baseline
+Tripura,North Tripura,Dasda,Onion,FAQ,25,18.0,Previous Price Baseline
+Tripura,Sepahijala,Bishalgarh,Nasik,FAQ,20,65.0,Previous Price Baseline
+Tripura,Sepahijala,Jumpuijala,Other,FAQ,20,0.0,Previous Price Baseline
+Tripura,Sepahijala,Melaghar,Small,FAQ,22,72.72727272727273,Previous Price Baseline
+Uttar Pradesh,Agra,Achnera,Red,FAQ,20,19.026547090060284,Linear Regression
+Uttar Pradesh,Agra,Agra,Red,FAQ,19,19.520397231422006,Linear Regression
+Uttar Pradesh,Agra,Samsabad,Red,FAQ,23,100.0,Previous Price Baseline
+Uttar Pradesh,Aligarh,Aligarh,Red,FAQ,26,9.267080453725962,XGBoost
+Uttar Pradesh,Aligarh,Charra,Red,FAQ,24,0.0,Previous Price Baseline
+Uttar Pradesh,Aligarh,Khair,Red,Non-FAQ,19,98.37616706917147,Linear Regression
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Red,FAQ,15,10.568468499142789,Linear Regression
+Uttar Pradesh,Amethi,Sultanpur,Red,FAQ,25,10.848603515625,XGBoost
+Uttar Pradesh,Amethi,Sultanpur,Red,Non-FAQ,16,25.154014587402344,XGBoost
+Uttar Pradesh,Amroha,Amroha,Red,FAQ,19,19.462270212044274,Linear Regression
+Uttar Pradesh,Amroha,Hasanpur,Nasik,Non-FAQ,18,0.0,Previous Price Baseline
+Uttar Pradesh,Auraiya,Achalda,Red,FAQ,17,12.698859719669118,XGBoost
+Uttar Pradesh,Auraiya,Auraiya,Red,FAQ,17,19.40780136357984,Linear Regression
+Uttar Pradesh,Ayodhya,Faizabad,Red,FAQ,15,21.599089792875716,Linear Regression
+Uttar Pradesh,Ayodhya,Rudauli,Red,FAQ,13,290.15664438100964,XGBoost
+Uttar Pradesh,Azamgarh,Azamgarh,Red,FAQ,10,25.587237889472384,Linear Regression
+Uttar Pradesh,Badaun,Badayoun,Nasik,FAQ,16,5.625,Previous Price Baseline
+Uttar Pradesh,Badaun,Badayoun,Nasik,Non-FAQ,15,2.6666666666666665,Previous Price Baseline
+Uttar Pradesh,Badaun,Bilsi,Red,FAQ,20,10.20706787109375,XGBoost
+Uttar Pradesh,Badaun,Bilsi,Red,Non-FAQ,21,20.074775746456844,Linear Regression
+Uttar Pradesh,Badaun,Ujhani,Red,FAQ,13,5.769230769230769,Previous Price Baseline
+Uttar Pradesh,Badaun,Ujhani,Red,Non-FAQ,15,12.0,Previous Price Baseline
+Uttar Pradesh,Baghpat,Baraut,Red,FAQ,21,6.428571428571429,Previous Price Baseline
+Uttar Pradesh,Bahraich,Bahraich,Red,FAQ,22,27.990824925337474,Linear Regression
+Uttar Pradesh,Ballia,Ballia,Red,FAQ,13,13.482626887537068,Linear Regression
+Uttar Pradesh,Ballia,Chitwadagaon,Red,FAQ,13,18.46153846153846,Previous Price Baseline
+Uttar Pradesh,Ballia,Rasda,Red,FAQ,13,18.323714653356845,Linear Regression
+Uttar Pradesh,Balrampur,Balrampur,Red,FAQ,17,30.0,Previous Price Baseline
+Uttar Pradesh,Balrampur,Panchpedwa,Red,FAQ,13,123.07692307692308,Previous Price Baseline
+Uttar Pradesh,Balrampur,Tulsipur,Red,FAQ,21,41.904761904761905,Previous Price Baseline
+Uttar Pradesh,Banda,Banda,Red,FAQ,17,22.68990493307334,Linear Regression
+Uttar Pradesh,Barabanki,Barabanki,Red,FAQ,20,16.5,Previous Price Baseline
+Uttar Pradesh,Barabanki,Safdarganj,Red,FAQ,11,41.81818181818182,Previous Price Baseline
+Uttar Pradesh,Bareilly,Anwala,Red,FAQ,16,12.5,Previous Price Baseline
+Uttar Pradesh,Bareilly,Bareilly,Red,FAQ,22,8.181818181818182,Previous Price Baseline
+Uttar Pradesh,Basti,Basti,Red,FAQ,22,20.87872923340035,Linear Regression
+Uttar Pradesh,Bhadohi (Sant Ravi Nagar),Gopiganj,Red,FAQ,16,10.871374241890152,Linear Regression
+Uttar Pradesh,Bijnor,Bijnaur,Red,FAQ,22,19.79389289498988,Linear Regression
+Uttar Pradesh,Bijnor,Chaandpur,Red,FAQ,15,26.666666666666668,Previous Price Baseline
+Uttar Pradesh,Bijnor,Najibabad,Red,FAQ,10,0.0,Previous Price Baseline
+Uttar Pradesh,Bulandshahar,Anoop Shahar,Red,FAQ,23,122.55407184103261,XGBoost
+Uttar Pradesh,Bulandshahar,Buland Shahr,Red,FAQ,13,26.295279805234276,Linear Regression
+Uttar Pradesh,Bulandshahar,Gulavati,Red,FAQ,26,57.8916250375601,XGBoost
+Uttar Pradesh,Bulandshahar,Jahangirabad,Red,FAQ,17,9.176470588235293,Previous Price Baseline
+Uttar Pradesh,Bulandshahar,Khurja,Red,FAQ,16,15.3125,Previous Price Baseline
+Uttar Pradesh,Bulandshahar,Sikarpur,Red,FAQ,16,6.25,Previous Price Baseline
+Uttar Pradesh,Bulandshahar,Siyana,Red,FAQ,15,143.86749674479168,XGBoost
+Uttar Pradesh,Chandauli,Chandoli,Red,FAQ,18,13.483696831597221,XGBoost
+Uttar Pradesh,Chitrakut,Karvi,Red,FAQ,23,18.695652173913043,Previous Price Baseline
+Uttar Pradesh,Deoria,Devariya,Red,FAQ,14,20.282098540031694,Linear Regression
+Uttar Pradesh,Etah,Etah,Red,FAQ,17,14.235294117647058,Previous Price Baseline
+Uttar Pradesh,Etawah,Bharthna,Red,FAQ,17,21.891362886107867,Linear Regression
+Uttar Pradesh,Etawah,Etawah,Red,FAQ,20,16.5,Previous Price Baseline
+Uttar Pradesh,Etawah,Jasvantnagar,Red,FAQ,22,16.363636363636363,Previous Price Baseline
+Uttar Pradesh,Farukhabad,Farukhabad,Red,FAQ,22,30.454545454545453,Previous Price Baseline
+Uttar Pradesh,Farukhabad,Kayamganj,Red,FAQ,13,31.923076923076923,Previous Price Baseline
+Uttar Pradesh,Farukhabad,Mohamadabad,Red,FAQ,20,43.0,Previous Price Baseline
+Uttar Pradesh,Fatehpur,Bindki,Red,FAQ,15,23.753112995926116,Linear Regression
+Uttar Pradesh,Fatehpur,Fatehpur,Red,FAQ,18,12.873498257989493,Linear Regression
+Uttar Pradesh,Fatehpur,Khaga,Red,FAQ,20,25.90525215462933,Linear Regression
+Uttar Pradesh,Firozabad,Firozabad,Red,FAQ,24,13.333333333333334,Previous Price Baseline
+Uttar Pradesh,Firozabad,Tundla,Red,FAQ,14,31.936238014597166,Linear Regression
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Red,FAQ,17,15.882352941176471,Previous Price Baseline
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Red,Non-FAQ,18,16.625535753038193,XGBoost
+Uttar Pradesh,Gautam Budh Nagar,Dankaur,Red,FAQ,21,29.735386439732142,XGBoost
+Uttar Pradesh,Ghaziabad,Ghaziabad,Red,FAQ,16,11.5625,Previous Price Baseline
+Uttar Pradesh,Ghaziabad,Ghaziabad,Red,Non-FAQ,20,11.5,Previous Price Baseline
+Uttar Pradesh,Ghaziabad,Hapur,Red,FAQ,18,18.333333333333332,Previous Price Baseline
+Uttar Pradesh,Ghaziabad,Muradnagar,Red,FAQ,19,51.63962273848684,XGBoost
+Uttar Pradesh,Ghaziabad,Noida,Onion,FAQ,13,16.43140587439904,XGBoost
+Uttar Pradesh,Ghazipur,Gazipur,Red,FAQ,21,19.523809523809526,Previous Price Baseline
+Uttar Pradesh,Gonda,Gonda,Red,FAQ,20,46.3599991698935,Linear Regression
+Uttar Pradesh,Gonda,Nawabganj,Red,FAQ,20,19.5,Previous Price Baseline
+Uttar Pradesh,Gorakhpur,Chorichora,Red,Non-FAQ,19,5.2631578947368425,Previous Price Baseline
+Uttar Pradesh,Gorakhpur,Gorakhpur,Red,FAQ,17,28.761955710018384,XGBoost
+Uttar Pradesh,Gorakhpur,Sehjanwa,Red,FAQ,13,353.84615384615387,Previous Price Baseline
+Uttar Pradesh,Hamirpur,Bharuasumerpur,Red,FAQ,13,20.514954084750325,Linear Regression
+Uttar Pradesh,Hamirpur,Muskara,Red,FAQ,18,17.643351014418638,Linear Regression
+Uttar Pradesh,Hardoi,Hardoi,Pusa-Red,FAQ,27,11.11111111111111,Previous Price Baseline
+Uttar Pradesh,Hardoi,Madhoganj,Red,FAQ,21,9.047619047619047,Previous Price Baseline
+Uttar Pradesh,Hardoi,Sandi,Onion,FAQ,23,6.521739130434782,Previous Price Baseline
+Uttar Pradesh,Hardoi,Sandila,Red,FAQ,23,8.91304347826087,Previous Price Baseline
+Uttar Pradesh,Hardoi,Shahabad (New Mandi),Red,FAQ,21,3.8095238095238093,Previous Price Baseline
+Uttar Pradesh,Hathras,Haathras,Red,FAQ,19,15.547922234786185,XGBoost
+Uttar Pradesh,Hathras,Shadabad,Red,FAQ,20,106.52919974084747,Linear Regression
+Uttar Pradesh,Jalaun (Orai),Orai,Red,FAQ,20,11.5,Previous Price Baseline
+Uttar Pradesh,Jaunpur,Jaunpur,Red,FAQ,22,12.727272727272727,Previous Price Baseline
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Red,FAQ,21,12.142857142857142,Previous Price Baseline
+Uttar Pradesh,Jhansi,Chirgaon,Red,FAQ,18,16.11111111111111,Previous Price Baseline
+Uttar Pradesh,Jhansi,Gurusarai,Red,FAQ,18,12.222222222222221,Previous Price Baseline
+Uttar Pradesh,Jhansi,Jhansi,Red,FAQ,15,38.42257472407767,Linear Regression
+Uttar Pradesh,Jhansi,Mauranipur,Red,FAQ,20,21.691646825196823,Linear Regression
+Uttar Pradesh,Jhansi,Moth,Red,FAQ,18,22.3184814453125,XGBoost
+Uttar Pradesh,Jhansi,Moth,Red,Non-FAQ,16,17.545420392829215,Linear Regression
+Uttar Pradesh,Kannuj,Chhibramau,Red,FAQ,22,17.727272727272727,Previous Price Baseline
+Uttar Pradesh,Kannuj,Kannauj,Red,FAQ,22,9.545454545454545,Previous Price Baseline
+Uttar Pradesh,Kanpur,Choubepur,Red,FAQ,17,11.176470588235293,Previous Price Baseline
+Uttar Pradesh,Kanpur,Kanpur (Grain),Red,FAQ,16,36.25,Previous Price Baseline
+Uttar Pradesh,Kanpur,Uttaripura,Red,FAQ,21,25.339436803533037,Linear Regression
+Uttar Pradesh,Kanpur Dehat,Pukharayan,Red,FAQ,25,16.0648095703125,XGBoost
+Uttar Pradesh,Kanpur Dehat,Pukharayan,Red,Non-FAQ,28,15.01788330078125,XGBoost
+Uttar Pradesh,Kasganj,Kasganj,Red,FAQ,24,13.940953572591146,XGBoost
+Uttar Pradesh,Kaushambi,Manjhanpur,Red,FAQ,25,13.983087613169218,Linear Regression
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Red,FAQ,19,364.4887398098523,Linear Regression
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Red,FAQ,18,15.0,Previous Price Baseline
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Red,Non-FAQ,18,24.407175699869793,XGBoost
+Uttar Pradesh,Kushinagar,Tamkuhi road,Red,FAQ,15,34.0,Previous Price Baseline
+Uttar Pradesh,Lakhimpur,Golagokarnath,Red,FAQ,15,13.333333333333334,Previous Price Baseline
+Uttar Pradesh,Lakhimpur,Golagokarnath,Red,Non-FAQ,14,15.714285714285714,Previous Price Baseline
+Uttar Pradesh,Lakhimpur,Lakhimpur,Red,FAQ,23,16.956521739130434,Previous Price Baseline
+Uttar Pradesh,Lalitpur,Lalitpur,Red,FAQ,22,63.63636363636363,Previous Price Baseline
+Uttar Pradesh,Lucknow,Lucknow,Red,FAQ,18,33.888888888888886,Previous Price Baseline
+Uttar Pradesh,Maharajganj,Anandnagar,Red,FAQ,24,54.49656262714016,Gradient Boosting
+Uttar Pradesh,Maharajganj,Gadaura,Red,FAQ,23,4.782608695652174,Previous Price Baseline
+Uttar Pradesh,Maharajganj,Nautnava,Red,FAQ,17,72.08109474518702,Linear Regression
+Uttar Pradesh,Maharajganj,Partaval,Red,FAQ,15,14.906031948725225,Linear Regression
+Uttar Pradesh,Mahoba,Mahoba,Red,FAQ,19,12.202932673631745,Linear Regression
+Uttar Pradesh,Mainpuri,Ghiraur,Red,FAQ,23,19.480674351546508,Linear Regression
+Uttar Pradesh,Mainpuri,Mainpuri,Red,FAQ,22,22.034372097254174,Linear Regression
+Uttar Pradesh,Mathura,Kosikalan,Red,FAQ,18,24.14634001761696,Linear Regression
+Uttar Pradesh,Mathura,Mathura,Red,FAQ,14,31.500745542573636,Linear Regression
+Uttar Pradesh,Mau (Maunathbhanjan),Doharighat,Red,FAQ,15,69.0,Previous Price Baseline
+Uttar Pradesh,Mau (Maunathbhanjan),Kopaganj,Red,FAQ,20,79.82853664245484,Linear Regression
+Uttar Pradesh,Meerut,Meerut,Red,FAQ,17,36.645378561580884,XGBoost
+Uttar Pradesh,Mirzapur,Ahirora,Red,Non-FAQ,11,100.0,Previous Price Baseline
+Uttar Pradesh,Mirzapur,Mirzapur,Red,FAQ,21,15.0,Previous Price Baseline
+Uttar Pradesh,Muzaffarnagar,Khatauli,Red,FAQ,16,27.354912293509102,Gradient Boosting
+Uttar Pradesh,Pillibhit,Pilibhit,Red,FAQ,23,11.743004840353262,XGBoost
+Uttar Pradesh,Pillibhit,Pilibhit,Red,Non-FAQ,22,9.136363636363637,Previous Price Baseline
+Uttar Pradesh,Pillibhit,Puranpur,Red,FAQ,25,11.095380859375,XGBoost
+Uttar Pradesh,Pillibhit,Puranpur,Red,Non-FAQ,25,7.36,Previous Price Baseline
+Uttar Pradesh,Pillibhit,Vishalpur,Red,FAQ,20,7.2,Previous Price Baseline
+Uttar Pradesh,Pillibhit,Vishalpur,Red,Non-FAQ,19,21.834518183647393,Linear Regression
+Uttar Pradesh,Pratapgarh,Pratapgarh,Red,FAQ,20,15.381792133799411,Linear Regression
+Uttar Pradesh,Prayagraj,Ajuha,Red,FAQ,25,16.855718224284274,Linear Regression
+Uttar Pradesh,Prayagraj,Allahabad,Red,FAQ,16,96.28923797607422,XGBoost
+Uttar Pradesh,Prayagraj,Jasra,Red,FAQ,13,20.384615384615383,Previous Price Baseline
+Uttar Pradesh,Prayagraj,Sirsa,Red,FAQ,18,16.88344151199264,Linear Regression
+Uttar Pradesh,Raebarelli,Bachranwa,Red,FAQ,23,10.0,Previous Price Baseline
+Uttar Pradesh,Raebarelli,Jayas,Red,FAQ,16,12.866661071777344,XGBoost
+Uttar Pradesh,Raebarelli,Lalganj,Red,FAQ,21,7.142857142857143,Previous Price Baseline
+Uttar Pradesh,Raebarelli,Raibareilly,Red,FAQ,25,25.36521947273538,Linear Regression
+Uttar Pradesh,Raebarelli,Salon,1st Sort,Non-FAQ,18,17.9346669503529,Linear Regression
+Uttar Pradesh,Rampur,Milak,Red,FAQ,15,13.8748401196342,Linear Regression
+Uttar Pradesh,Rampur,Rampur,Red,FAQ,25,14.809013837967704,Linear Regression
+Uttar Pradesh,Saharanpur,Gangoh,Red,FAQ,15,89.6647108303219,Gradient Boosting
+Uttar Pradesh,Saharanpur,Saharanpur,Red,FAQ,23,5.217391304347826,Previous Price Baseline
+Uttar Pradesh,Saharanpur,Saharanpur,Red,Non-FAQ,23,13.687572730517475,Linear Regression
+Uttar Pradesh,Sambhal,Chandausi,Red,FAQ,23,14.502645496831311,Linear Regression
+Uttar Pradesh,Sambhal,Muradabad,Red,FAQ,16,11.25,Previous Price Baseline
+Uttar Pradesh,Sambhal,Sambhal,Red,FAQ,27,76.04260094497862,Linear Regression
+Uttar Pradesh,Shahjahanpur,Puwaha,Red,FAQ,21,6.666666666666667,Previous Price Baseline
+Uttar Pradesh,Shahjahanpur,Puwaha,Red,Non-FAQ,26,17.5,Previous Price Baseline
+Uttar Pradesh,Shahjahanpur,Tilhar,Red,FAQ,22,8.475529410213683,Linear Regression
+Uttar Pradesh,Shahjahanpur,Tilhar,Red,Non-FAQ,23,9.565217391304348,Previous Price Baseline
+Uttar Pradesh,Shamli,Kairana,Red,FAQ,25,33.2877890697043,Linear Regression
+Uttar Pradesh,Shamli,Khandhla,Red,Non-FAQ,16,250.0,Previous Price Baseline
+Uttar Pradesh,Shamli,Shamli,Red,FAQ,24,6.25,Previous Price Baseline
+Uttar Pradesh,Shamli,Shamli,Red,Non-FAQ,13,17.959957725088017,Linear Regression
+Uttar Pradesh,Shamli,Thanabhavan,Red,FAQ,14,17.857142857142858,Previous Price Baseline
+Uttar Pradesh,Shravasti,Bhinga,Red,FAQ,20,32.137982353546704,Linear Regression
+Uttar Pradesh,Shravasti,Payagpur,Red,FAQ,18,81.46630584218859,Linear Regression
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Red,FAQ,10,86.98114504501231,Gradient Boosting
+Uttar Pradesh,Sitapur,Hargaon (Laharpur),Nasik,FAQ,20,145.5,Previous Price Baseline
+Uttar Pradesh,Sitapur,Mehmoodabad,Red,FAQ,19,14.210526315789474,Previous Price Baseline
+Uttar Pradesh,Sitapur,Sitapur,Red,FAQ,25,8.4,Previous Price Baseline
+Uttar Pradesh,Sitapur,Viswan,Red,FAQ,21,11.428571428571429,Previous Price Baseline
+Uttar Pradesh,Sonbhadra,Robertsganj,Red,FAQ,15,16.0,Previous Price Baseline
+Uttar Pradesh,Unnao,Bangarmau,Red,FAQ,22,16.16655359983164,Linear Regression
+Uttar Pradesh,Unnao,Unnao,Red,FAQ,15,19.6,Previous Price Baseline
+Uttar Pradesh,Varanasi,Varanasi (F&V),Red,FAQ,16,12.8125,Previous Price Baseline
+Uttrakhand,Dehradoon,Dehradoon,Nasik,FAQ,13,160.38261461578915,Linear Regression
+Uttrakhand,Dehradoon,Rishikesh,Other,FAQ,20,19.585472544086635,Gradient Boosting
+Uttrakhand,Haridwar,Haridwar Union,Onion,FAQ,18,55.55555555555556,Previous Price Baseline
+Uttrakhand,Haridwar,Manglaur,Other,FAQ,11,155.50488702656318,Gradient Boosting
+Uttrakhand,Haridwar,Roorkee,Other,FAQ,27,0.0,Previous Price Baseline
+Uttrakhand,Nanital,Haldwani,Other,FAQ,17,176.47058823529412,Previous Price Baseline
+Uttrakhand,Nanital,Ramnagar,Other,FAQ,13,173.2023297912057,Linear Regression
+Uttrakhand,UdhamSinghNagar,Kashipur,Other,FAQ,12,156.18587438635583,Linear Regression
+Uttrakhand,UdhamSinghNagar,Khateema,Other,FAQ,10,40.0,Previous Price Baseline
+Uttrakhand,UdhamSinghNagar,Rudrapur,Other,FAQ,14,121.42857142857143,Previous Price Baseline
+Uttrakhand,UdhamSinghNagar,Sitarganj,Other,Non-FAQ,13,41.306490639745384,Linear Regression
+West Bengal,Alipurduar,Alipurduar,Other,FAQ,19,133.2818460374646,Gradient Boosting
+West Bengal,Alipurduar,Falakata,Other,FAQ,15,93.33333333333333,Previous Price Baseline
+West Bengal,Bankura,Bankura Sadar,Nasik,FAQ,22,83.32333143723605,Linear Regression
+West Bengal,Bankura,Bishnupur (Bankura),Nasik,Non-FAQ,27,37.03703703703704,Previous Price Baseline
+West Bengal,Birbhum,Birbhum,Other,FAQ,21,42.857142857142854,Previous Price Baseline
+West Bengal,Birbhum,Bolpur,Onion,FAQ,23,39.130434782608695,Previous Price Baseline
+West Bengal,Birbhum,Rampurhat,Local,FAQ,13,69.23076923076923,Previous Price Baseline
+West Bengal,Birbhum,Sainthia,Onion,FAQ,19,15.789473684210526,Previous Price Baseline
+West Bengal,Dakshin Dinajpur,Gangarampur (Dakshin Dinajpur),1st Sort,FAQ,20,20.0,Previous Price Baseline
+West Bengal,Darjeeling,Darjeeling,Other,FAQ,28,42.857142857142854,Previous Price Baseline
+West Bengal,Darjeeling,Karsiyang (Matigara),Other,FAQ,27,85.18518518518519,Previous Price Baseline
+West Bengal,Darjeeling,Siliguri,Other,FAQ,26,7.6923076923076925,Previous Price Baseline
+West Bengal,Hooghly,Champadanga,Nasik,FAQ,25,14.0,Previous Price Baseline
+West Bengal,Hooghly,Kalipur,Nasik,FAQ,28,16.071428571428573,Previous Price Baseline
+West Bengal,Hooghly,Pandua,Dry F.A.Q.,FAQ,26,42.30769230769231,Previous Price Baseline
+West Bengal,Hooghly,Sheoraphuly,Nasik,FAQ,21,42.857142857142854,Previous Price Baseline
+West Bengal,Howrah,Ramkrishanpur (Howrah),Other,FAQ,23,8.695652173913043,Previous Price Baseline
+West Bengal,Howrah,Uluberia,Other,FAQ,22,9.090909090909092,Previous Price Baseline
+West Bengal,Jalpaiguri,Belacoba,Nasik,FAQ,19,13.157894736842104,Previous Price Baseline
+West Bengal,Jalpaiguri,Dhupguri,Nasik,FAQ,23,8.695652173913043,Previous Price Baseline
+West Bengal,Jalpaiguri,Jalpaiguri Sadar,Nasik,FAQ,22,9.090909090909092,Previous Price Baseline
+West Bengal,Jalpaiguri,Moynaguri,Nasik,FAQ,18,16.666666666666668,Previous Price Baseline
+West Bengal,Kolkata,Bara Bazar (Posta Bazar),Nasik,FAQ,14,33.57142857142857,Previous Price Baseline
+West Bengal,Malda,English Bazar,Other,FAQ,20,15.0,Previous Price Baseline
+West Bengal,Malda,Gajol,Other,FAQ,11,18.181818181818183,Previous Price Baseline
+West Bengal,Malda,Samsi,Onion,FAQ,22,13.636363636363637,Previous Price Baseline
+West Bengal,Medinipur (E),Egra/contai,Onion,FAQ,21,28.571428571428573,Previous Price Baseline
+West Bengal,Medinipur (E),Tamluk (Medinipur E),Onion,FAQ,19,42.10526315789474,Previous Price Baseline
+West Bengal,Medinipur (W),Garbeta (Medinipur),Onion,FAQ,15,20.0,Previous Price Baseline
+West Bengal,Medinipur (W),Ghatal,Onion,FAQ,17,84.40034750410426,Linear Regression
+West Bengal,Medinipur (W),Medinipur (West),Onion,FAQ,23,37.391304347826086,Previous Price Baseline
+West Bengal,Murshidabad,Jangipur,Red,FAQ,25,56.2,Previous Price Baseline
+West Bengal,Nadia,Bethuadahari,Nasik,FAQ,23,59.09364913872974,Gradient Boosting
+West Bengal,Nadia,Kalyani,Onion,FAQ,20,45.0,Previous Price Baseline
+West Bengal,Nadia,Karimpur,Nasik,FAQ,26,59.61538461538461,Previous Price Baseline
+West Bengal,North 24 Parganas,Barasat,Other,FAQ,27,22.22222222222222,Previous Price Baseline
+West Bengal,North 24 Parganas,Habra,Other,FAQ,24,41.666666666666664,Previous Price Baseline
+West Bengal,Paschim Bardhaman,Asansol,Nasik,FAQ,24,39.583333333333336,Previous Price Baseline
+West Bengal,Paschim Bardhaman,Asansol,Nasik,Non-FAQ,24,22.916666666666668,Previous Price Baseline
+West Bengal,Paschim Bardhaman,Durgapur,Nasik,FAQ,23,47.82608695652174,Previous Price Baseline
+West Bengal,Paschim Bardhaman,Durgapur,Nasik,Non-FAQ,23,15.217391304347826,Previous Price Baseline
+West Bengal,Purba Bardhaman,Burdwan,Nasik,FAQ,16,6.25,Previous Price Baseline
+West Bengal,Purba Bardhaman,Kalna,Local,FAQ,25,16.0,Previous Price Baseline
+West Bengal,Purba Bardhaman,Kalna,Other,FAQ,29,17.24137931034483,Previous Price Baseline
+West Bengal,Purba Bardhaman,Katwa,Other,FAQ,26,61.53846153846154,Previous Price Baseline
+West Bengal,Puruliya,Balarampur,Other,FAQ,21,114.28571428571429,Previous Price Baseline
+West Bengal,Puruliya,Kasipur,Other,FAQ,14,14.285714285714286,Previous Price Baseline
+West Bengal,Puruliya,Purulia,Other,FAQ,27,59.25925925925926,Previous Price Baseline
+West Bengal,Sounth 24 Parganas,Baruipur (Canning),Other,FAQ,30,15.0,Previous Price Baseline
+West Bengal,Sounth 24 Parganas,Diamond Harbour (South 24-pgs),Onion,FAQ,12,29.166666666666668,Previous Price Baseline

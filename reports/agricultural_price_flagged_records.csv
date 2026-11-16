@@ -1,0 +1,916 @@
+State,District,Market,Commodity,Year,Month,Arrivals_Qtl,Min_Price,Max_Price,Modal_Price,Arrival_Date,Zero_Price,Invalid_Min_Max,Invalid_Modal,Has_Price_Issue
+Maharashtra,Ahmadnagar,Ahmednagar,Coriander  ,2015,August,4230,5,1,7,2015-08-01,False,True,True,True
+Maharashtra,Ahmadnagar,Pathardi,Bajri,2015,August,202,1253,1337,1380,2015-08-01,False,False,True,True
+Maharashtra,Ahmadnagar,Pathardi,Bajri,2015,December,370,1306,1630,3322,2015-12-01,False,False,True,True
+Maharashtra,Ahmadnagar,Pathardi,Cotton,2015,February,2300,6805,3873,3798,2015-02-01,False,True,True,True
+Maharashtra,Ahmadnagar,Pathardi,Wheat(Husked),2015,February,332,1513,2133,4451,2015-02-01,False,False,True,True
+Maharashtra,Ahmadnagar,Shevgaon-Bodhegaon,Maize,2015,February,18,1050,1150,1025,2015-02-01,False,False,True,True
+Maharashtra,Ahmadnagar,Sangamner,Onion,2015,January,182627,500,1844,1914,2015-01-01,False,False,True,True
+Maharashtra,Ahmadnagar,Pathardi,Gram,2015,July,32,4131,4307,3697,2015-07-01,False,False,True,True
+Maharashtra,Ahmadnagar,Pathardi,Bajri,2015,June,413,2600,1446,1325,2015-06-01,False,True,True,True
+Maharashtra,Ahmadnagar,Pathardi,Wheat(Husked),2015,June,2392,1372,1752,1765,2015-06-01,False,False,True,True
+Maharashtra,Ahmadnagar,Pathardi,Pigeon Pea (Tur),2015,March,16,5000,3025,5100,2015-03-01,False,True,True,True
+Maharashtra,Ahmadnagar,Sangamner,Sorgum(Jawar),2015,March,40,1925,2350,1750,2015-03-01,False,False,True,True
+Maharashtra,Ahmadnagar,Sangamner,Gram,2015,March,32,3500,3600,3425,2015-03-01,False,False,True,True
+Maharashtra,Ahmadnagar,Ahmednagar,Garlic,2015,November,53,14500,8813,7156,2015-11-01,False,True,True,True
+Maharashtra,Ahmadnagar,Shrirampur-Belapur,Wheat(Husked),2015,November,473,1385,1595,2163,2015-11-01,False,False,True,True
+Maharashtra,Ahmadnagar,Sangamner,Wheat(Husked),2014,October,610,1450,1550,1425,2014-10-01,False,False,True,True
+Maharashtra,Ahmadnagar,Shrirampur-Belapur,Wheat(Husked),2015,September,571,1325,1253,1188,2015-09-01,False,True,True,True
+Maharashtra,Ahmadnagar,Shrirampur-Belapur,Maize,2015,September,47,1200,940,930,2015-09-01,False,True,True,True
+Maharashtra,Akola,Patur,Soybean,2015,April,350,6522,3337,3267,2015-04-01,False,True,True,True
+Maharashtra,Akola,Akot,Green Gram,2015,January,17,7500,7953,6750,2015-01-01,False,False,True,True
+Maharashtra,Akola,Akot,Soybean,2015,January,2360,3120,3300,3070,2015-01-01,False,False,True,True
+Maharashtra,Akola,Patur,Pigeon Pea (Tur),2015,January,1649,4530,5250,4397,2015-01-01,False,False,True,True
+Maharashtra,Akola,Telhara,Black Gram,2015,January,215,4609,4672,4579,2015-01-01,False,False,True,True
+Maharashtra,Akola,Patur,Wheat(Husked),2015,July,360,3142,1725,3127,2015-07-01,False,True,True,True
+Maharashtra,Akola,Akot,Maize,2015,June,140,901,1046,1179,2015-06-01,False,False,True,True
+Maharashtra,Akola,Balapur,Wheat(Husked),2015,June,680,1375,1688,1725,2015-06-01,False,False,True,True
+Maharashtra,Akola,Balapur,Sorgum(Jawar),2015,June,87,1138,1425,1475,2015-06-01,False,False,True,True
+Maharashtra,Akola,Telhara,Wheat(Husked),2015,March,2730,1294,1375,1253,2015-03-01,False,False,True,True
+Maharashtra,Akola,Telhara,Soybean,2015,May,1195,3585,3767,3421,2015-05-01,False,False,True,True
+Maharashtra,Akola,Patur,Soybean,2014,November,5060,2908,2712,3099,2014-11-01,False,True,True,True
+Maharashtra,Akola,Patur,Soybean,2015,November,4812,3600,3716,3581,2015-11-01,False,False,True,True
+Maharashtra,Akola,Balapur,Black Gram,2015,October,305,7125,8425,10750,2015-10-01,False,False,True,True
+Maharashtra,Akola,Patur,Green Gram,2014,October,95,23500,6833,6450,2014-10-01,False,True,True,True
+Maharashtra,Akola,Patur,Green Gram,2015,October,66,7878,6763,8250,2015-10-01,False,True,True,True
+Maharashtra,Akola,Telhara,Cotton,2014,October,1300,3875,3944,3871,2014-10-01,False,False,True,True
+Maharashtra,Amaravathi,Amarawati,Gram,2015,December,1762,4531,4700,4746,2015-12-01,False,False,True,True
+Maharashtra,Amaravathi,Amarawati,Spinach,2014,December,39,1015,715,1108,2014-12-01,False,True,True,True
+Maharashtra,Amaravathi,Varud-Rajura Bazar,Sorgum(Jawar),2014,December,12,1274,1299,1271,2014-12-01,False,False,True,True
+Maharashtra,Amaravathi,Chandur Rly.,Green Gram,2015,October,40,9091,9206,9230,2015-10-01,False,False,True,True
+Maharashtra,Amaravathi,Chandur Rly.,Wheat(Husked),2015,September,27,1471,1469,1470,2015-09-01,False,True,True,True
+Maharashtra,Amaravathi,Chandur Rly.,Green Gram,2015,September,25,7362,7387,7435,2015-09-01,False,False,True,True
+Maharashtra,Amaravathi,Chandur Rly.,Soybean,2015,September,211,3082,3144,3145,2015-09-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Onion,2015,April,2174,667,583,400,2015-04-01,False,True,True,True
+Maharashtra,Aurangabad,Paithan,Bajri,2015,April,3801,653,653,651,2015-04-01,False,False,True,True
+Maharashtra,Aurangabad,Gangapur,Green Gram,2015,August,60,7361,7018,7483,2015-08-01,False,True,True,True
+Maharashtra,Aurangabad,Kannad,Green Gram,2015,August,5,6603,6703,6753,2015-08-01,False,False,True,True
+Maharashtra,Aurangabad,Aurangabad,Ladies Finger,2014,December,557,3350,2959,2714,2014-12-01,False,True,True,True
+Maharashtra,Aurangabad,Aurangabad,Capsicum,2014,December,426,3900,3178,2736,2014-12-01,False,True,True,True
+Maharashtra,Aurangabad,Fulambri,Cotton,2014,December,1055,4042,1013,1010,2014-12-01,False,True,True,True
+Maharashtra,Aurangabad,Fulambri,Cotton,2015,January,1834,3913,3684,3403,2015-01-01,False,True,True,True
+Maharashtra,Aurangabad,Kannad,Bajri,2015,June,551,1068,1173,1255,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Wheat(Husked),2015,June,1061,1404,1517,1622,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Sorgum(Jawar),2015,June,12,1157,1229,1343,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Maize,2015,June,360,1050,1140,1210,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Gram,2015,June,2,3450,3550,3750,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Ginger (Fresh),2015,June,1764,1822,2833,4278,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Onion,2015,June,2764,363,725,1175,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Soygaon,Maize,2015,June,1625,1033,1083,1100,2015-06-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Onion,2015,May,1327,675,675,413,2015-05-01,False,False,True,True
+Maharashtra,Aurangabad,Aurangabad,Carrot,2014,November,382,1717,1900,1958,2014-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Bajri,2015,November,230,1226,1375,1462,2015-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Wheat(Husked),2015,November,1506,1508,1658,1745,2015-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Sorgum(Jawar),2015,November,30,1275,1338,1357,2015-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Maize,2015,November,40117,1091,1207,1269,2015-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Gram,2015,November,6,3300,3500,3750,2015-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Ginger (Fresh),2015,November,733,1575,2288,2863,2015-11-01,False,False,True,True
+Maharashtra,Aurangabad,Paithan,Soybean,2014,November,269,5117,5302,3275,2014-11-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Bajri,2015,October,2621,1050,1221,1313,2015-10-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Wheat(Husked),2015,October,2126,1467,1642,1768,2015-10-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Sorgum(Jawar),2015,October,30,1325,1394,1456,2015-10-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Maize,2015,October,37567,895,959,1029,2015-10-01,False,False,True,True
+Maharashtra,Aurangabad,Kannad,Gram,2015,October,4,3650,4400,4650,2015-10-01,False,False,True,True
+Maharashtra,Aurangabad,Paithan,Mosambi,2015,October,1846,4143,1877,1761,2015-10-01,False,True,True,True
+Maharashtra,Beed,Parli-Vaijnath,Green Gram,2015,August,23,7189,7191,7211,2015-08-01,False,False,True,True
+Maharashtra,Beed,Parli-Vaijnath,Pigeon Pea (Tur),2015,June,120,5860,6517,6564,2015-06-01,False,False,True,True
+Maharashtra,Beed,Majalgaon,Cotton,2014,November,30511,3880,3874,3978,2014-11-01,False,True,True,True
+Maharashtra,Beed,Parli-Vaijnath,Pigeon Pea (Tur),2014,October,134,3808,4292,7439,2014-10-01,False,False,True,True
+Maharashtra,Beed,Parli-Vaijnath,Wheat(Husked),2015,September,16,5761,1761,1761,2015-09-01,False,True,True,True
+Maharashtra,Beed,Parli-Vaijnath,Green Gram,2014,September,122,5481,6229,6297,2014-09-01,False,False,True,True
+Maharashtra,Bhandara,Tumsar,Other Cereals,2015,April,5019,1884,1993,2028,2015-04-01,False,False,True,True
+Maharashtra,Bhandara,Tumsar,Pigeon Pea (Tur),2015,April,2284,5537,5910,5432,2015-04-01,False,False,True,True
+Maharashtra,Bhandara,Tumsar,Gram,2015,August,50,5794,4399,4115,2015-08-01,False,True,True,True
+Maharashtra,Bhandara,Pavani,Paddy-Unhusked,2015,March,287,2578,1743,1737,2015-03-01,False,True,True,True
+Maharashtra,Buldhana,Malkapur,Bajri,2015,August,11,1174,1174,1173,2015-08-01,False,False,True,True
+Maharashtra,Buldhana,Malkapur,Bajri,2015,December,431,1268,1432,1264,2015-12-01,False,False,True,True
+Maharashtra,Buldhana,Khamgaon,Sunflower,2015,July,712,3153038,3065,3049,2015-07-01,False,True,True,True
+Maharashtra,Buldhana,Lonar,Wheat(Husked),2015,July,544,1549,1663,1483,2015-07-01,False,False,True,True
+Maharashtra,Buldhana,Lonar,Green Gram,2015,July,35,5430,6193,5089,2015-07-01,False,False,True,True
+Maharashtra,Buldhana,Lonar,Pigeon Pea (Tur),2015,July,454,6624,7242,5626,2015-07-01,False,False,True,True
+Maharashtra,Buldhana,Lonar,Black Gram,2015,July,24,6269,6876,4867,2015-07-01,False,False,True,True
+Maharashtra,Buldhana,Lonar,Soybean,2015,July,4500,3314,3487,3230,2015-07-01,False,False,True,True
+Maharashtra,Buldhana,Lonar,Pigeon Pea (Tur),2015,June,5774,6669,7206,5963,2015-06-01,False,False,True,True
+Maharashtra,Buldhana,Lonar,Soybean,2015,June,44470,3388,3590,3387,2015-06-01,False,False,True,True
+Maharashtra,Buldhana,Khamgaon,Bajri,2015,May,145,1101,1143,1827,2015-05-01,False,False,True,True
+Maharashtra,Buldhana,Buldhana,Black Gram,2015,October,35,9500,1050,1000,2015-10-01,False,True,True,True
+Maharashtra,Buldhana,Malkapur,Bajri,2015,October,18,1290,1315,1283,2015-10-01,False,False,True,True
+Maharashtra,Buldhana,Chikhali,Soybean,2014,September,1275,4761,3324,3143,2014-09-01,False,True,True,True
+Maharashtra,Chandrapur,Chimur,Cotton,2015,April,15,4200,4100,4000,2015-04-01,False,True,True,True
+Maharashtra,Chandrapur,Chimur,Paddy-Unhusked,2015,April,7090,1893,1949,1848,2015-04-01,False,False,True,True
+Maharashtra,Chandrapur,Chimur,Gram,2015,April,290,3280,3360,3260,2015-04-01,False,False,True,True
+Maharashtra,Chandrapur,Sindevahi,Paddy-Unhusked,2015,August,4484,1802,1884,1772,2015-08-01,False,False,True,True
+Maharashtra,Chandrapur,Sindevahi,Paddy-Unhusked,2015,December,7575,1748,1848,1746,2015-12-01,False,False,True,True
+Maharashtra,Chandrapur,Korpana,Cotton,2015,February,8770,5655,4045,3971,2015-02-01,False,True,True,True
+Maharashtra,Chandrapur,Chandrapur,Carrot,2015,June,7,800,1000,600,2015-06-01,False,False,True,True
+Maharashtra,Chandrapur,Rajura,Green Gram,2015,March,8,600018,6251,6218,2015-03-01,False,True,True,True
+Maharashtra,Chandrapur,Sindevahi,Paddy-Unhusked,2015,November,2939,1739,1829,1734,2015-11-01,False,False,True,True
+Maharashtra,Chandrapur,Sindevahi,Paddy-Unhusked,2015,October,4701,1998,2099,2665,2015-10-01,False,False,True,True
+Maharashtra,Chandrapur,Sindevahi,Paddy-Unhusked,2015,September,4683,1800,1898,1794,2015-09-01,False,False,True,True
+Maharashtra,Dhule,Dondaicha,Wheat(Husked),2015,April,75919,1424,1857,2384,2015-04-01,False,False,True,True
+Maharashtra,Dhule,Dondaicha,Wheat(Husked),2015,January,3472,2191,1773,1656,2015-01-01,False,True,True,True
+Maharashtra,Dhule,Dhule,Bajri,2015,June,13072,1535,1217,1124,2015-06-01,False,True,True,True
+Maharashtra,Dhule,Dondaicha,Sesamum,2015,October,3,6052,5052,6052,2015-10-01,False,True,True,True
+Maharashtra,Gadchiroli,Chamorshi,Paddy-Unhusked,2015,August,10916,1763,1885,2243,2015-08-01,False,False,True,True
+Maharashtra,Gondiya,Aamgaon,Paddy-Unhusked,2015,April,2728,1441,1442,1412,2015-04-01,False,False,True,True
+Maharashtra,Gondiya,Aamgaon,Paddy-Unhusked,2015,June,9312,1348,1369,1339,2015-06-01,False,False,True,True
+Maharashtra,Gondiya,Aamgaon,Paddy-Unhusked,2015,March,5294,1459,1445,1419,2015-03-01,False,True,True,True
+Maharashtra,Gondiya,Gondiya,Paddy-Unhusked,2015,September,16689,1667,1742,1624,2015-09-01,False,False,True,True
+Maharashtra,Hingoli,Basmat,Castor Seed,2015,April,59,3328,3360,3310,2015-04-01,False,False,True,True
+Maharashtra,Hingoli,Basmat,Cotton,2015,December,60,4100,4115,4133,2015-12-01,False,False,True,True
+Maharashtra,Hingoli,Kalamnuri,Cotton,2014,November,104,4188,4188,4113,2014-11-01,False,False,True,True
+Maharashtra,Jalgaon,Chalisgaon,Soybean,2015,December,119,3074,3406,2988,2015-12-01,False,False,True,True
+Maharashtra,Jalgaon,Pachora,Bajri,2015,December,1071,1460,1499,1417,2015-12-01,False,False,True,True
+Maharashtra,Jalgaon,Chalisgaon,Green Gram,2015,January,22,5000,5700,4983,2015-01-01,False,False,True,True
+Maharashtra,Jalgaon,Chalisgaon,Pigeon Pea (Tur),2015,January,161,4233,4353,4417,2015-01-01,False,False,True,True
+Maharashtra,Jalgaon,Chopda,Sesamum,2015,July,33,6950,7114,7115,2015-07-01,False,False,True,True
+Maharashtra,Jalgaon,Pachora,Sorgum(Jawar),2015,June,800,1250,1180,1120,2015-06-01,False,True,True,True
+Maharashtra,Jalgaon,Raver,Bajri,2015,June,50,1145,1151,2452,2015-06-01,False,False,True,True
+Maharashtra,Jalgaon,Chopda,Sunflower,2015,November,66,2950,2939,2986,2015-11-01,False,True,True,True
+Maharashtra,Jalgaon,Pachora,Maize,2015,September,232,1394,1537,1915,2015-09-01,False,False,True,True
+Maharashtra,Jalna,Ghansawangi,Cotton,2015,March,468,3700,3500,3600,2015-03-01,False,True,True,True
+Maharashtra,Jalna,Ashti (Jalna),Wheat(Husked),2015,November,13,1914,1672,1831,2015-11-01,False,True,True,True
+Maharashtra,Jalna,Ashti (Jalna),Sorgum(Jawar),2015,November,49,1626,1633,1640,2015-11-01,False,False,True,True
+Maharashtra,Jalna,Partur,Wheat(Husked),2014,November,206,2345,1555,1484,2014-11-01,False,True,True,True
+Maharashtra,Jalna,Ashti (Jalna),Soybean,2015,October,1080,2956,3491,3581,2015-10-01,False,False,True,True
+Maharashtra,Kolhapur,Vadgaon Peth,Flower,2014,December,406,1053,1888,2259,2014-12-01,False,False,True,True
+Maharashtra,Kolhapur,Gadhinglaj,Chillies(Red),2015,May,3,20000,22000,8300,2015-05-01,False,False,True,True
+Maharashtra,Kolhapur,Vadgaon Peth,Cabbage,2014,November,402,538,944,1181,2014-11-01,False,False,True,True
+Maharashtra,Kolhapur,Vadgaon Peth,Cabbage,2015,November,94,1425,1025,781,2015-11-01,False,True,True,True
+Maharashtra,Kolhapur,Vadgaon Peth,Cluster Bean,2014,October,24,2500,3250,2250,2014-10-01,False,False,True,True
+Maharashtra,Latur,Ausa,Soybean,2015,August,869,3191,3326,3104,2015-08-01,False,False,True,True
+Maharashtra,Latur,Udgir,Soybean,2015,August,2092,3327,3356,3357,2015-08-01,False,False,True,True
+Maharashtra,Latur,Udgir,Soybean,2015,July,1292,3477,3532,3535,2015-07-01,False,False,True,True
+Maharashtra,Latur,Udgir,Pigeon Pea (Tur),2015,June,892,6680,7055,7161,2015-06-01,False,False,True,True
+Maharashtra,Latur,Latur,Soybean,2014,November,141992,3062,3287,3312,2014-11-01,False,False,True,True
+Maharashtra,Latur,Udgir,Soybean,2015,September,3750,3390,3390,3410,2015-09-01,False,False,True,True
+Maharashtra,Mumbai,Mumbai,Cucumber,2015,August,14770,2680,1065,944,2015-08-01,False,True,True,True
+Maharashtra,Mumbai,Mumbai,Potato,2015,September,438518,1121,1090,960,2015-09-01,False,True,True,True
+Maharashtra,Nagpur,Kalmeshwar,Tomato,2015,April,93,657,812,873,2015-04-01,False,False,True,True
+Maharashtra,Nagpur,Kamthi,Capsicum,2015,April,37,1552,2574,2730,2015-04-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,April,4995,4159,4052,3772,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Narkhed,Orange,2015,April,7119,21111,20778,16222,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,April,2022,1357,1258,1307,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,April,1500,3488,3214,3350,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,April,1059,6004,5562,5781,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Linseed,2015,April,10,4360,4251,4305,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Lemon,2015,April,6,20,15,18,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Kharbuj,2015,April,18,14,11,12,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Potato,2015,April,47,209,248,388,2015-04-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Dhemse,2015,April,29,9,6,7,2015-04-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Tomato,2015,April,94,97,111,112,2015-04-01,False,False,True,True
+Maharashtra,Nagpur,Umared,Green Gram,2015,April,51,4927,5834,4881,2015-04-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2014,December,25004,3740,4053,3300,2014-12-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,December,16424,4158,4326,3798,2015-12-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Orange,2014,December,8991,9100,11158,6600,2014-12-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Paddy-Unhusked,2014,December,31886,1770,1687,1727,2014-12-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2014,December,174,1483,1373,1428,2014-12-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2014,December,33,2480,2280,2380,2014-12-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2014,December,9,3888,3788,3838,2014-12-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2014,December,16,2943,2801,2872,2014-12-01,False,True,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,February,29324,3893,3701,3471,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Narkhed,Orange,2015,February,2712,23000,19800,13400,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Paddy-Unhusked,2015,February,4913,2264,2255,2219,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,February,755,1469,1386,1427,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,February,507,3445,3122,3284,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,February,1696,5446,5143,5294,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2015,February,27,3009,2812,2910,2015-02-01,False,True,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,January,47520,3821,3904,3564,2015-01-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Paddy-Unhusked,2015,January,23504,2315,2221,2270,2015-01-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,January,97,1537,1467,1502,2015-01-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,January,50,3101,2865,2983,2015-01-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,January,398,5057,4810,4943,2015-01-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2015,January,39,3157,2751,2962,2015-01-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,July,183,1401,1381,1391,2015-07-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,July,27,3688,3675,3682,2015-07-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,July,12,6575,6450,5733,2015-07-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,June,500,1395,1311,1353,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,June,165,4176,3971,4088,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,June,143,6674,6243,6459,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Jambhul,2015,June,17,7,5,6,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Lemon,2015,June,5,5,4,4,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ginger (Fresh),2015,June,15,50,40,45,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Chavli (Pala),2015,June,24,15,12,13,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Cabbage,2015,June,50,17,14,15,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pumpkin,2015,June,21,11,9,10,2015-06-01,False,True,True,True
+Maharashtra,Nagpur,Kalmeshwar,Gram,2015,March,2396,3175,3316,3101,2015-03-01,False,False,True,True
+Maharashtra,Nagpur,Kamthi,Potato,2015,March,104,1178,1244,1011,2015-03-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,March,12335,3989,3830,3489,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Narkhed,Orange,2015,March,44532,21567,20067,15400,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,March,1888,1368,1252,1310,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,March,2166,3288,3136,3212,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Other Pulses,2015,March,41,1650,1506,1575,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,March,2518,5504,5216,5360,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Linseed,2015,March,32,4280,4160,4220,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2015,March,17,2954,2920,2937,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Carrot,2015,March,9,9,10,7,2015-03-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Kand,2015,March,8,12,15,10,2015-03-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Green-Peas,2015,March,15,18,20,17,2015-03-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Coriander (Dry),2015,March,6,3180,3030,3105,2015-03-01,False,True,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,May,2597,3958,4396,3446,2015-05-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,May,1074,1426,1321,1654,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2015,May,440,4342,3927,3923,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2015,May,208,6566,5776,6171,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2015,May,9,4617,4450,4534,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Jack Fruit,2015,May,6,12,10,11,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Potato,2015,May,51,11,9,9,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ladies Finger,2015,May,28,7,6,6,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Chavli (Shenga ),2015,May,19,11,9,10,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Onion,2015,May,31,12,10,11,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Cabbage,2015,May,20,20,16,18,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Coriander  ,2015,May,17,23,17,16,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Spinach,2015,May,15,18,14,16,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Tomato,2015,May,28,13,12,12,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Brinjal,2015,May,34,10,8,9,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Green Chilli,2015,May,9,47,38,42,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Mustard,2015,May,5,3000,2900,2950,2015-05-01,False,True,True,True
+Maharashtra,Nagpur,Umared,Green Gram,2015,May,98,5862,5924,6060,2015-05-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2014,November,17389,3842,3979,3558,2014-11-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,November,13167,3931,4056,2870,2015-11-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Paddy-Unhusked,2014,November,4582,1692,1586,1629,2014-11-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2014,November,565,1439,1343,1390,2014-11-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2014,November,90,2501,2132,2339,2014-11-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2014,November,15,4100,4060,4080,2014-11-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2014,November,105,3087,2753,2921,2014-11-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Garlic,2015,November,38,7906,9464,7435,2015-11-01,False,False,True,True
+Maharashtra,Nagpur,Narkhed,Cotton,2015,October,4029,4056,4283,2367,2015-10-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2014,October,589,1428,1355,1391,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2015,October,262,1438,1499,1849,2015-10-01,False,False,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2014,October,68,2463,2334,2398,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Pigeon Pea (Tur),2014,October,15,4100,4080,4090,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ground Nut Pods (Dry),2014,October,7,35,30,32,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Soybean,2014,October,110,2965,2699,2832,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Mosambi,2014,October,3,20,15,17,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ginger (Fresh),2014,October,10,65,58,61,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Potato,2014,October,15,27,24,26,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ladies Finger,2014,October,94,9,7,8,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Chavli (Shenga ),2014,October,85,12,9,11,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Cucumber,2014,October,6,20,15,18,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Onion,2014,October,42,18,13,15,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Bitter Gourd,2014,October,3,25,20,22,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Cabbage,2014,October,48,11,9,10,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Coriander  ,2014,October,55,32,26,29,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Garlic,2014,October,8,38,33,35,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Spinach,2014,October,40,23,18,20,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Tomato,2014,October,164,12,9,10,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Brinjal,2014,October,183,9,7,8,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Green Chilli,2014,October,110,24,19,22,2014-10-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Wheat(Husked),2014,September,40,1550,1400,1475,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Gram,2014,September,25,2700,2500,2625,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ground Nut Pods (Dry),2014,September,66,32,27,29,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Mosambi,2014,September,6,20,15,18,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ginger (Fresh),2014,September,413,62,52,57,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Potato,2014,September,2047,26,21,24,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Ladies Finger,2014,September,1683,11,8,9,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Chavli (Shenga ),2014,September,1338,14,11,12,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Cucumber,2014,September,817,18,14,15,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Onion,2014,September,1859,23,17,20,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Bitter Gourd,2014,September,3,35,20,30,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Cabbage,2014,September,1480,18,14,16,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Coriander  ,2014,September,27,35,30,32,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Garlic,2014,September,21,36,30,33,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Spinach,2014,September,1555,32,27,29,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Tomato,2014,September,2065,18,13,15,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Brinjal,2014,September,3024,16,12,14,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Coriander (Dry),2014,September,410,40,20,30,2014-09-01,False,True,True,True
+Maharashtra,Nagpur,Ramtek,Green Chilli,2014,September,1632,31,23,27,2014-09-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Pigeon Pea (Tur),2015,August,282,9760,9520,9360,2015-08-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Cotton,2014,December,21128,3968,4003,3915,2014-12-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2014,December,5748,3218,3300,3150,2014-12-01,False,False,True,True
+Maharashtra,Nanded,Umari,Soybean,2015,December,1556,5058,3656,3606,2015-12-01,False,True,True,True
+Maharashtra,Nanded,Nanded,Wheat(Husked),2015,January,1686,1592,1560,1605,2015-01-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Cotton,2014,November,16309,4070,4140,4013,2014-11-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2014,November,8904,3205,3302,3133,2014-11-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2015,November,8330,3405,3550,3400,2015-11-01,False,False,True,True
+Maharashtra,Nanded,Mahur,Soybean,2014,November,1640,2808,3011,2747,2014-11-01,False,False,True,True
+Maharashtra,Nanded,Dharmabad,Wheat(Husked),2014,October,9,1420,1200,1300,2014-10-01,False,True,True,True
+Maharashtra,Nanded,Dharmabad,Green Gram,2014,October,225,5934,4775,9283,2014-10-01,False,True,True,True
+Maharashtra,Nanded,Dharmabad,Pigeon Pea (Tur),2014,October,27,4567,4067,4300,2014-10-01,False,True,True,True
+Maharashtra,Nanded,Dharmabad,Black Gram,2014,October,15384,5023,3333,4565,2014-10-01,False,True,True,True
+Maharashtra,Nanded,Dharmabad,Soybean,2014,October,6216,3160,3028,3097,2014-10-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Wheat(Husked),2014,October,88,1633,1733,1533,2014-10-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Sorgum(Jawar),2014,October,31,1550,1600,1500,2014-10-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Gram,2014,October,188,2375,2450,2288,2014-10-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Pigeon Pea (Tur),2014,October,48,4425,4500,4350,2014-10-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2014,October,2435,2973,3093,2875,2014-10-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2015,October,8266,3421,3674,3330,2015-10-01,False,False,True,True
+Maharashtra,Nanded,Mukhed,Soybean,2015,October,2686,3626,3747,5259,2015-10-01,False,False,True,True
+Maharashtra,Nanded,Bhokar,Ground Nut Pods (Dry),2014,September,7,3575,3600,3500,2014-09-01,False,False,True,True
+Maharashtra,Nanded,Dharmabad,Green Gram,2014,September,342,5677,4359,5144,2014-09-01,False,True,True,True
+Maharashtra,Nanded,Dharmabad,Pigeon Pea (Tur),2014,September,225,4551,4043,4309,2014-09-01,False,True,True,True
+Maharashtra,Nanded,Dharmabad,Black Gram,2014,September,4515,4934,3319,4270,2014-09-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Wheat(Husked),2014,September,81,1680,1800,1600,2014-09-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Wheat(Husked),2015,September,332,1733,1583,1450,2015-09-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Sorgum(Jawar),2014,September,47,1667,1767,1600,2014-09-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Gram,2014,September,92,2433,2533,2367,2014-09-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Gram,2015,September,352,4650,4525,4350,2015-09-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Pigeon Pea (Tur),2014,September,76,4467,4533,4267,2014-09-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Pigeon Pea (Tur),2015,September,326,8688,8525,8138,2015-09-01,False,True,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2014,September,48,3675,3750,3600,2014-09-01,False,False,True,True
+Maharashtra,Nanded,Hadgaon,Soybean,2015,September,528,3360,3280,3180,2015-09-01,False,True,True,True
+Maharashtra,Nanded,Loha,Sorgum(Jawar),2014,September,111,3286,1333,1306,2014-09-01,False,True,True,True
+Maharashtra,Nanded,Loha,Pigeon Pea (Tur),2015,September,64,9426,5356,9500,2015-09-01,False,True,True,True
+Maharashtra,Nandurbar,Shahada,Bajri,2015,August,99,1350,1341,1339,2015-08-01,False,True,True,True
+Maharashtra,Nandurbar,Shahada,Sorgum(Jawar),2015,June,200,1779,1555,1462,2015-06-01,False,True,True,True
+Maharashtra,Nandurbar,Nandurbar,Pigeon Pea (Tur),2015,May,34,4780,4990,4992,2015-05-01,False,False,True,True
+Maharashtra,Nandurbar,Shahada,Bajri,2014,November,141,2034,1302,1268,2014-11-01,False,True,True,True
+Maharashtra,Nandurbar,Shahada,Sorgum(Jawar),2015,November,6972,1284,1448,1541,2015-11-01,False,False,True,True
+Maharashtra,Nandurbar,Shahada,Gram,2015,November,31,4240,4372,4410,2015-11-01,False,False,True,True
+Maharashtra,Nandurbar,Shahada,Wheat(Husked),2014,October,1250,2067,1671,1596,2014-10-01,False,True,True,True
+Maharashtra,Nasik,Devala,Maize,2015,August,35,1364,1447,1330,2015-08-01,False,False,True,True
+Maharashtra,Nasik,Chandvad,Cucumber,2016,January,1,0,2000,0,2016-01-01,True,False,False,True
+Maharashtra,Nasik,Devala,Pigeon Pea (Tur),2015,June,5,5926,5926,127201,2015-06-01,False,False,True,True
+Maharashtra,Nasik,Devala,Sorgum(Jawar),2015,May,81,1872,2032,2056,2015-05-01,False,False,True,True
+Maharashtra,Nasik,Nashik,Guava,2014,November,134,764,1418,1872,2014-11-01,False,False,True,True
+Maharashtra,Osmanabad,Tuljapur,Sorgum(Jawar),2015,December,58,2064,2068,2051,2015-12-01,False,False,True,True
+Maharashtra,Osmanabad,Tuljapur,Maize,2015,March,269,1184,1178,1219,2015-03-01,False,True,True,True
+Maharashtra,Osmanabad,Umarga,Sunflower,2015,May,37,3175,3311,3168,2015-05-01,False,False,True,True
+Maharashtra,Osmanabad,Kalamb (Os),Bajri,2015,November,190,1568,1791,2470,2015-11-01,False,False,True,True
+Maharashtra,Osmanabad,Murum,Green Gram,2015,October,551,7496,8644,11809,2015-10-01,False,False,True,True
+Maharashtra,Osmanabad,Murum,Black Gram,2015,September,2489,8417,8884,8887,2015-09-01,False,False,True,True
+Maharashtra,Osmanabad,Umarga,Sorgum(Jawar),2015,September,122,2313,1721,1592,2015-09-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,April,24,1651,1600,1600,2015-04-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Sorgum(Jawar),2015,April,25,1726,1626,1600,2015-04-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Pigeon Pea (Tur),2015,April,46,4901,4800,4800,2015-04-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,April,120,3351,3300,3300,2015-04-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,April,122,1661,1976,1485,2015-04-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2015,April,120,3327,3631,2929,2015-04-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Pigeon Pea (Tur),2015,April,187,4943,5836,4864,2015-04-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,April,57,3250,3344,2217,2015-04-01,False,False,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,August,61,1800,1683,1683,2015-08-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Sorgum(Jawar),2015,August,61,1827,1717,1717,2015-08-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Pigeon Pea (Tur),2015,August,19,8050,7750,7750,2015-08-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,August,98,3150,3100,3100,2015-08-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,August,26,1384,1457,733,2015-08-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,August,50,1517,1905,1377,2015-08-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,August,33,1636,1850,813,2015-08-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2015,August,2,3651,4101,0,2015-08-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Green Gram,2015,August,8,6100,7098,3150,2015-08-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,August,53,3017,3106,1033,2015-08-01,False,False,True,True
+Maharashtra,Parbhani,Jintur,Green Gram,2015,December,29,7008,7165,6996,2015-12-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2014,December,23,1401,1539,0,2014-12-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2014,December,64,1428,1701,891,2014-12-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2014,December,19,8758,2717,1697,2014-12-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,December,39,1624,1825,690,2015-12-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Green Gram,2014,December,7,5601,6600,0,2014-12-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,February,24,1510,1636,375,2015-02-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,February,12,1601,1750,896,2015-02-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2015,February,20,3168,3395,863,2015-02-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Pigeon Pea (Tur),2015,February,1534,4958,5528,3981,2015-02-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,February,144,3087,3173,1050,2015-02-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,January,10,1493,1588,0,2015-01-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,January,158,1455,1586,828,2015-01-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2016,January,5,0,1725,1600,2016-01-01,True,False,False,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,January,52,1818,2308,1521,2015-01-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2016,January,17,0,1737,1617,2016-01-01,True,False,False,True
+Maharashtra,Parbhani,Pathari,Gram,2015,January,28,2567,2789,1784,2015-01-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Green Gram,2015,January,2,6851,7361,0,2015-01-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Pigeon Pea (Tur),2015,January,435,5018,5277,4083,2015-01-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,January,362,3083,2954,2675,2015-01-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,July,82,1720,1650,1650,2015-07-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Sorgum(Jawar),2015,July,86,1725,1663,1650,2015-07-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,July,157,3350,3288,3288,2015-07-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,July,3,1250,1300,0,2015-07-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,July,68,1549,1991,1500,2015-07-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,July,24,1293,1482,1695,2015-07-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2015,July,11,3400,3967,1267,2015-07-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Pigeon Pea (Tur),2015,July,7,5950,3100,3050,2015-07-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,July,39,3238,3369,1663,2015-07-01,False,False,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,June,81,2113,2038,2013,2015-06-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Sorgum(Jawar),2015,June,58,1734,1667,1667,2015-06-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Pigeon Pea (Tur),2015,June,81,4876,4725,4725,2015-06-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,June,353,3349,3290,3290,2015-06-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,June,10,1250,1332,0,2015-06-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,June,146,1520,1935,1517,2015-06-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,June,15,1706,1840,913,2015-06-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Pigeon Pea (Tur),2015,June,58,5760,6325,4575,2015-06-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,March,4,1300,1426,0,2015-03-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,March,139,1513,1914,1069,2015-03-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,March,122,1650,1844,1308,2015-03-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Pigeon Pea (Tur),2015,March,798,4897,5450,3292,2015-03-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Safflower,2016,March,2,0,2411,2101,2016-03-01,True,False,False,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,March,146,3079,3168,892,2015-03-01,False,False,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,May,34,1701,1634,1634,2015-05-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Sorgum(Jawar),2015,May,32,1734,1651,1634,2015-05-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Pigeon Pea (Tur),2015,May,32,4750,4650,4633,2015-05-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,May,132,3413,3371,3350,2015-05-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,May,34,1260,1306,663,2015-05-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,May,36,1607,1950,1321,2015-05-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2015,May,42,9815,4387,2834,2015-05-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Ground Nut Pods (Dry),2015,May,29,3325,3867,0,2015-05-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,May,12,3576,3676,0,2015-05-01,True,False,True,True
+Maharashtra,Parbhani,Gangakhed,Cotton,2014,November,12477,4050,3576,4050,2014-11-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,November,55,1851,1817,1817,2015-11-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,November,136,3511,3483,3483,2015-11-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2014,November,41,1475,1635,271,2014-11-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,November,105,1435,1250,890,2015-11-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2014,November,59,1448,1690,951,2014-11-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,November,15,1651,1984,634,2015-11-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2014,November,6,1500,2600,0,2014-11-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Green Gram,2014,November,35,6391,7310,1370,2014-11-01,False,False,True,True
+Maharashtra,Parbhani,Sonpeth,Green Gram,2014,November,71,6669,7679,6513,2014-11-01,False,False,True,True
+Maharashtra,Parbhani,Gangakhed,Soybean,2014,October,6262,2865,3008,2652,2014-10-01,False,False,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,October,59,3451,3426,3426,2015-10-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2014,October,95,1523,2670,805,2014-10-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Bajri,2015,October,98,1316,1420,446,2015-10-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2014,October,30,1472,1676,484,2014-10-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,October,17,1576,1814,837,2015-10-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2014,October,15,2151,1983,1976,2014-10-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,October,21,1641,1723,0,2015-10-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2014,October,5,1900,2001,0,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Green Gram,2014,October,194,5673,6967,5456,2014-10-01,False,False,True,True
+Maharashtra,Parbhani,Tadkalas,Wheat(Husked),2014,October,29,0,0,1411,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Sorgum(Jawar),2014,October,11,0,0,1084,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Gram,2014,October,15,0,0,2201,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Green Gram,2014,October,18,0,0,5320,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Pigeon Pea (Tur),2014,October,5,0,0,3511,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Soybean,2014,October,2767,0,0,3042,2014-10-01,True,False,True,True
+Maharashtra,Parbhani,Manwat,Pigeon Pea (Tur),2015,September,38,7672,8266,8388,2015-09-01,False,False,True,True
+Maharashtra,Parbhani,Palam,Wheat(Husked),2015,September,55,1794,1701,1701,2015-09-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Sorgum(Jawar),2015,September,53,1834,1734,1734,2015-09-01,False,True,True,True
+Maharashtra,Parbhani,Palam,Soybean,2015,September,84,3254,3167,3167,2015-09-01,False,True,True,True
+Maharashtra,Parbhani,Pathari,Wheat(Husked),2015,September,61,1590,1955,1060,2015-09-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Sorgum(Jawar),2015,September,27,1581,1959,1117,2015-09-01,False,False,True,True
+Maharashtra,Parbhani,Pathari,Gram,2014,September,3,2225,2700,0,2014-09-01,True,False,True,True
+Maharashtra,Parbhani,Pathari,Soybean,2015,September,50,3025,3257,1588,2015-09-01,False,False,True,True
+Maharashtra,Parbhani,Tadkalas,Wheat(Husked),2014,September,5,0,0,1680,2014-09-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Sorgum(Jawar),2014,September,2,0,0,1520,2014-09-01,True,False,True,True
+Maharashtra,Parbhani,Tadkalas,Ground Nut Pods (Dry),2014,September,14,1876,1926,3576,2014-09-01,False,False,True,True
+Maharashtra,Parbhani,Tadkalas,Soybean,2014,September,4,1800,1800,1801,2014-09-01,False,False,True,True
+Maharashtra,Pune,Pune-Manjri,Lemon,2016,April,294,0,600,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Guava,2016,April,5,0,2950,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,April,23,0,1070,0,2015-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2016,April,7,0,1250,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,April,24,0,1080,0,2015-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2016,April,7,0,1350,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghevda,2016,April,2,0,7500,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,April,4253,0,1800,0,2015-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2016,April,1080,0,1800,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,April,46,0,4500,0,2015-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2016,April,41,0,4500,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2016,April,15,0,1050,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Pavtta,2016,April,2,0,4100,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,April,87,0,1800,0,2015-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2016,April,48,0,1629,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Rajgira,2016,April,14,0,857,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Green-Peas,2015,April,1,0,4800,0,2015-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Walvad,2016,April,10,0,5225,0,2016-04-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,August,8,0,1000,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2015,August,14,0,3300,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,August,1853,0,1800,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,August,39,0,4500,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Onion,2015,August,16,0,4090,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Cabbage,2015,August,994,0,1000,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,August,91,0,1800,0,2015-08-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,December,12,0,780,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2015,December,17,0,1140,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,December,5,0,942,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Chavli (Shenga ),2014,December,7,0,2642,0,2014-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2014,December,2571,0,1700,0,2014-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,December,2427,0,1800,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2014,December,19,0,4500,0,2014-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,December,31,0,4500,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2015,December,19,0,792,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2014,December,91,0,1800,0,2014-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,December,89,0,1800,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Rajgira,2015,December,19,0,1110,0,2015-12-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Guava,2015,February,5,0,2750,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,February,9,0,1150,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2016,February,2,0,750,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2015,February,10,0,1221,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2016,February,4,0,750,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Squash Gourd,2016,February,2,0,5000,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,February,12,0,986,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2016,February,3,0,750,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Chavli (Shenga ),2015,February,2,0,2750,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Chavli (Shenga ),2016,February,4,0,1750,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Double Bee,2015,February,2,0,3000,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Cluster Bean,2016,February,2,0,6750,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghevda,2016,February,2,0,2900,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2015,February,6,0,3663,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2016,February,2,0,4150,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,February,3188,0,1800,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2016,February,568,0,1200,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,February,16,0,4500,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2016,February,6,0,4500,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Onion,2016,February,5,0,900,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2016,February,4,0,750,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Bitter Gourd,2016,February,2,0,5800,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,February,96,0,1800,0,2015-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2016,February,20,0,1800,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Rajgira,2016,February,4,0,675,0,2016-02-01,True,False,False,True
+Maharashtra,Pune,Manchar,Coriander  ,2015,January,990086,456,626,371,2015-01-01,False,False,True,True
+Maharashtra,Pune,Pune,Cabbage,2015,January,7510,1030,1375,1023,2015-01-01,False,False,True,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,January,3,0,975,0,2015-01-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2015,January,4,0,1350,0,2015-01-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,January,3011,0,1800,0,2015-01-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,January,5,0,4500,0,2015-01-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,January,94,0,1800,0,2015-01-01,True,False,False,True
+Maharashtra,Pune,Junnar (Narayangaon),Math (Bhaji),2015,July,50000,300,1000,7000,2015-07-01,False,False,True,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,July,10,0,800,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Beet Root,2016,July,1,0,3000,0,2016-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,July,4,0,863,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2015,July,31,0,4235,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,July,2041,0,1800,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,July,33,0,4500,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Onion,2015,July,1,0,1700,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Nolkol,2016,July,1,0,3000,0,2016-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,July,92,0,1691,0,2015-07-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Lemon,2016,June,1049,0,612,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Guava,2015,June,2,0,2150,0,2015-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2016,June,24,0,1575,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Beet Root,2016,June,4,0,3000,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2016,June,18,0,1508,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,June,1013,0,1800,0,2015-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2016,June,3880,0,1800,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,June,22,0,4500,0,2015-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2016,June,99,0,5942,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2016,June,41,0,1444,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Nolkol,2016,June,2,0,3000,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Pavtta,2016,June,6,0,8000,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,June,34,0,1800,0,2015-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2016,June,150,0,1800,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Shevga,2016,June,2,0,5000,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Walvad,2016,June,6,0,6267,0,2016-06-01,True,False,False,True
+Maharashtra,Pune,Pune,Squash Gourd,2015,March,681,443,939,1004,2015-03-01,False,False,True,True
+Maharashtra,Pune,Pune-Manjri,Guava,2015,March,3,0,4000,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,March,7,0,1275,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2015,March,11,0,1300,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,March,5,0,1100,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Chavli (Shenga ),2016,March,4,0,4000,0,2016-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Double Bee,2015,March,2,0,3725,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2015,March,6,0,4750,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,March,1895,0,1800,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2016,March,389,0,1800,0,2016-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,March,18,0,4500,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,March,71,0,1800,0,2015-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2016,March,6,0,1800,0,2016-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Green Chilli,2016,March,1,0,6800,0,2016-03-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ground Nut Pods (Dry),2015,May,10,0,3267,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Lemon,2016,May,719,0,600,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,May,4,0,950,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2016,May,13,0,1138,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2015,May,2,0,1500,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2016,May,39,0,1326,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,May,2,0,900,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2016,May,11,0,1110,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2015,May,39,0,3646,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,May,1314,0,1800,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2016,May,3368,0,1800,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,May,19,0,4500,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2016,May,60,0,4500,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Onion,2015,May,6,0,1050,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2015,May,7,0,1000,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2016,May,23,0,1258,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Pavtta,2016,May,2,0,8000,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,May,31,0,1800,0,2015-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2016,May,144,0,1740,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Rajgira,2016,May,39,0,963,0,2016-05-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Lemon,2015,November,7,0,600,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2014,November,19,0,1391,0,2014-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,November,20,0,643,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Beet Root,2015,November,1,0,3000,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,November,8,0,1431,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2014,November,2275,0,1800,0,2014-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,November,3358,0,1710,90,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2014,November,31,0,4500,0,2014-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,November,61,0,4500,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2014,November,64,0,1800,0,2014-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,November,101,0,1800,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Green-Peas,2014,November,5,0,8300,0,2014-11-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Green-Peas,2015,November,2,0,6400,0,2015-11-01,True,False,False,True
+Maharashtra,Pune,Pune,Maize,2014,October,757,2534,1548,1497,2014-10-01,False,True,True,True
+Maharashtra,Pune,Pune,Rice(Paddy-Hus),2014,October,25012,5640,6664,7123,2014-10-01,False,False,True,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,October,12,0,1200,0,2015-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,October,7,0,1625,0,2015-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Harbara(Pendi),2014,October,6,0,1500,0,2014-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2014,October,3579,0,1800,0,2014-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,October,2663,0,1800,0,2015-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2014,October,50,0,4500,0,2014-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,October,64,0,4500,0,2015-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2014,October,75,0,1800,0,2014-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,October,97,0,1800,0,2015-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Green-Peas,2014,October,1,0,10000,0,2014-10-01,True,False,False,True
+Maharashtra,Pune,Pune-Pimpri,Ghevda,2015,October,101,4406,3639,3367,2015-10-01,False,True,True,True
+Maharashtra,Pune,Pune-Pimpri,Tomato,2015,October,510,7892,1783,1587,2015-10-01,False,True,True,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2014,September,18,0,1438,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Hemp,2015,September,10,0,1414,0,2015-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ambat Chuka,2014,September,8,0,1650,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2014,September,9,0,1675,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Goosefoot,2015,September,4,0,1463,0,2015-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Ghosali(Bhaji),2014,September,6,0,4200,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Harbara(Pendi),2015,September,2,0,1200,0,2015-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2014,September,3505,0,1800,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Other Vegetables,2015,September,1712,0,1800,0,2015-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2014,September,51,0,4406,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Curry Leaves,2015,September,36,0,4500,0,2015-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Onion,2014,September,1,0,4500,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Kardai,2015,September,5,0,1350,0,2015-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2014,September,53,0,1800,0,2014-09-01,True,False,False,True
+Maharashtra,Pune,Pune-Manjri,Mint,2015,September,64,0,1800,0,2015-09-01,True,False,False,True
+Maharashtra,Raigad,Pen,Paddy-Unhusked,2015,August,84,1360,1400,2146,2015-08-01,False,False,True,True
+Maharashtra,Raigad,Mangaon(Bhadav),Rice(Paddy-Hus),2014,December,99,1832,3589,4190,2014-12-01,False,False,True,True
+Maharashtra,Raigad,Roha,Paddy-Unhusked,2015,December,7513,1408,1392,1400,2015-12-01,False,True,True,True
+Maharashtra,Raigad,Mangaon(Bhadav),Rice(Paddy-Hus),2015,January,107,1784,3547,4084,2015-01-01,False,False,True,True
+Maharashtra,Raigad,Roha,Paddy-Unhusked,2015,November,2354,1406,1337,1371,2015-11-01,False,True,True,True
+Maharashtra,Raigad,Roha,Paddy-Unhusked,2015,October,42,1400,1320,1360,2015-10-01,False,True,True,True
+Maharashtra,Raigad,Mangaon(Bhadav),Paddy-Unhusked,2014,September,29,1182,1607,2574,2014-09-01,False,False,True,True
+Maharashtra,Raigad,Mangaon(Bhadav),Nagali,2014,September,16,1300,2388,3913,2014-09-01,False,False,True,True
+Maharashtra,Ratnagiri,Ratanagari,French Bean,2015,February,39,3000,2725,3325,2015-02-01,False,True,True,True
+Maharashtra,Sangli,Tasgaon,Maize,2015,January,1262,1295,1301,1191,2015-01-01,False,False,True,True
+Maharashtra,Satara,Satara,Green-Peas,2015,April,84,5000,6029,4700,2015-04-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Bajri,2015,August,22,1400,1500,1600,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Wheat(Husked),2015,August,150,1533,1647,1706,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Sorgum(Jawar),2015,August,2610,2000,2100,2200,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Maize,2015,August,130,1456,1503,1550,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Cowpea,2015,August,25,4400,4500,4600,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Ghevda Seed,2015,August,25,4300,4400,4500,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Gram,2015,August,99,3867,4094,4256,2015-08-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Green Gram,2015,August,394,6578,6861,7111,2015-08-01,False,False,True,True
+Maharashtra,Satara,Karad,Jaggery,2014,December,3093,2808,3270,2800,2014-12-01,False,False,True,True
+Maharashtra,Satara,Satara,Flower,2015,February,1020,650,1067,1138,2015-02-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Bajri,2015,July,31,1400,1467,1533,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Wheat(Husked),2015,July,280,1711,1811,1911,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Sorgum(Jawar),2015,July,2790,1889,2044,2178,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Maize,2015,July,410,1383,1433,1483,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Cowpea,2015,July,9,4400,4500,4600,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Ghevda Seed,2015,July,25,3250,3425,3600,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Gram,2015,July,130,3822,3978,4133,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Green Gram,2015,July,6,4000,4100,4200,2015-07-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Bajri,2015,June,10,1400,1450,1500,2015-06-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Wheat(Husked),2015,June,430,1500,1600,1700,2015-06-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Sorgum(Jawar),2015,June,2940,2013,2113,2213,2015-06-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Maize,2015,June,970,1325,1340,1353,2015-06-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Ghevda Seed,2015,June,60,4500,4663,5000,2015-06-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Gram,2015,June,235,3950,4050,4150,2015-06-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Green Gram,2015,June,10,4100,4200,4300,2015-06-01,False,False,True,True
+Maharashtra,Satara,Karad,Flower,2015,May,78,971,971,1114,2015-05-01,False,False,True,True
+Maharashtra,Satara,Satara,Garlic,2015,May,84,3000,6000,2475,2015-05-01,False,False,True,True
+Maharashtra,Satara,Karad,Potato,2014,November,1026,1620,2180,2300,2014-11-01,False,False,True,True
+Maharashtra,Satara,Satara,Cluster Bean,2014,November,193,3120,3800,5010,2014-11-01,False,False,True,True
+Maharashtra,Satara,Satara,Ghevda,2014,November,22,3813,4313,13625,2014-11-01,False,False,True,True
+Maharashtra,Satara,Satara,Shevga,2014,November,10,5444,6389,5367,2014-11-01,False,False,True,True
+Maharashtra,Satara,Satara,Green-Peas,2014,November,216,4808,6000,4642,2014-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Bajri,2015,November,59,1413,1525,1563,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Wheat(Husked),2015,November,115,1588,1675,1725,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Sorgum(Jawar),2015,November,2590,2050,2263,2300,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Maize,2015,November,2750,1425,1485,1508,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Ghevda Seed,2015,November,60,2960,3220,3480,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Gram,2015,November,59,4500,4581,4625,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Green Gram,2015,November,39,7733,7858,7983,2015-11-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Soybean,2015,November,415,3500,3625,3675,2015-11-01,False,False,True,True
+Maharashtra,Satara,Koregaon,Potato,2015,October,107,1240,950,720,2015-10-01,False,True,True,True
+Maharashtra,Satara,Satara,Ladies Finger,2014,October,138,2253,2242,1892,2014-10-01,False,True,True,True
+Maharashtra,Satara,Vaduj,Bajri,2015,October,245,1400,1458,1517,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Wheat(Husked),2015,October,215,1722,1811,1900,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Sorgum(Jawar),2015,October,2850,2000,2089,2178,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Maize,2015,October,3350,1411,1451,1486,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Cowpea,2015,October,50,4043,4207,4371,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Ghevda Seed,2015,October,930,4256,4472,4678,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Gram,2015,October,102,4467,4578,4689,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Green Gram,2015,October,300,8000,8244,8478,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Soybean,2015,October,1770,3489,3600,3700,2015-10-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Bajri,2015,September,85,1400,1478,1550,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Wheat(Husked),2015,September,270,1500,1550,1600,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Sorgum(Jawar),2015,September,2450,2000,2100,2200,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Maize,2015,September,225,1500,1550,1575,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Cowpea,2015,September,75,4300,4400,4500,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Ghevda Seed,2015,September,1640,4611,4867,5111,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Gram,2015,September,110,4200,4306,4500,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Green Gram,2015,September,1880,7200,7489,7722,2015-09-01,False,False,True,True
+Maharashtra,Satara,Vaduj,Soybean,2015,September,260,3000,3157,3286,2015-09-01,False,False,True,True
+Maharashtra,Solapur,Pandharpur,Banana,2015,April,3210,382,342,271,2015-04-01,False,True,True,True
+Maharashtra,Solapur,Dudhani,Green Gram,2015,August,54,7358,7747,15452,2015-08-01,False,False,True,True
+Maharashtra,Solapur,Kurdwadi,Black Gram,2015,August,4,8400,8100,8250,2015-08-01,False,True,True,True
+Maharashtra,Solapur,Pandharpur,Potato,2015,February,133,1688,1100,950,2015-02-01,False,True,True,True
+Maharashtra,Solapur,Barshi-Vairag,Ground Nut Pods (Dry),2015,January,53,4108,3517,4117,2015-01-01,False,True,True,True
+Maharashtra,Solapur,Pandharpur,Sorgum(Jawar),2015,June,380,1716,1802,1619,2015-06-01,False,False,True,True
+Maharashtra,Solapur,Solapur,Sorgum(Jawar),2015,May,845,2675,2036,1859,2015-05-01,False,True,True,True
+Maharashtra,Solapur,Akluj,Bitter Gourd,2015,September,98,1231,2000,2031,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,April,3,1850,1950,1750,2015-04-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,April,3,2500,2200,2300,2015-04-01,False,True,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,April,3,3500,3400,3500,2015-04-01,False,True,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,April,3,5000,4500,4700,2015-04-01,False,True,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,April,3,2500,2300,2200,2015-04-01,False,True,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,April,3,1200,1000,900,2015-04-01,False,True,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,August,410,1833,1937,1737,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,August,826,3633,3860,3360,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,August,242,2600,2783,2383,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,August,219,5340,5520,5200,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,August,524,3243,3457,3007,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,August,574,4369,4588,4138,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,August,396,5656,5844,5411,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,August,415,2736,2973,2536,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,August,450,2262,2447,2031,2015-08-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2014,December,54,1811,1925,1721,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,December,1302,2220,1614,1464,2015-12-01,False,True,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2014,December,39,3831,4069,3592,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,December,1154,3432,3684,3374,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2014,December,21,1443,1614,1286,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,December,238,3780,4000,3640,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,December,363,4133,4389,4056,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2014,December,42,2943,3164,2729,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2014,December,42,2950,3186,2750,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,December,960,3995,4286,3957,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Cabbage,2015,December,733,2618,2935,2588,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2014,December,30,4160,4410,3740,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,December,468,4427,4718,4391,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2014,December,42,3393,3629,3164,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,December,367,3425,3763,3350,2015-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2014,December,39,2623,2904,2431,2014-12-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,February,15,1850,1910,1730,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,February,15,3460,3640,3220,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,February,12,1500,1600,1325,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,February,15,2080,2240,1980,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,February,15,5240,5420,4920,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,February,15,4720,4900,4540,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,February,15,2820,3020,2580,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,February,15,1780,1960,1660,2015-02-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,January,42,1850,1936,1750,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,January,45,4403,4630,4210,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,January,33,2000,2177,1845,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,January,45,3360,3540,3147,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,January,42,5464,5693,5243,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,January,39,5146,5338,4931,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,January,45,3227,3453,3053,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,January,45,3367,3540,3187,2015-01-01,False,False,True,True
+Maharashtra,Thane,Shahapur,Bitter Gourd,2015,January,304,3695,4270,6000,2015-01-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,July,400,1826,1926,1726,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,July,976,4306,4524,4061,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,July,4586,2411,2622,2189,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,July,214,3271,3486,3086,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,July,557,4363,4581,4194,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,July,752,5433,5611,5233,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,July,507,5850,6050,5650,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,July,7285,2739,2950,2467,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,July,624,2567,2787,2380,2015-07-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,June,646,1800,1909,1718,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,June,1096,3823,3985,3592,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,June,421,2192,2252,1902,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,June,147,2600,2840,2400,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,June,665,3850,4071,3557,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,June,584,5579,5757,5357,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,June,441,5667,5867,5389,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,June,7001,2869,3038,2615,2015-06-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,June,339,3225,3363,3025,2015-06-01,False,False,True,True
+Maharashtra,Thane,Bhivandi,Male Goat,2015,March,15000,2500,2700,3000,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,March,6,1850,1950,1750,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,March,6,2750,2950,2550,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,March,6,1300,1400,1200,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,March,6,1750,1950,1500,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,March,6,4350,4450,4150,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,March,6,3900,4250,3750,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,March,6,2250,2350,2200,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,March,6,950,1050,750,2015-03-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,May,33,1841,1932,1759,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,May,33,3118,3291,2964,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,May,30,2060,2230,1900,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,May,30,5450,5640,5260,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,May,33,5918,6073,5727,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,May,30,3760,3920,3560,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,May,30,2400,2550,2210,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,May,33,2109,2245,1882,2015-05-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2014,November,509,1707,1886,1614,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,November,957,1717,1817,1617,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2014,November,847,3720,3947,3507,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,November,924,3526,3737,3284,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2014,November,381,1157,1307,979,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,November,26,1800,1900,1700,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,November,66,4000,4200,3500,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2014,November,406,2713,2950,2506,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,November,321,2700,2771,2343,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2014,November,387,3244,3431,3013,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,November,933,3604,3804,3361,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Cabbage,2015,November,241,2200,2200,2140,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2014,November,524,4207,4413,3920,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,November,245,3580,3760,3340,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2014,November,663,2800,3013,2619,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,November,272,2667,2817,2400,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2014,November,329,3046,3262,2754,2014-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,November,131,2350,2425,2050,2015-11-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2014,October,684,1678,1900,1611,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,October,613,1850,1950,1750,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2014,October,685,2633,2889,2422,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,October,1127,3587,3787,3339,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2014,October,37,800,1000,700,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,October,402,2475,2650,2260,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,October,580,3957,4093,3664,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2014,October,292,1400,1533,1217,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,October,481,3333,3517,3058,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2014,October,270,1886,2114,1743,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,October,1025,3172,3352,2932,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Cabbage,2015,October,350,1856,2033,1611,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2014,October,118,2500,2700,2300,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,October,755,3793,3987,3560,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2014,October,445,1838,2025,1650,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,October,692,2187,2333,1987,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2014,October,238,1500,1700,1325,2014-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,October,633,2000,2164,1779,2015-10-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2014,September,154,1700,1867,1600,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Paddy-Unhusked,2015,September,208,1844,1944,1744,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2014,September,267,3600,3800,3267,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ladies Finger,2015,September,232,2350,2583,2183,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2014,September,67,1400,1633,1200,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bottle Gourd,2015,September,116,1867,1967,1667,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghevda,2015,September,82,3250,3450,3050,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2014,September,207,1980,2160,1800,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Ghosali(Bhaji),2015,September,242,1351,1564,1176,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2014,September,220,2700,3040,2520,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Bitter Gourd,2015,September,298,2186,2386,2000,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2014,September,96,2250,2500,2050,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Capsicum,2015,September,160,3250,3425,3050,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2014,September,292,2900,3160,2720,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Tomato,2015,September,243,2260,2440,1980,2015-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2014,September,127,2233,2433,2033,2014-09-01,False,False,True,True
+Maharashtra,Thane,Murbad,Brinjal,2015,September,181,1420,1620,1260,2015-09-01,False,False,True,True
+Maharashtra,Wardha,Ashti-Karanja,Soybean,2015,October,528,3588,3398,3485,2015-10-01,False,True,True,True
+Maharashtra,Wasim,Malegaon (Washim),Pigeon Pea (Tur),2015,April,20101,5587,5908,6156,2015-04-01,False,False,True,True
+Maharashtra,Wasim,Malegaon (Washim),Soybean,2015,October,81150,4846,3801,3669,2015-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2015,April,539,1534,842,356,2015-04-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2015,April,536,3425,2455,2396,2015-04-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2015,April,1,7150,0,0,2015-04-01,True,True,True,True
+Maharashtra,Yewatmal,Ghatanji,Gram,2015,April,438,3357,3424,3207,2015-04-01,False,False,True,True
+Maharashtra,Yewatmal,Ghatanji,Soybean,2015,April,5,3250,3150,3100,2015-04-01,False,True,True,True
+Maharashtra,Yewatmal,Maregaon,Cotton,2015,August,900,4050,4100,4000,2015-08-01,False,False,True,True
+Maharashtra,Yewatmal,Umarkhed-Danki,Sorgum(Jawar),2015,August,300,2700,1500,1450,2015-08-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Bajri,2014,December,2,1798,0,0,2014-12-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2014,December,340,1329,469,376,2014-12-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2014,December,414,1387,317,310,2014-12-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2014,December,137,1949,1305,1249,2014-12-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Green Gram,2014,December,2,5250,0,0,2014-12-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Pigeon Pea (Tur),2014,December,134,4492,2753,2697,2014-12-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Black Gram,2014,December,2,4403,0,0,2014-12-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2014,December,6,9419,2438,2388,2014-12-01,False,True,True,True
+Maharashtra,Yewatmal,Ner Parasopant,Wheat(Husked),2014,December,4,1400,1500,1600,2014-12-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2015,February,165,1578,320,291,2015-02-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2015,February,35,1499,0,0,2015-02-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2015,February,55,2819,342,335,2015-02-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2015,February,820,2995,2782,2714,2015-02-01,False,True,True,True
+Maharashtra,Yewatmal,Darwha,Soybean,2015,January,36,3225,3150,3000,2015-01-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Bajri,2015,January,23,1708,0,0,2015-01-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2015,January,134,1452,117,111,2015-01-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2015,January,90,1368,159,156,2015-01-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Rice(Paddy-Hus),2015,January,1,1350,0,0,2015-01-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2015,January,44,3758,195,179,2015-01-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Spilt Pigeon Pea,2015,January,1,6000,0,0,2015-01-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2015,January,1389,3000,3014,2950,2015-01-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2015,January,7,8329,0,0,2015-01-01,True,True,True,True
+Maharashtra,Yewatmal,Umarkhed-Danki,Soybean,2015,January,2200,2956,3178,3183,2015-01-01,False,False,True,True
+Maharashtra,Yewatmal,Yeotmal,Wheat(Husked),2015,July,539,1453,1485,1505,2015-07-01,False,False,True,True
+Maharashtra,Yewatmal,Yeotmal,Gram,2015,July,1075,3680,4100,4121,2015-07-01,False,False,True,True
+Maharashtra,Yewatmal,Yeotmal,Green Gram,2015,July,14,5333,5339,5471,2015-07-01,False,False,True,True
+Maharashtra,Yewatmal,Yeotmal,Pigeon Pea (Tur),2015,July,817,6723,7196,7227,2015-07-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2015,June,761,1439,1434,1242,2015-06-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2015,June,193,1533,181,181,2015-06-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2015,June,280,3900,3447,3019,2015-06-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Green Gram,2015,June,9,5783,2390,2378,2015-06-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Pigeon Pea (Tur),2015,June,383,6562,7009,6558,2015-06-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Black Gram,2015,June,1,6100,0,0,2015-06-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2015,June,871,3133,3134,3074,2015-06-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2015,June,6,6326,0,0,2015-06-01,True,True,True,True
+Maharashtra,Yewatmal,Yeotmal,Sorgum(Jawar),2015,June,184,1489,1482,1488,2015-06-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Bajri,2015,March,10,1568,0,0,2015-03-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2015,March,1070,1428,1246,1168,2015-03-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2015,March,89,1495,0,0,2015-03-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2015,March,580,2894,2695,2620,2015-03-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2015,May,1156,1450,1224,1145,2015-05-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2015,May,436,1531,258,86,2015-05-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Green Gram,2015,May,1,6950,0,0,2015-05-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Black Gram,2015,May,1,5750,0,0,2015-05-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2015,May,460,3629,2706,2642,2015-05-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2015,May,5,6518,0,0,2015-05-01,True,True,True,True
+Maharashtra,Yewatmal,Ghatanji,Gram,2015,May,95,4371,4264,4147,2015-05-01,False,True,True,True
+Maharashtra,Yewatmal,Ghatanji,Ground Nut Pods (Dry),2015,May,3035,4825,4721,4621,2015-05-01,False,True,True,True
+Maharashtra,Yewatmal,Umarkhed,Gram,2015,May,1700,4025,4125,3950,2015-05-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Cotton,2014,November,1816,3845,3427,3125,2014-11-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Bajri,2014,November,5,1933,0,0,2014-11-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2014,November,592,1439,1482,1195,2014-11-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2014,November,433,1398,1133,897,2014-11-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Batbati,2014,November,1,1500,0,0,2014-11-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2014,November,357,2265,2160,2052,2014-11-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Green Gram,2014,November,4,7435,0,0,2014-11-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Pigeon Pea (Tur),2014,November,49,4625,635,625,2014-11-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Black Gram,2014,November,5,4000,1450,1317,2014-11-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2014,November,2,9250,0,0,2014-11-01,True,True,True,True
+Maharashtra,Yewatmal,Darwha,Cotton,2015,October,425,3850,3750,3650,2015-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Bajri,2014,October,2,1645,0,0,2014-10-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2014,October,596,1425,1058,458,2014-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2014,October,5,1530,0,0,2014-10-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2014,October,187,2041,2122,1654,2014-10-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Green Gram,2014,October,11,5267,1700,1617,2014-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Pigeon Pea (Tur),2014,October,43,4558,2716,1622,2014-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Black Gram,2014,October,16,4141,1236,579,2014-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2014,October,2,9200,0,0,2014-10-01,True,True,True,True
+Maharashtra,Yewatmal,Ghatanji,Cotton,2015,October,20593,4120,3969,4052,2015-10-01,False,True,True,True
+Maharashtra,Yewatmal,Ghatanji,Soybean,2015,October,6231,3642,3351,3491,2015-10-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Wheat(Husked),2014,September,488,1502,1315,572,2014-09-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sorgum(Jawar),2014,September,17,1542,0,0,2014-09-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Rice(Paddy-Hus),2014,September,1,1200,0,0,2014-09-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Gram,2014,September,188,2223,2410,1615,2014-09-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Green Gram,2014,September,11,5117,0,0,2014-09-01,True,True,True,True
+Maharashtra,Yewatmal,Digras,Pigeon Pea (Tur),2014,September,148,4495,4818,4338,2014-09-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Black Gram,2015,September,18,7239,7574,6553,2015-09-01,False,False,True,True
+Maharashtra,Yewatmal,Digras,Soybean,2014,September,63,3176,1797,1170,2014-09-01,False,True,True,True
+Maharashtra,Yewatmal,Digras,Sesamum,2014,September,2,7850,0,0,2014-09-01,True,True,True,True
+Maharashtra,Yewatmal,Pusad,Gram,2015,September,253,3993,4281,4308,2015-09-01,False,False,True,True
+Maharashtra,Yewatmal,Pusad,Soybean,2015,September,2413,3045,3167,3257,2015-09-01,False,False,True,True
