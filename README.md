@@ -238,3 +238,12 @@ Agricultural_Price_Analysis/
 - Investigate data drift over time.
 - Improve and deploy the Streamlit application.
 - Publish and maintain Tableau dashboard access.
+
+## Streamlit Dashboard Preview
+
+The interactive Streamlit dashboard allows users to explore agricultural price trends and model predictions.
+
+![Streamlit Dashboard](docs/images/streamlit_dashboard.png)
+
+Run locally: streamlit run streamlit_app/app.py
+
